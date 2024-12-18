@@ -6,17 +6,13 @@ months = [f"{m:02d}" for m in range(1, 13)]
 
 # https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-01.parquet
 initialPath = "https://d37ci6vzurychx.cloudfront.net/trip-data/"
-outputFile = "links.txt"
 
-with open(outputFile, "w") as file:
-    for taxiType in taxiTypes:
-        catPath = initialPath + taxiType + "_tripdata_20"
-        # print(catPath)
-        for year in years:
-            yearPath = catPath + year + "-"
-            # print(yearPath)
+for year in years:
+    outputFile = "20" + year + "_links.txt"
+    with open(outputFile, "w") as file:
+        for taxiType in taxiTypes:
+            tempPath = initialPath + taxiType + "_tripdata_20" + year + "-"
             for month in months:
-                monthPath = yearPath + month + ".parquet"
-                file.write(monthPath + "\n")
-
-print("Saved links to " + outputFile)
+                finalPath = tempPath + month + ".parquet"
+                file.write(finalPath + "\n")
+    print("Saved links for 20" + year + " to " + outputFile)
