@@ -6,7 +6,7 @@ import subprocess
 spark = SparkSession.builder.appName("process_files").getOrCreate()
 
 input_dir = "hdfs:/user/s2645963/project/data/2023/"
-processed_dir = "hdfs:/user/s2779323/project/processed_data/2023/"         #pas deze aan :)
+processed_dir = "hdfs:/user/s2645963/project/processed_data/2023/"         #pas deze aan :)
 
 try:
     hdfs_ls = subprocess.check_output(["hdfs", "dfs", "-ls", input_dir], text=True)
@@ -17,11 +17,12 @@ except Exception as e:
     print(e)
     files = []
 
-#doe de pulocation vervangen door pulocation met .withcollumn maar force die longtype te zijn
+#doe de PULocationID / DOLocationID type vervangen door long met .withcollumn
 for file in files:
     try:
         df = spark.read.parquet(file)
-        df1 = df.withColumn("PULocationID", col("PULocationID").cast(LongType()))
+        df1 = df.withColumn("PULocationID", col("PULocationID").cast(LongType())) \
+                .withColumn("DOLocationID", col("DOLocationID").cast(LongType()))
 
         output = processed_dir + file.split("/")[-1]
         df1.write.mode("overwrite").parquet(output)
