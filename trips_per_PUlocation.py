@@ -61,6 +61,6 @@ for year in years:
 
     # Write the dataframe to csv on HDFS
     output = "/user/s2645963/project/output/" + "Trips_per_PULocationID/" + current_year
-    df_print.write.mode("overwrite").csv(output)
+    df_print.write.mode("overwrite").option("header", True).csv(output)
     print("Saved output for the year " + current_year + " to file path " + output)
 
