@@ -5,8 +5,8 @@ import subprocess
 
 spark = SparkSession.builder.appName("process_files").getOrCreate()
 
-input_dir = "hdfs:/user/s2645963/project/data/2023/"
-processed_dir = "hdfs:/user/s2645963/project/processed_data/2023/"         #pas deze aan :)
+input_dir = "hdfs:/user/s2645963/project/data/2019/"
+processed_dir = "hdfs:/user/s2645963/project/processed_data/2019/"         #pas deze aan :)
 
 try:
     hdfs_ls = subprocess.check_output(["hdfs", "dfs", "-ls", input_dir], text=True)
