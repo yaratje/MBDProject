@@ -1,0 +1,424 @@
+Zone,matched_demographic_region,PULocationID,TimeFrame,Data,match_score,PULocationID,Borough,Zone,fhv_trips,fhvhv_trips,green_trips,yellow_trips
+allerton/pelham gardens,pelham parkway,3,2019.0,125155.0,86.0,3,Bronx,allerton/pelham gardens,42514,434962,6854,2426
+astoria,astoria,7,2019.0,166069.0,100.0,7,Queens,astoria,268194,2284990,250356,119932
+astoria park,astoria,8,2019.0,166069.0,90.0,8,Queens,astoria park,1203,9059,105,1162
+baisley park,battery park/tribeca,10,2019.0,66437.96901,86.0,10,Queens,baisley park,55228,632352,9040,32707
+battery park,battery park/tribeca,12,2019.0,66437.96901,90.0,12,Manhattan,battery park,4256,39074,22,37004
+battery park city,park slope,13,2019.0,114043.0,86.0,13,Manhattan,battery park city,143552,1248718,115,738874
+bay ridge,bay ridge,14,2019.0,121925.0,100.0,14,Brooklyn,bay ridge,106173,1176998,20438,9025
+bay terrace/fort totten,bay ridge,15,2019.0,121925.0,86.0,15,Queens,bay terrace/fort totten,36253,143136,2214,1737
+bayside,bayside,16,2019.0,114562.0,100.0,16,Queens,bayside,56883,461406,4854,2769
+bedford,bedford park,17,2019.0,151684.0,90.0,17,Brooklyn,bedford,187134,2071716,41662,16853
+bedford park,bedford park,18,2019.0,151684.0,100.0,18,Bronx,bedford park,100294,1024049,12673,3318
+bensonhurst east,bensonhurst,21,2019.0,186959.0,95.0,21,Brooklyn,bensonhurst east,57899,555697,8927,3691
+bensonhurst west,bensonhurst,22,2019.0,186959.0,95.0,22,Brooklyn,bensonhurst west,71223,733614,10972,4553
+boerum hill,murray hill/stuyvesant,25,2019.0,148482.0,86.0,25,Brooklyn,boerum hill,126292,1312069,117015,73460
+borough park,borough park,26,2019.0,153470.0,100.0,26,Brooklyn,borough park,102890,1065609,15046,7173
+breezy point/fort tilden/riis beach,hunts point,27,2019.0,53365.84532,86.0,27,Queens,breezy point/fort tilden/riis beach,649,18477,189,168
+bronx park,bronx,31,2019.0,1418207.0,90.0,31,Bronx,bronx park,12047,93036,2351,619
+bronxdale,bronx,32,2019.0,1418207.0,90.0,32,Bronx,bronxdale,50181,512639,9164,3248
+brooklyn heights,brooklyn,33,2019.0,2559903.0,90.0,33,Brooklyn,brooklyn heights,108465,1165374,146314,84487
+brooklyn navy yard,brooklyn,34,2019.0,2559903.0,90.0,34,Brooklyn,brooklyn navy yard,16880,191234,2081,1960
+brownsville,brownsville,35,2019.0,128369.0,100.0,35,Brooklyn,brownsville,114400,1281724,26012,10946
+bushwick north,bushwick,36,2019.0,127550.0,90.0,36,Brooklyn,bushwick north,200579,1950479,15110,7955
+bushwick south,bushwick,37,2019.0,127550.0,90.0,37,Brooklyn,bushwick south,236764,2575964,18072,15533
+canarsie,canarsie,39,2019.0,196895.0,100.0,39,Brooklyn,canarsie,146173,1610372,26058,11762
+central harlem,central harlem,41,2019.0,136351.0,100.0,41,Manhattan,central harlem,148752,1585162,341774,322815
+central harlem north,central harlem,42,2019.0,136351.0,95.0,42,Manhattan,central harlem north,196041,2052716,211286,145211
+central park,battery park/tribeca,43,2019.0,66437.96901,86.0,43,Manhattan,central park,76094,422747,64220,1313080
+charleston/tottenville,tottenville,44,2019.0,161358.0,90.0,44,Staten Island,charleston/tottenville,15693,66190,25,397
+clinton hill,murray hill/stuyvesant,49,2019.0,148482.0,86.0,49,Brooklyn,clinton hill,145158,1556548,52384,21348
+cobble hill,murray hill/stuyvesant,52,2019.0,148482.0,86.0,52,Brooklyn,cobble hill,32567,350809,52436,42591
+coney island,coney island,55,2019.0,115277.0,100.0,55,Brooklyn,coney island,47213,440761,26044,4074
+corona,elmhurst/corona,56,2019.0,156074.0,90.0,56,Queens,corona,134033,620094,16006,8559
+corona,elmhurst/corona,57,2019.0,156074.0,90.0,57,Queens,corona,5922,49978,909,293
+crotona park,battery park/tribeca,59,2019.0,66437.96901,86.0,59,Bronx,crotona park,3569,31611,510,209
+crotona park east,east harlem,60,2019.0,111452.0,86.0,60,Bronx,crotona park east,47608,486979,6440,2195
+crown heights north,crown heights north,61,2019.0,128327.0,100.0,61,Brooklyn,crown heights north,321523,3357869,66409,25251
+crown heights south,crown heights south,62,2019.0,106258.0,100.0,62,Brooklyn,crown heights south,85765,887772,17999,7912
+cypress hills,rego park/forest hills,63,2019.0,105586.0,86.0,63,Brooklyn,cypress hills,55774,656530,6220,3546
+downtown brooklyn/metrotech,brooklyn,65,2019.0,2559903.0,90.0,65,Brooklyn,downtown brooklyn/metrotech,101074,1203438,137843,100031
+east concourse/concourse village,greenwich village,69,2019.0,98076.03099,86.0,69,Bronx,east concourse/concourse village,141669,1205261,27095,9688
+east flushing,flushing,73,2019.0,239869.0,90.0,73,Queens,east flushing,38096,236933,1861,676
+east harlem north,east harlem,74,2019.0,111452.0,90.0,74,Manhattan,east harlem north,165358,1694788,468595,328911
+east harlem south,east harlem,75,2019.0,111452.0,90.0,75,Manhattan,east harlem south,166316,1453221,377766,622175
+east new york,east new york,76,2019.0,180811.0,100.0,76,Brooklyn,east new york,178985,2093773,41656,19623
+east new york/pennsylvania avenue,east new york,77,2019.0,180811.0,90.0,77,Brooklyn,east new york/pennsylvania avenue,54543,594451,10362,4263
+east tremont,east tremont,78,2019.0,88324.45096,100.0,78,Bronx,east tremont,94899,884432,12885,4295
+east williamsburg,east harlem,80,2019.0,111452.0,86.0,80,Brooklyn,east williamsburg,160543,2055863,32426,28516
+elmhurst,elmhurst/corona,82,2019.0,156074.0,90.0,82,Queens,elmhurst,179717,1518698,267045,27404
+eltingville/annadale/prince's bay,bay ridge,84,2019.0,121925.0,86.0,84,Staten Island,eltingville/annadale/prince's bay,13533,87477,30,58
+financial district south,south beach,88,2019.0,138590.0,86.0,88,Manhattan,financial district south,65961,606126,240,322010
+flatbush/ditmas park,bedford park,89,2019.0,151684.0,86.0,89,Brooklyn,flatbush/ditmas park,161747,1863148,31405,17435
+flushing,flushing,92,2019.0,239869.0,100.0,92,Queens,flushing,201025,1103231,50896,6883
+flushing meadows-corona park,flushing,93,2019.0,239869.0,90.0,93,Queens,flushing meadows-corona park,10027,160070,16102,24082
+forest hills,rego park/forest hills,95,2019.0,105586.0,90.0,95,Queens,forest hills,129031,1329599,182178,16698
+forest park/highland park,bedford park,96,2019.0,151684.0,86.0,96,Queens,forest park/highland park,3767,29312,563,623
+fort greene,fort greene/brooklyn hts,97,2019.0,133346.0,90.0,97,Brooklyn,fort greene,152662,1653143,168486,68402
+freshkills park,park slope,99,2019.0,114043.0,86.0,99,Staten Island,freshkills park,918,5263,5,37
+garment district,midtown business district,100,2019.0,55799.68867,86.0,100,Manhattan,garment district,176155,1535202,298,1727069
+glendale,ridgewood/glendale,102,2019.0,165895.0,90.0,102,Queens,glendale,67370,513503,4750,2440
+governor's island/ellis island/liberty island,coney island,105,2019.0,115277.0,86.0,105,Manhattan,governor's island/ellis island/liberty island,23,65,1,118
+greenwich village north,greenwich village,113,2019.0,98076.03099,95.0,113,Manhattan,greenwich village north,156572,1727813,250,1278135
+greenwich village south,greenwich village,114,2019.0,98076.03099,95.0,114,Manhattan,greenwich village south,156404,1623273,88,1067554
+heartland village/todt hill,greenwich village,118,2019.0,98076.03099,86.0,118,Staten Island,heartland village/todt hill,23052,208914,109,406
+highbridge,concourse/highbridge,119,2019.0,140906.0,90.0,119,Bronx,highbridge,83119,808319,12303,5157
+highbridge park,park slope,120,2019.0,114043.0,86.0,120,Manhattan,highbridge park,8163,21874,724,536
+howard beach,howard beach,124,2019.0,118568.0,100.0,124,Queens,howard beach,22375,267762,3661,3569
+hunts point,hunts point,126,2019.0,53365.84532,100.0,126,Bronx,hunts point,54238,608626,7476,2454
+inwood hill park,park slope,128,2019.0,114043.0,86.0,128,Manhattan,inwood hill park,5439,53088,1077,818
+jackson heights,jackson heights,129,2019.0,175275.0,100.0,129,Queens,jackson heights,239990,1727841,157669,43858
+kips bay,sheepshead bay,137,2019.0,147401.0,86.0,137,Manhattan,kips bay,191370,1613054,1359,999892
+lincoln square east,east harlem,142,2019.0,111452.0,86.0,142,Manhattan,lincoln square east,174285,1782875,369,2534595
+long island city/hunters point,hunts point,145,2019.0,53365.84532,86.0,145,Queens,long island city/hunters point,140273,1562357,53666,108529
+long island city/queens plaza,queens,146,2019.0,2253858.0,90.0,146,Queens,long island city/queens plaza,61943,602956,28213,75691
+lower east side,lower east side,148,2019.0,167128.0,100.0,148,Manhattan,lower east side,248540,2718879,191,1034964
+manhattan beach,manhattan,150,2019.0,1628706.0,90.0,150,Brooklyn,manhattan beach,28614,288166,5582,1707
+manhattan valley,manhattan,151,2019.0,1628706.0,90.0,151,Manhattan,manhattan valley,84758,822026,701,740070
+manhattanville,manhattanville,152,2019.0,132837.0,100.0,152,Manhattan,manhattanville,57572,557132,45774,83986
+marble hill,murray hill/stuyvesant,153,2019.0,148482.0,86.0,153,Manhattan,marble hill,14721,218057,2956,1911
+marine park/floyd bennett field,battery park/tribeca,154,2019.0,66437.96901,86.0,154,Brooklyn,marine park/floyd bennett field,1991,25814,530,586
+marine park/mill basin,bedford park,155,2019.0,151684.0,86.0,155,Brooklyn,marine park/mill basin,57059,640898,13224,5356
+meatpacking/west village west,greenwich village,158,2019.0,98076.03099,86.0,158,Manhattan,meatpacking/west village west,146024,1613667,29,846204
+midtown center,midtown business district,161,2019.0,55799.68867,86.0,161,Manhattan,midtown center,372217,2956387,387,3453114
+midtown east,midtown business district,162,2019.0,55799.68867,86.0,162,Manhattan,midtown east,267553,2332131,344,3048719
+midtown north,midtown business district,163,2019.0,55799.68867,86.0,163,Manhattan,midtown north,189065,1896566,245,2259860
+midtown south,midtown business district,164,2019.0,55799.68867,86.0,164,Manhattan,midtown south,242735,2558102,281,1963653
+midwood,flatbush/midwood,165,2019.0,156866.0,90.0,165,Brooklyn,midwood,69800,668288,14738,6510
+morrisania/melrose,morrisania,167,2019.0,84605.54904,90.0,167,Bronx,morrisania/melrose,89706,802828,12192,4256
+mott haven/port morris,mott haven,168,2019.0,93458.15468,90.0,168,Bronx,mott haven/port morris,128468,1184906,23668,20186
+murray hill,murray hill/stuyvesant,170,2019.0,148482.0,90.0,170,Manhattan,murray hill,261846,2596247,946,2607781
+murray hill-queens,queens,171,2019.0,2253858.0,90.0,171,Queens,murray hill-queens,67744,433010,4830,2686
+new dorp/midland beach,east new york,172,2019.0,180811.0,86.0,172,Staten Island,new dorp/midland beach,12360,105687,60,71
+north corona,crown heights north,173,2019.0,128327.0,86.0,173,Queens,north corona,117946,486208,17085,3687
+ocean hill,murray hill/stuyvesant,177,2019.0,148482.0,86.0,177,Brooklyn,ocean hill,88592,964321,15968,6753
+ocean parkway south,south beach,178,2019.0,138590.0,86.0,178,Brooklyn,ocean parkway south,22626,247485,3665,1810
+old astoria,astoria,179,2019.0,166069.0,90.0,179,Queens,old astoria,110809,755998,38032,43642
+ozone park,battery park/tribeca,180,2019.0,66437.96901,86.0,180,Queens,ozone park,26562,332194,2124,2183
+park slope,park slope,181,2019.0,114043.0,100.0,181,Brooklyn,park slope,235912,2407999,117060,68533
+pelham bay park,park slope,184,2019.0,114043.0,86.0,184,Bronx,pelham bay park,5687,43634,515,260
+pelham parkway,pelham parkway,185,2019.0,125155.0,100.0,185,Bronx,pelham parkway,65054,619082,10120,2753
+penn station/madison sq west,upper west side,186,2019.0,179682.0,86.0,186,Manhattan,penn station/madison sq west,151326,1959046,322,3029489
+prospect park,battery park/tribeca,190,2019.0,66437.96901,86.0,190,Brooklyn,prospect park,14287,178566,5178,3557
+queens village,queens village,191,2019.0,200660.0,100.0,191,Queens,queens village,42584,489462,9336,5123
+queensboro hill,queens,192,2019.0,2253858.0,90.0,192,Queens,queensboro hill,43753,288646,5607,1653
+queensbridge/ravenswood,queens,193,2019.0,2253858.0,90.0,193,Queens,queensbridge/ravenswood,43535,283372,23684,63842
+rego park,rego park/forest hills,196,2019.0,105586.0,90.0,196,Queens,rego park,57431,510714,52533,9639
+richmond hill,murray hill/stuyvesant,197,2019.0,148482.0,86.0,197,Queens,richmond hill,70230,835592,16977,9297
+ridgewood,ridgewood/glendale,198,2019.0,165895.0,90.0,198,Queens,ridgewood,197140,1316809,5820,4106
+riverdale/north riverdale/fieldston,riverdale,200,2019.0,104149.0,90.0,200,Bronx,riverdale/north riverdale/fieldston,36980,391415,6126,2838
+saint albans,jamaica/st. albans,205,2019.0,241275.0,86.0,205,Queens,saint albans,61978,721524,16145,8894
+saint george/new brighton,east new york,206,2019.0,180811.0,86.0,206,Staten Island,saint george/new brighton,87545,364752,487,330
+saint michaels cemetery/woodside,sunnyside/woodside,207,2019.0,136058.0,86.0,207,Queens,saint michaels cemetery/woodside,526,17924,757,4912
+schuylerville/edgewater park,bedford park,208,2019.0,151684.0,86.0,208,Bronx,schuylerville/edgewater park,53473,610296,7847,2977
+sheepshead bay,sheepshead bay,210,2019.0,147401.0,100.0,210,Brooklyn,sheepshead bay,67583,682463,30733,5291
+south beach/dongan hills,south beach,214,2019.0,138590.0,90.0,214,Staten Island,south beach/dongan hills,18593,137147,118,240
+south ozone park,park slope,216,2019.0,114043.0,86.0,216,Queens,south ozone park,97285,1155682,11390,16330
+south williamsburg,south beach,217,2019.0,138590.0,86.0,217,Brooklyn,south williamsburg,33090,332323,4819,5983
+springfield gardens south,south beach,219,2019.0,138590.0,86.0,219,Queens,springfield gardens south,30445,354698,3432,9610
+stuy town/peter cooper village,greenwich village,224,2019.0,98076.03099,86.0,224,Manhattan,stuy town/peter cooper village,61090,677745,229,164878
+sunnyside,sunnyside/woodside,226,2019.0,136058.0,90.0,226,Queens,sunnyside,134177,1345587,44931,124512
+sunset park east,sunset park,227,2019.0,130783.0,95.0,227,Brooklyn,sunset park east,58310,497088,6776,3211
+sunset park west,sunset park,228,2019.0,130783.0,95.0,228,Brooklyn,sunset park west,84660,976568,11646,8243
+sutton place/turtle bay north,crown heights north,229,2019.0,128327.0,86.0,229,Manhattan,sutton place/turtle bay north,190697,1684079,356,1590546
+two bridges/seward park,bedford park,232,2019.0,151684.0,86.0,232,Manhattan,two bridges/seward park,116548,1148160,755,122406
+un/turtle bay south,bay ridge,233,2019.0,121925.0,86.0,233,Manhattan,un/turtle bay south,174182,1533837,341,1100811
+university heights/morris heights,university heights,235,2019.0,138209.0,90.0,235,Bronx,university heights/morris heights,105557,1064266,15893,6377
+upper east side north,upper east side,236,2019.0,216874.0,95.0,236,Manhattan,upper east side north,203313,1955678,13392,3293443
+upper east side south,upper east side,237,2019.0,216874.0,95.0,237,Manhattan,upper east side south,222297,2057854,484,3643691
+upper west side north,upper west side,238,2019.0,179682.0,95.0,238,Manhattan,upper west side north,169896,1552500,868,1665383
+upper west side south,upper west side,239,2019.0,179682.0,95.0,239,Manhattan,upper west side south,174604,1792408,308,2185003
+van cortlandt park,bedford park,240,2019.0,151684.0,86.0,240,Bronx,van cortlandt park,16321,123560,1425,631
+van cortlandt village,queens village,241,2019.0,200660.0,86.0,241,Bronx,van cortlandt village,76408,882172,8897,3257
+van nest/morris park,bedford park,242,2019.0,151684.0,86.0,242,Bronx,van nest/morris park,99892,793367,27736,5704
+washington heights north,washington heights,243,2019.0,204096.0,95.0,243,Manhattan,washington heights north,117614,1286964,32739,16243
+washington heights south,washington heights,244,2019.0,204096.0,95.0,244,Manhattan,washington heights south,174464,1857401,155582,93579
+west chelsea/hudson yards,chelsea/clinton,246,2019.0,111490.3113,86.0,246,Manhattan,west chelsea/hudson yards,243906,2552153,160,1384492
+west farms/bronx river,bronx,248,2019.0,1418207.0,90.0,248,Bronx,west farms/bronx river,49930,527009,7687,2777
+westchester village/unionport,greenwich village,250,2019.0,98076.03099,86.0,250,Bronx,westchester village/unionport,45609,484119,10913,3750
+williamsbridge/olinville,williamsbridge,254,2019.0,149128.0,90.0,254,Bronx,williamsbridge/olinville,95198,920037,16772,5804
+williamsburg (north side),lower east side,255,2019.0,167128.0,86.0,255,Brooklyn,williamsburg (north side),209187,2611137,79654,61578
+williamsburg (south side),lower east side,256,2019.0,167128.0,86.0,256,Brooklyn,williamsburg (south side),169348,2078935,30187,49631
+woodhaven,woodhaven,258,2019.0,143756.0,100.0,258,Queens,woodhaven,54602,628227,5858,3628
+woodside,sunnyside/woodside,260,2019.0,136058.0,90.0,260,Queens,woodside,95468,905480,125792,43364
+allerton/pelham gardens,pelham parkway,3,2021.0,137755.0,86.0,3,Bronx,allerton/pelham gardens,6263,404807,1827,1705
+astoria,astoria,7,2021.0,156981.0,100.0,7,Queens,astoria,46342,1725116,22109,27607
+astoria park,astoria,8,2021.0,156981.0,90.0,8,Queens,astoria park,228,7231,56,225
+baisley park,battery park/tribeca,10,2021.0,59230.56761,86.0,10,Queens,baisley park,5864,637751,3321,9894
+battery park,battery park/tribeca,12,2021.0,59230.56761,90.0,12,Manhattan,battery park,114,20631,3,10310
+battery park city,park slope,13,2021.0,117511.0,86.0,13,Manhattan,battery park city,5933,776229,62,161027
+bay ridge,bay ridge,14,2021.0,111952.0,100.0,14,Brooklyn,bay ridge,10314,946961,4648,4646
+bay terrace/fort totten,bay ridge,15,2021.0,111952.0,86.0,15,Queens,bay terrace/fort totten,16824,109602,346,953
+bayside,bayside,16,2021.0,121130.0,100.0,16,Queens,bayside,14288,317255,709,1812
+bedford,bedford park,17,2021.0,130407.0,90.0,17,Brooklyn,bedford,8122,1620382,6921,8718
+bedford park,bedford park,18,2021.0,130407.0,100.0,18,Bronx,bedford park,10208,895273,3162,3000
+bensonhurst east,bensonhurst,21,2021.0,206519.0,95.0,21,Brooklyn,bensonhurst east,13387,455328,1633,1820
+bensonhurst west,bensonhurst,22,2021.0,206519.0,95.0,22,Brooklyn,bensonhurst west,11661,607951,2365,2851
+boerum hill,murray hill/stuyvesant,25,2021.0,144396.0,86.0,25,Brooklyn,boerum hill,6250,931128,11249,16937
+borough park,borough park,26,2021.0,172253.0,100.0,26,Brooklyn,borough park,11616,872873,3123,3797
+breezy point/fort tilden/riis beach,hunts point,27,2021.0,57993.5216,86.0,27,Queens,breezy point/fort tilden/riis beach,378,14662,38,78
+bronx park,bronx,31,2021.0,1424948.0,90.0,31,Bronx,bronx park,962,87851,395,566
+bronxdale,bronx,32,2021.0,1424948.0,90.0,32,Bronx,bronxdale,6736,500719,2361,2313
+brooklyn heights,brooklyn,33,2021.0,2641052.0,90.0,33,Brooklyn,brooklyn heights,6677,806136,13114,20528
+brooklyn navy yard,brooklyn,34,2021.0,2641052.0,90.0,34,Brooklyn,brooklyn navy yard,155,143790,348,748
+brownsville,brownsville,35,2021.0,123956.0,100.0,35,Brooklyn,brownsville,14875,1300638,6523,8240
+bushwick north,bushwick,36,2021.0,114694.0,90.0,36,Brooklyn,bushwick north,4297,1346555,1754,4049
+bushwick south,bushwick,37,2021.0,114694.0,90.0,37,Brooklyn,bushwick south,9901,2062198,3308,7821
+canarsie,canarsie,39,2021.0,196219.0,100.0,39,Brooklyn,canarsie,26617,1499760,6567,8394
+central harlem,central harlem,41,2021.0,128792.0,100.0,41,Manhattan,central harlem,7614,1224140,58946,145455
+central harlem north,central harlem,42,2021.0,128792.0,95.0,42,Manhattan,central harlem north,18386,1793453,39869,66955
+central park,battery park/tribeca,43,2021.0,59230.56761,86.0,43,Manhattan,central park,1866,285370,17641,557238
+charleston/tottenville,tottenville,44,2021.0,169906.0,90.0,44,Staten Island,charleston/tottenville,7726,64072,81,1337
+clinton hill,murray hill/stuyvesant,49,2021.0,144396.0,86.0,49,Brooklyn,clinton hill,5465,1058960,6315,7803
+cobble hill,murray hill/stuyvesant,52,2021.0,144396.0,86.0,52,Brooklyn,cobble hill,1355,247385,5438,8204
+coney island,coney island,55,2021.0,120401.0,100.0,55,Brooklyn,coney island,26699,474770,5864,4981
+corona,elmhurst/corona,56,2021.0,137364.0,90.0,56,Queens,corona,48700,542828,2854,3031
+corona,elmhurst/corona,57,2021.0,137364.0,90.0,57,Queens,corona,2845,39502,291,381
+crotona park,battery park/tribeca,59,2021.0,59230.56761,86.0,59,Bronx,crotona park,242,26193,99,105
+crotona park east,east harlem,60,2021.0,123582.0,86.0,60,Bronx,crotona park east,4299,477602,1668,1736
+crown heights north,crown heights north,61,2021.0,138614.0,100.0,61,Brooklyn,crown heights north,24096,2680527,14166,14392
+crown heights south,crown heights south,62,2021.0,109967.0,100.0,62,Brooklyn,crown heights south,7002,702937,3824,4052
+cypress hills,rego park/forest hills,63,2021.0,126028.0,86.0,63,Brooklyn,cypress hills,4666,630680,1421,2412
+downtown brooklyn/metrotech,brooklyn,65,2021.0,2641052.0,90.0,65,Brooklyn,downtown brooklyn/metrotech,4913,739989,20726,24755
+east concourse/concourse village,greenwich village,69,2021.0,87436.43239,86.0,69,Bronx,east concourse/concourse village,15602,952913,6313,5683
+east flushing,flushing,73,2021.0,242765.0,90.0,73,Queens,east flushing,16754,172444,280,477
+east harlem north,east harlem,74,2021.0,123582.0,90.0,74,Manhattan,east harlem north,17308,1390619,107325,151610
+east harlem south,east harlem,75,2021.0,123582.0,90.0,75,Manhattan,east harlem south,19587,1197479,94201,320661
+east new york,east new york,76,2021.0,178925.0,100.0,76,Brooklyn,east new york,19074,2197612,8686,13292
+east new york/pennsylvania avenue,east new york,77,2021.0,178925.0,90.0,77,Brooklyn,east new york/pennsylvania avenue,7116,640340,2500,3306
+east tremont,east tremont,78,2021.0,89653.42928,100.0,78,Bronx,east tremont,14894,815043,3120,3806
+east williamsburg,east harlem,80,2021.0,123582.0,86.0,80,Brooklyn,east williamsburg,4120,1344851,2619,8301
+elmhurst,elmhurst/corona,82,2021.0,137364.0,90.0,82,Queens,elmhurst,42222,1256039,20859,7075
+eltingville/annadale/prince's bay,bay ridge,84,2021.0,111952.0,86.0,84,Staten Island,eltingville/annadale/prince's bay,5000,66649,36,59
+financial district south,south beach,88,2021.0,138438.0,86.0,88,Manhattan,financial district south,6365,355438,160,75649
+flatbush/ditmas park,bedford park,89,2021.0,130407.0,86.0,89,Brooklyn,flatbush/ditmas park,20015,1548324,6581,8664
+flushing,flushing,92,2021.0,242765.0,100.0,92,Queens,flushing,74602,760681,4405,4382
+flushing meadows-corona park,flushing,93,2021.0,242765.0,90.0,93,Queens,flushing meadows-corona park,1736,111928,2791,3506
+forest hills,rego park/forest hills,95,2021.0,126028.0,90.0,95,Queens,forest hills,18095,1071531,32897,6842
+forest park/highland park,bedford park,96,2021.0,130407.0,86.0,96,Queens,forest park/highland park,286,25825,146,206
+fort greene,fort greene/brooklyn hts,97,2021.0,147130.0,90.0,97,Brooklyn,fort greene,7948,1135588,22709,18774
+freshkills park,park slope,99,2021.0,117511.0,86.0,99,Staten Island,freshkills park,176,4355,18,30
+garment district,midtown business district,100,2021.0,50674.34935,86.0,100,Manhattan,garment district,9266,886717,272,501389
+glendale,ridgewood/glendale,102,2021.0,168184.0,90.0,102,Queens,glendale,7761,429986,1326,1345
+greenwich village north,greenwich village,113,2021.0,87436.43239,95.0,113,Manhattan,greenwich village north,6038,1055551,260,429841
+greenwich village south,greenwich village,114,2021.0,87436.43239,95.0,114,Manhattan,greenwich village south,5352,1062567,60,334034
+heartland village/todt hill,greenwich village,118,2021.0,87436.43239,86.0,118,Staten Island,heartland village/todt hill,9918,179914,84,204
+highbridge,concourse/highbridge,119,2021.0,145325.0,90.0,119,Bronx,highbridge,10180,652285,4017,3434
+highbridge park,park slope,120,2021.0,117511.0,86.0,120,Manhattan,highbridge park,103,17868,212,342
+howard beach,howard beach,124,2021.0,156106.0,100.0,124,Queens,howard beach,2032,241258,662,1582
+hunts point,hunts point,126,2021.0,57993.5216,100.0,126,Bronx,hunts point,7193,586685,1744,1861
+inwood hill park,park slope,128,2021.0,117511.0,86.0,128,Manhattan,inwood hill park,330,44954,415,578
+jackson heights,jackson heights,129,2021.0,153743.0,100.0,129,Queens,jackson heights,70793,1335857,13191,11088
+kips bay,sheepshead bay,137,2021.0,159185.0,86.0,137,Manhattan,kips bay,16171,1065218,1442,473197
+lincoln square east,east harlem,142,2021.0,123582.0,86.0,142,Manhattan,lincoln square east,6164,1117480,381,989927
+long island city/hunters point,hunts point,145,2021.0,57993.5216,86.0,145,Queens,long island city/hunters point,3852,1216116,3204,29884
+long island city/queens plaza,queens,146,2021.0,2331143.0,90.0,146,Queens,long island city/queens plaza,5952,455671,2436,20570
+lower east side,lower east side,148,2021.0,141066.0,100.0,148,Manhattan,lower east side,7448,1644757,166,260844
+manhattan beach,manhattan,150,2021.0,1576876.0,90.0,150,Brooklyn,manhattan beach,9340,185819,915,1010
+manhattan valley,manhattan,151,2021.0,1576876.0,90.0,151,Manhattan,manhattan valley,3832,563220,1044,348882
+manhattanville,manhattanville,152,2021.0,118426.0,100.0,152,Manhattan,manhattanville,7300,417451,7817,32964
+marble hill,murray hill/stuyvesant,153,2021.0,144396.0,86.0,153,Manhattan,marble hill,1170,192806,979,937
+marine park/floyd bennett field,battery park/tribeca,154,2021.0,59230.56761,86.0,154,Brooklyn,marine park/floyd bennett field,264,18494,101,172
+marine park/mill basin,bedford park,155,2021.0,130407.0,86.0,155,Brooklyn,marine park/mill basin,8911,560679,2565,3483
+meatpacking/west village west,greenwich village,158,2021.0,87436.43239,86.0,158,Manhattan,meatpacking/west village west,3949,1059056,25,195536
+midtown center,midtown business district,161,2021.0,50674.34935,86.0,161,Manhattan,midtown center,15000,1575793,312,1091329
+midtown east,midtown business district,162,2021.0,50674.34935,86.0,162,Manhattan,midtown east,15281,1245179,317,954917
+midtown north,midtown business district,163,2021.0,50674.34935,86.0,163,Manhattan,midtown north,9767,1226366,201,798825
+midtown south,midtown business district,164,2021.0,50674.34935,86.0,164,Manhattan,midtown south,6285,1569005,271,627803
+midwood,flatbush/midwood,165,2021.0,173007.0,90.0,165,Brooklyn,midwood,28642,558907,2866,3609
+morrisania/melrose,morrisania,167,2021.0,85878.57072,90.0,167,Bronx,morrisania/melrose,11089,748920,3696,3795
+mott haven/port morris,mott haven,168,2021.0,101562.4784,90.0,168,Bronx,mott haven/port morris,13201,1124032,5751,9780
+murray hill,murray hill/stuyvesant,170,2021.0,144396.0,90.0,170,Manhattan,murray hill,14589,1591210,896,967766
+murray hill-queens,queens,171,2021.0,2331143.0,90.0,171,Queens,murray hill-queens,34733,316424,755,1666
+new dorp/midland beach,east new york,172,2021.0,178925.0,86.0,172,Staten Island,new dorp/midland beach,4478,98146,10,59
+north corona,crown heights north,173,2021.0,138614.0,86.0,173,Queens,north corona,35340,411593,2095,1464
+ocean hill,murray hill/stuyvesant,177,2021.0,144396.0,86.0,177,Brooklyn,ocean hill,6941,900495,3395,4399
+ocean parkway south,south beach,178,2021.0,138438.0,86.0,178,Brooklyn,ocean parkway south,4367,190682,438,614
+old astoria,astoria,179,2021.0,156981.0,90.0,179,Queens,old astoria,41423,596535,4063,9180
+ozone park,battery park/tribeca,180,2021.0,59230.56761,86.0,180,Queens,ozone park,1266,290981,354,782
+park slope,park slope,181,2021.0,117511.0,100.0,181,Brooklyn,park slope,21132,1581931,9909,15275
+pelham bay park,park slope,184,2021.0,117511.0,86.0,184,Bronx,pelham bay park,388,37520,184,174
+pelham parkway,pelham parkway,185,2021.0,137755.0,100.0,185,Bronx,pelham parkway,14902,600179,3484,2722
+penn station/madison sq west,upper west side,186,2021.0,197826.0,86.0,186,Manhattan,penn station/madison sq west,5651,1142652,310,1019650
+prospect park,battery park/tribeca,190,2021.0,59230.56761,86.0,190,Brooklyn,prospect park,576,115525,594,1058
+queens village,queens village,191,2021.0,206394.0,100.0,191,Queens,queens village,3725,496430,2234,2790
+queensboro hill,queens,192,2021.0,2331143.0,90.0,192,Queens,queensboro hill,13658,209837,1268,1049
+queensbridge/ravenswood,queens,193,2021.0,2331143.0,90.0,193,Queens,queensbridge/ravenswood,8661,244352,5104,27888
+rego park,rego park/forest hills,196,2021.0,126028.0,90.0,196,Queens,rego park,10506,451987,7725,3723
+richmond hill,murray hill/stuyvesant,197,2021.0,144396.0,86.0,197,Queens,richmond hill,9047,756373,6628,5896
+ridgewood,ridgewood/glendale,198,2021.0,168184.0,90.0,198,Queens,ridgewood,3604,1075651,1263,2547
+riverdale/north riverdale/fieldston,riverdale,200,2021.0,109361.0,90.0,200,Bronx,riverdale/north riverdale/fieldston,1923,296328,1141,1821
+saint albans,jamaica/st. albans,205,2021.0,270688.0,86.0,205,Queens,saint albans,6844,788305,3765,5956
+saint george/new brighton,east new york,206,2021.0,178925.0,86.0,206,Staten Island,saint george/new brighton,80940,338410,117,180
+saint michaels cemetery/woodside,sunnyside/woodside,207,2021.0,149487.0,86.0,207,Queens,saint michaels cemetery/woodside,176,48023,467,3226
+schuylerville/edgewater park,bedford park,208,2021.0,130407.0,86.0,208,Bronx,schuylerville/edgewater park,5113,578837,2219,2455
+sheepshead bay,sheepshead bay,210,2021.0,159185.0,100.0,210,Brooklyn,sheepshead bay,30817,564331,3224,3710
+south beach/dongan hills,south beach,214,2021.0,138438.0,90.0,214,Staten Island,south beach/dongan hills,14839,136327,18,70
+south ozone park,park slope,216,2021.0,117511.0,86.0,216,Queens,south ozone park,12295,1009431,2949,6468
+south williamsburg,south beach,217,2021.0,138438.0,86.0,217,Brooklyn,south williamsburg,1650,268972,723,2028
+springfield gardens south,south beach,219,2021.0,138438.0,86.0,219,Queens,springfield gardens south,2200,357772,1042,4124
+stuy town/peter cooper village,greenwich village,224,2021.0,87436.43239,86.0,224,Manhattan,stuy town/peter cooper village,2224,333872,185,50823
+sunnyside,sunnyside/woodside,226,2021.0,149487.0,90.0,226,Queens,sunnyside,11651,1060176,5563,32108
+sunset park east,sunset park,227,2021.0,134945.0,95.0,227,Brooklyn,sunset park east,13529,406969,1783,1924
+sunset park west,sunset park,228,2021.0,134945.0,95.0,228,Brooklyn,sunset park west,8923,863548,3387,5831
+sutton place/turtle bay north,crown heights north,229,2021.0,138614.0,86.0,229,Manhattan,sutton place/turtle bay north,8112,1055186,283,689358
+two bridges/seward park,bedford park,232,2021.0,130407.0,86.0,232,Manhattan,two bridges/seward park,6720,884831,636,68244
+un/turtle bay south,bay ridge,233,2021.0,111952.0,86.0,233,Manhattan,un/turtle bay south,7254,985585,324,411004
+university heights/morris heights,university heights,235,2021.0,130157.0,90.0,235,Bronx,university heights/morris heights,11754,847382,5017,4701
+upper east side north,upper east side,236,2021.0,207429.0,95.0,236,Manhattan,upper east side north,10300,1269609,4367,1424614
+upper east side south,upper east side,237,2021.0,207429.0,95.0,237,Manhattan,upper east side south,11159,1388769,487,1553554
+upper west side north,upper west side,238,2021.0,197826.0,95.0,238,Manhattan,upper west side north,5280,964252,840,742175
+upper west side south,upper west side,239,2021.0,197826.0,95.0,239,Manhattan,upper west side south,4927,1109298,295,932473
+van cortlandt park,bedford park,240,2021.0,130407.0,86.0,240,Bronx,van cortlandt park,815,110862,537,530
+van cortlandt village,queens village,241,2021.0,206394.0,86.0,241,Bronx,van cortlandt village,5650,720825,2670,2506
+van nest/morris park,bedford park,242,2021.0,130407.0,86.0,242,Bronx,van nest/morris park,30129,731426,7695,6003
+washington heights north,washington heights,243,2021.0,216768.0,95.0,243,Manhattan,washington heights north,4742,992760,5876,8485
+washington heights south,washington heights,244,2021.0,216768.0,95.0,244,Manhattan,washington heights south,11914,1448618,31473,46082
+west chelsea/hudson yards,chelsea/clinton,246,2021.0,101249.6507,86.0,246,Manhattan,west chelsea/hudson yards,7659,1604040,137,416221
+west farms/bronx river,bronx,248,2021.0,1424948.0,90.0,248,Bronx,west farms/bronx river,6846,501714,1946,2791
+westchester village/unionport,greenwich village,250,2021.0,87436.43239,86.0,250,Bronx,westchester village/unionport,5274,483779,2332,2509
+williamsbridge/olinville,williamsbridge,254,2021.0,134899.0,90.0,254,Bronx,williamsbridge/olinville,11057,929403,4759,4629
+williamsburg (north side),lower east side,255,2021.0,141066.0,86.0,255,Brooklyn,williamsburg (north side),2078,1585859,3009,12608
+williamsburg (south side),lower east side,256,2021.0,141066.0,86.0,256,Brooklyn,williamsburg (south side),2950,1425942,2292,13160
+woodhaven,woodhaven,258,2021.0,143841.0,100.0,258,Queens,woodhaven,5665,596217,1186,1882
+woodside,sunnyside/woodside,260,2021.0,149487.0,90.0,260,Queens,woodside,15960,729273,7906,9644
+allerton/pelham gardens,pelham parkway,3,2022.0,114874.0,86.0,3,Bronx,allerton/pelham gardens,6063,427624,134,580
+astoria,astoria,7,2022.0,177115.0,100.0,7,Queens,astoria,43289,2112768,25340,24371
+astoria park,astoria,8,2022.0,177115.0,90.0,8,Queens,astoria park,242,7469,21,280
+baisley park,battery park/tribeca,10,2022.0,68418.0,86.0,10,Queens,baisley park,8264,681290,582,13848
+battery park city,park slope,13,2022.0,107930.0,86.0,13,Manhattan,battery park city,13330,1033409,17,232224
+bay ridge,bay ridge,14,2022.0,116696.0,100.0,14,Brooklyn,bay ridge,18980,1095260,947,2351
+bay terrace/fort totten,bay ridge,15,2022.0,116696.0,86.0,15,Queens,bay terrace/fort totten,15369,133118,76,344
+bayside,bayside,16,2022.0,118293.0,100.0,16,Queens,bayside,12948,400081,185,557
+bedford,bedford park,17,2022.0,132380.0,90.0,17,Brooklyn,bedford,19095,1754880,2500,5188
+bedford park,bedford park,18,2022.0,132380.0,100.0,18,Bronx,bedford park,9766,921238,728,1121
+bensonhurst east,bensonhurst,21,2022.0,184415.0,95.0,21,Brooklyn,bensonhurst east,15283,515581,454,843
+bensonhurst west,bensonhurst,22,2022.0,184415.0,95.0,22,Brooklyn,bensonhurst west,14903,677556,341,1035
+boerum hill,murray hill/stuyvesant,25,2022.0,128627.0,86.0,25,Brooklyn,boerum hill,16630,1185161,7935,18853
+borough park,borough park,26,2022.0,191368.0,100.0,26,Brooklyn,borough park,19606,1014816,303,1233
+breezy point/fort tilden/riis beach,hunts point,27,2022.0,49956.0,86.0,27,Queens,breezy point/fort tilden/riis beach,472,16235,14,22
+bronx park,bronx,31,2022.0,1379946.0,90.0,31,Bronx,bronx park,1183,78337,138,254
+bronxdale,bronx,32,2022.0,1379946.0,90.0,32,Bronx,bronxdale,6976,504987,213,685
+brooklyn heights,brooklyn,33,2022.0,2590516.0,90.0,33,Brooklyn,brooklyn heights,13601,993195,11596,25003
+brooklyn navy yard,brooklyn,34,2022.0,2590516.0,90.0,34,Brooklyn,brooklyn navy yard,526,179780,316,1075
+brownsville,brownsville,35,2022.0,99827.0,100.0,35,Brooklyn,brownsville,27121,1226576,687,2012
+bushwick north,bushwick,36,2022.0,94423.0,90.0,36,Brooklyn,bushwick north,8110,1674435,1152,3667
+bushwick south,bushwick,37,2022.0,94423.0,90.0,37,Brooklyn,bushwick south,19377,2349078,1389,5487
+canarsie,canarsie,39,2022.0,189888.0,100.0,39,Brooklyn,canarsie,37781,1471954,457,2864
+central harlem,central harlem,41,2022.0,138953.0,100.0,41,Manhattan,central harlem,15733,1362209,58524,118359
+central harlem north,central harlem,42,2022.0,138953.0,95.0,42,Manhattan,central harlem north,28951,1918561,30386,42367
+central park,battery park/tribeca,43,2022.0,68418.0,86.0,43,Manhattan,central park,3774,358092,25454,665894
+charleston/tottenville,tottenville,44,2022.0,161071.0,90.0,44,Staten Island,charleston/tottenville,11611,77256,16,418
+clinton hill,murray hill/stuyvesant,49,2022.0,128627.0,86.0,49,Brooklyn,clinton hill,13220,1248543,3145,6326
+cobble hill,murray hill/stuyvesant,52,2022.0,128627.0,86.0,52,Brooklyn,cobble hill,2097,315645,3772,9498
+coney island,coney island,55,2022.0,119482.0,100.0,55,Brooklyn,coney island,33157,513573,3527,1706
+corona,elmhurst/corona,56,2022.0,160534.0,90.0,56,Queens,corona,35833,596131,914,2064
+corona,elmhurst/corona,57,2022.0,160534.0,90.0,57,Queens,corona,1511,43838,191,124
+crotona park,battery park/tribeca,59,2022.0,68418.0,86.0,59,Bronx,crotona park,319,24385,22,30
+crotona park east,east harlem,60,2022.0,128317.0,86.0,60,Bronx,crotona park east,4842,457275,637,585
+crown heights north,crown heights north,61,2022.0,107419.0,100.0,61,Brooklyn,crown heights north,48543,2814727,4086,7861
+crown heights south,crown heights south,62,2022.0,94109.0,100.0,62,Brooklyn,crown heights south,15309,734297,858,2234
+cypress hills,rego park/forest hills,63,2022.0,128592.0,86.0,63,Brooklyn,cypress hills,7841,633742,202,953
+downtown brooklyn/metrotech,brooklyn,65,2022.0,2590516.0,90.0,65,Brooklyn,downtown brooklyn/metrotech,13029,948522,21156,30398
+east concourse/concourse village,greenwich village,69,2022.0,80684.0,86.0,69,Bronx,east concourse/concourse village,16549,996051,2030,2153
+east flushing,flushing,73,2022.0,246851.0,90.0,73,Queens,east flushing,12013,200784,271,254
+east harlem north,east harlem,74,2022.0,128317.0,90.0,74,Manhattan,east harlem north,24053,1459343,143134,107280
+east harlem south,east harlem,75,2022.0,128317.0,90.0,75,Manhattan,east harlem south,28986,1303913,106106,266588
+east new york,east new york,76,2022.0,200828.0,100.0,76,Brooklyn,east new york,42225,2200864,1059,3929
+east new york/pennsylvania avenue,east new york,77,2022.0,200828.0,90.0,77,Brooklyn,east new york/pennsylvania avenue,13264,599394,279,765
+east tremont,east tremont,78,2022.0,83508.0,100.0,78,Bronx,east tremont,12706,844356,579,1458
+east williamsburg,east harlem,80,2022.0,128317.0,86.0,80,Brooklyn,east williamsburg,11882,1740071,2723,10289
+elmhurst,elmhurst/corona,82,2022.0,160534.0,90.0,82,Queens,elmhurst,33668,1397442,24520,4891
+eltingville/annadale/prince's bay,bay ridge,84,2022.0,116696.0,86.0,84,Staten Island,eltingville/annadale/prince's bay,10705,85239,2,16
+financial district south,south beach,88,2022.0,145506.0,86.0,88,Manhattan,financial district south,14383,550125,11,108991
+flatbush/ditmas park,bedford park,89,2022.0,132380.0,86.0,89,Brooklyn,flatbush/ditmas park,31289,1673499,1110,3869
+flushing,flushing,92,2022.0,246851.0,100.0,92,Queens,flushing,66063,997987,5155,1928
+flushing meadows-corona park,flushing,93,2022.0,246851.0,90.0,93,Queens,flushing meadows-corona park,1950,161608,3906,6452
+forest hills,rego park/forest hills,95,2022.0,128592.0,90.0,95,Queens,forest hills,24795,1313524,34475,4518
+forest park/highland park,bedford park,96,2022.0,132380.0,86.0,96,Queens,forest park/highland park,363,28176,99,115
+fort greene,fort greene/brooklyn hts,97,2022.0,135987.0,90.0,97,Brooklyn,fort greene,22487,1334378,22106,17006
+freshkills park,park slope,99,2022.0,107930.0,86.0,99,Staten Island,freshkills park,260,4268,1,19
+garment district,midtown business district,100,2022.0,52570.0,86.0,100,Manhattan,garment district,13410,1324007,45,645560
+glendale,ridgewood/glendale,102,2022.0,175992.0,90.0,102,Queens,glendale,7622,481206,382,622
+greenwich village north,greenwich village,113,2022.0,80684.0,95.0,113,Manhattan,greenwich village north,12150,1424576,16,520381
+greenwich village south,greenwich village,114,2022.0,80684.0,95.0,114,Manhattan,greenwich village south,12201,1542570,12,475793
+heartland village/todt hill,greenwich village,118,2022.0,80684.0,86.0,118,Staten Island,heartland village/todt hill,15775,207370,7,152
+highbridge,concourse/highbridge,119,2022.0,139747.0,90.0,119,Bronx,highbridge,11604,658141,816,1940
+highbridge park,park slope,120,2022.0,107930.0,86.0,120,Manhattan,highbridge park,272,16785,106,233
+howard beach,howard beach,124,2022.0,129072.0,100.0,124,Queens,howard beach,4961,285512,147,935
+hunts point,hunts point,126,2022.0,49956.0,100.0,126,Bronx,hunts point,5728,611243,310,677
+inwood hill park,park slope,128,2022.0,107930.0,86.0,128,Manhattan,inwood hill park,813,51417,115,241
+jackson heights,jackson heights,129,2022.0,162686.0,100.0,129,Queens,jackson heights,47670,1568214,12964,9598
+kips bay,sheepshead bay,137,2022.0,151970.0,86.0,137,Manhattan,kips bay,31652,1232638,69,487248
+lincoln square east,east harlem,142,2022.0,128317.0,86.0,142,Manhattan,lincoln square east,15140,1523402,28,1296787
+long island city/hunters point,hunts point,145,2022.0,49956.0,86.0,145,Queens,long island city/hunters point,9790,1675208,3096,37890
+long island city/queens plaza,queens,146,2022.0,2278029.0,90.0,146,Queens,long island city/queens plaza,7809,561879,2498,23111
+lower east side,lower east side,148,2022.0,141787.0,100.0,148,Manhattan,lower east side,15498,2386958,17,396848
+manhattan beach,manhattan,150,2022.0,1596273.0,90.0,150,Brooklyn,manhattan beach,12076,215582,507,419
+manhattan valley,manhattan,151,2022.0,1596273.0,90.0,151,Manhattan,manhattan valley,6945,643665,72,365538
+manhattanville,manhattanville,152,2022.0,105801.0,100.0,152,Manhattan,manhattanville,6739,485352,7457,33672
+marble hill,murray hill/stuyvesant,153,2022.0,128627.0,86.0,153,Manhattan,marble hill,1250,192232,166,411
+marine park/floyd bennett field,battery park/tribeca,154,2022.0,68418.0,86.0,154,Brooklyn,marine park/floyd bennett field,498,19489,68,315
+marine park/mill basin,bedford park,155,2022.0,132380.0,86.0,155,Brooklyn,marine park/mill basin,14643,576973,315,1684
+meatpacking/west village west,greenwich village,158,2022.0,80684.0,86.0,158,Manhattan,meatpacking/west village west,9404,1474697,10,301775
+midtown center,midtown business district,161,2022.0,52570.0,86.0,161,Manhattan,midtown center,28760,2631530,22,1573000
+midtown east,midtown business district,162,2022.0,52570.0,86.0,162,Manhattan,midtown east,23658,1785796,13,1291995
+midtown north,midtown business district,163,2022.0,52570.0,86.0,163,Manhattan,midtown north,18098,1917782,26,1117363
+midtown south,midtown business district,164,2022.0,52570.0,86.0,164,Manhattan,midtown south,16106,2348813,28,879884
+midwood,flatbush/midwood,165,2022.0,152340.0,90.0,165,Brooklyn,midwood,31081,626650,308,1538
+morrisania/melrose,morrisania,167,2022.0,87757.0,90.0,167,Bronx,morrisania/melrose,10884,732523,888,1474
+mott haven/port morris,mott haven,168,2022.0,92593.0,90.0,168,Bronx,mott haven/port morris,13902,1180596,2212,5532
+murray hill,murray hill/stuyvesant,170,2022.0,128627.0,90.0,170,Manhattan,murray hill,29838,2115752,59,1213881
+murray hill-queens,queens,171,2022.0,2278029.0,90.0,171,Queens,murray hill-queens,22968,380890,339,552
+new dorp/midland beach,east new york,172,2022.0,200828.0,86.0,172,Staten Island,new dorp/midland beach,9126,115340,3,50
+north corona,crown heights north,173,2022.0,107419.0,86.0,173,Queens,north corona,25162,464494,1410,791
+ocean hill,murray hill/stuyvesant,177,2022.0,128627.0,86.0,177,Brooklyn,ocean hill,14870,900255,590,1981
+ocean parkway south,south beach,178,2022.0,145506.0,86.0,178,Brooklyn,ocean parkway south,4578,214041,82,261
+old astoria,astoria,179,2022.0,177115.0,90.0,179,Queens,old astoria,38776,708602,3967,7948
+ozone park,battery park/tribeca,180,2022.0,68418.0,86.0,180,Queens,ozone park,2654,325974,119,531
+park slope,park slope,181,2022.0,107930.0,100.0,181,Brooklyn,park slope,22226,1985367,5344,14357
+pelham bay park,park slope,184,2022.0,107930.0,86.0,184,Bronx,pelham bay park,383,42239,23,66
+pelham parkway,pelham parkway,185,2022.0,114874.0,100.0,185,Bronx,pelham parkway,11118,640082,1434,833
+penn station/madison sq west,upper west side,186,2022.0,226989.0,86.0,186,Manhattan,penn station/madison sq west,12730,1648859,41,1294002
+prospect park,battery park/tribeca,190,2022.0,68418.0,86.0,190,Brooklyn,prospect park,1539,125281,387,912
+queens village,queens village,191,2022.0,193823.0,100.0,191,Queens,queens village,8646,558758,502,1799
+queensboro hill,queens,192,2022.0,2278029.0,90.0,192,Queens,queensboro hill,10901,248414,697,425
+queensbridge/ravenswood,queens,193,2022.0,2278029.0,90.0,193,Queens,queensbridge/ravenswood,9721,304063,5313,34548
+rego park,rego park/forest hills,196,2022.0,128592.0,90.0,196,Queens,rego park,13526,512117,6013,2167
+richmond hill,murray hill/stuyvesant,197,2022.0,128627.0,86.0,197,Queens,richmond hill,12563,872369,855,4002
+ridgewood,ridgewood/glendale,198,2022.0,175992.0,90.0,198,Queens,ridgewood,7807,1252511,523,1536
+riverdale/north riverdale/fieldston,riverdale,200,2022.0,87280.0,90.0,200,Bronx,riverdale/north riverdale/fieldston,3512,379997,203,803
+saint albans,jamaica/st. albans,205,2022.0,248158.0,86.0,205,Queens,saint albans,13719,820078,331,2341
+saint george/new brighton,east new york,206,2022.0,200828.0,86.0,206,Staten Island,saint george/new brighton,73087,378196,62,85
+saint michaels cemetery/woodside,sunnyside/woodside,207,2022.0,125926.0,86.0,207,Queens,saint michaels cemetery/woodside,241,44181,207,3558
+schuylerville/edgewater park,bedford park,208,2022.0,132380.0,86.0,208,Bronx,schuylerville/edgewater park,6389,632818,228,807
+sheepshead bay,sheepshead bay,210,2022.0,151970.0,100.0,210,Brooklyn,sheepshead bay,34322,626885,2569,1451
+south beach/dongan hills,south beach,214,2022.0,145506.0,90.0,214,Staten Island,south beach/dongan hills,25912,152446,9,83
+south ozone park,park slope,216,2022.0,107930.0,86.0,216,Queens,south ozone park,13949,1225029,1031,7426
+south williamsburg,south beach,217,2022.0,145506.0,86.0,217,Brooklyn,south williamsburg,5122,306821,273,1387
+springfield gardens south,south beach,219,2022.0,145506.0,86.0,219,Queens,springfield gardens south,4328,374581,183,4382
+stuy town/peter cooper village,greenwich village,224,2022.0,80684.0,86.0,224,Manhattan,stuy town/peter cooper village,5711,510941,8,60204
+sunnyside,sunnyside/woodside,226,2022.0,125926.0,90.0,226,Queens,sunnyside,17382,1241450,3886,33687
+sunset park east,sunset park,227,2022.0,129890.0,95.0,227,Brooklyn,sunset park east,14661,491527,240,638
+sunset park west,sunset park,228,2022.0,129890.0,95.0,228,Brooklyn,sunset park west,13721,990597,794,2405
+sutton place/turtle bay north,crown heights north,229,2022.0,107419.0,86.0,229,Manhattan,sutton place/turtle bay north,13605,1397768,30,833524
+two bridges/seward park,bedford park,232,2022.0,132380.0,86.0,232,Manhattan,two bridges/seward park,15582,993035,59,52854
+un/turtle bay south,bay ridge,233,2022.0,116696.0,86.0,233,Manhattan,un/turtle bay south,13334,1332999,23,514906
+university heights/morris heights,university heights,235,2022.0,114828.0,90.0,235,Bronx,university heights/morris heights,11109,843959,601,2196
+upper east side north,upper east side,236,2022.0,206975.0,95.0,236,Manhattan,upper east side north,17812,1617012,5739,1656140
+upper east side south,upper east side,237,2022.0,206975.0,95.0,237,Manhattan,upper east side south,17737,1838431,16,1858969
+upper west side north,upper west side,238,2022.0,226989.0,95.0,238,Manhattan,upper west side north,11739,1145745,73,832317
+upper west side south,upper west side,239,2022.0,226989.0,95.0,239,Manhattan,upper west side south,11042,1410970,34,1132068
+van cortlandt park,bedford park,240,2022.0,132380.0,86.0,240,Bronx,van cortlandt park,1193,119634,88,147
+van cortlandt village,queens village,241,2022.0,193823.0,86.0,241,Bronx,van cortlandt village,6882,753699,807,1275
+van nest/morris park,bedford park,242,2022.0,132380.0,86.0,242,Bronx,van nest/morris park,25323,801079,603,1877
+washington heights north,washington heights,243,2022.0,202678.0,95.0,243,Manhattan,washington heights north,6567,1097877,3130,6268
+washington heights south,washington heights,244,2022.0,202678.0,95.0,244,Manhattan,washington heights south,16521,1566769,24828,32916
+west chelsea/hudson yards,chelsea/clinton,246,2022.0,112582.0,86.0,246,Manhattan,west chelsea/hudson yards,16340,2349494,19,593668
+west farms/bronx river,bronx,248,2022.0,1379946.0,90.0,248,Bronx,west farms/bronx river,5665,503582,293,881
+westchester village/unionport,greenwich village,250,2022.0,80684.0,86.0,250,Bronx,westchester village/unionport,6463,499551,316,877
+williamsbridge/olinville,williamsbridge,254,2022.0,153790.0,90.0,254,Bronx,williamsbridge/olinville,12549,938638,347,1998
+williamsburg (north side),lower east side,255,2022.0,141787.0,86.0,255,Brooklyn,williamsburg (north side),8019,2178207,3947,19776
+williamsburg (south side),lower east side,256,2022.0,141787.0,86.0,256,Brooklyn,williamsburg (south side),9994,1796884,2315,16573
+woodhaven,woodhaven,258,2022.0,136313.0,100.0,258,Queens,woodhaven,7120,653621,505,785
+woodside,sunnyside/woodside,260,2022.0,125926.0,90.0,260,Queens,woodside,12371,873879,11219,8705
