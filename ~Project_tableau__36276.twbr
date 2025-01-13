@@ -1,0 +1,585 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20231.23.0310.1044                               -->
+<workbook original-version='18.1' source-build='2023.1.0 (20231.23.0310.1044)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <MapboxVectorStylesAndLayers />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <SpatialFileLayer />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='taxi_zones' inline='true' name='federated.0f2k8ge1rvwx3116gust61989lnk' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='taxi_zones' name='ogrdirect.0y9mdel0poa1t51ahdr5j10odppe'>
+            <connection class='ogrdirect' directory='//wsl.localhost/Ubuntu/home/yaratje/MBD/Project/zoneShape' filename='taxi_zones.shp' password='' server='' tablename='' />
+          </named-connection>
+          <named-connection caption='geo_export_ce11d333-3dcf-447f-9941-84c59f8756f0' name='ogrdirect.1pzgpgl1qvwf5g1f6xren0ulyulh'>
+            <connection class='ogrdirect' directory='//wsl.localhost/Ubuntu/home/yaratje/MBD/Project/CommunityDistrictShape' filename='geo_export_ce11d333-3dcf-447f-9941-84c59f8756f0.shp' password='' server='' tablename='' />
+          </named-connection>
+          <named-connection caption='merged_data' name='textscan.1pwo8l012ykfcz168jkc91jhzxoz'>
+            <connection class='textscan' directory='//wsl.localhost/Ubuntu/home/yaratje/MBD/Project' filename='merged_data.csv' password='' server='' />
+          </named-connection>
+          <named-connection caption='merged_taxi_population_data' name='textscan.1odahpc0tzvw6r1darv2111ykv9r'>
+            <connection class='textscan' directory='//wsl.localhost/Ubuntu/home/yaratje/MBD/Project' filename='merged_taxi_population_data.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.1odahpc0tzvw6r1darv2111ykv9r' name='merged_taxi_population_data.csv' table='[merged_taxi_population_data#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_GB' separator=','>
+            <column datatype='string' name='Zone' ordinal='0' />
+            <column datatype='string' name='matched_demographic_region' ordinal='1' />
+            <column datatype='integer' name='PULocationID' ordinal='2' />
+            <column datatype='real' name='TimeFrame' ordinal='3' />
+            <column datatype='real' name='Data' ordinal='4' />
+            <column datatype='real' name='match_score' ordinal='5' />
+            <column datatype='integer' name='PULocationID 1' ordinal='6' />
+            <column datatype='string' name='Borough' ordinal='7' />
+            <column datatype='string' name='Zone 1' ordinal='8' />
+            <column datatype='integer' name='fhv_trips' ordinal='9' />
+            <column datatype='integer' name='fhvhv_trips' ordinal='10' />
+            <column datatype='integer' name='green_trips' ordinal='11' />
+            <column datatype='integer' name='yellow_trips' ordinal='12' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation type='collection'>
+          <relation connection='ogrdirect.0y9mdel0poa1t51ahdr5j10odppe' name='taxi_zones.shp' table='[taxi_zones.shp]' type='table'>
+            <columns>
+              <column datatype='integer' name='OBJECTID' ordinal='0' />
+              <column datatype='real' name='Shape_Leng' ordinal='1' />
+              <column datatype='real' name='Shape_Area' ordinal='2' />
+              <column datatype='string' name='zone' ordinal='3' />
+              <column datatype='integer' name='LocationID' ordinal='4' />
+              <column datatype='string' name='borough' ordinal='5' />
+              <column datatype='spatial' name='Geometry' ordinal='6' />
+            </columns>
+          </relation>
+          <relation connection='textscan.1odahpc0tzvw6r1darv2111ykv9r' name='merged_taxi_population_data.csv' table='[merged_taxi_population_data#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_GB' separator=','>
+              <column datatype='string' name='Zone' ordinal='0' />
+              <column datatype='string' name='matched_demographic_region' ordinal='1' />
+              <column datatype='integer' name='PULocationID' ordinal='2' />
+              <column datatype='real' name='TimeFrame' ordinal='3' />
+              <column datatype='real' name='Data' ordinal='4' />
+              <column datatype='real' name='match_score' ordinal='5' />
+              <column datatype='integer' name='PULocationID 1' ordinal='6' />
+              <column datatype='string' name='Borough' ordinal='7' />
+              <column datatype='string' name='Zone 1' ordinal='8' />
+              <column datatype='integer' name='fhv_trips' ordinal='9' />
+              <column datatype='integer' name='fhvhv_trips' ordinal='10' />
+              <column datatype='integer' name='green_trips' ordinal='11' />
+              <column datatype='integer' name='yellow_trips' ordinal='12' />
+            </columns>
+          </relation>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <cols>
+          <map key='[Borough (merged_taxi_population_data.csv)]' value='[merged_taxi_population_data.csv].[Borough]' />
+          <map key='[Data (merged_taxi_population_data.csv)]' value='[merged_taxi_population_data.csv].[Data]' />
+          <map key='[Geometry]' value='[taxi_zones.shp].[Geometry]' />
+          <map key='[LocationID]' value='[taxi_zones.shp].[LocationID]' />
+          <map key='[OBJECTID]' value='[taxi_zones.shp].[OBJECTID]' />
+          <map key='[PULocationID (merged_taxi_population_data.csv)]' value='[merged_taxi_population_data.csv].[PULocationID]' />
+          <map key='[PULocationID 1 (merged_taxi_population_data.csv)]' value='[merged_taxi_population_data.csv].[PULocationID 1]' />
+          <map key='[Shape_Area]' value='[taxi_zones.shp].[Shape_Area]' />
+          <map key='[Shape_Leng]' value='[taxi_zones.shp].[Shape_Leng]' />
+          <map key='[TimeFrame (merged_taxi_population_data.csv)]' value='[merged_taxi_population_data.csv].[TimeFrame]' />
+          <map key='[Zone (merged_taxi_population_data.csv)]' value='[merged_taxi_population_data.csv].[Zone]' />
+          <map key='[Zone 1]' value='[merged_taxi_population_data.csv].[Zone 1]' />
+          <map key='[borough]' value='[taxi_zones.shp].[borough]' />
+          <map key='[fhv_trips (merged_taxi_population_data.csv)]' value='[merged_taxi_population_data.csv].[fhv_trips]' />
+          <map key='[fhvhv_trips (merged_taxi_population_data.csv)]' value='[merged_taxi_population_data.csv].[fhvhv_trips]' />
+          <map key='[green_trips (merged_taxi_population_data.csv)]' value='[merged_taxi_population_data.csv].[green_trips]' />
+          <map key='[match_score (merged_taxi_population_data.csv)]' value='[merged_taxi_population_data.csv].[match_score]' />
+          <map key='[matched_demographic_region]' value='[merged_taxi_population_data.csv].[matched_demographic_region]' />
+          <map key='[yellow_trips (merged_taxi_population_data.csv)]' value='[merged_taxi_population_data.csv].[yellow_trips]' />
+          <map key='[zone]' value='[taxi_zones.shp].[zone]' />
+        </cols>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[merged_taxi_population_data.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;£&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>OBJECTID</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[OBJECTID]</local-name>
+            <parent-name>[taxi_zones.shp]</parent-name>
+            <remote-alias>OBJECTID</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[taxi_zones.shp_503FA286FC4A4BBFA81E55574DE6BB62]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Shape_Leng</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Shape_Leng]</local-name>
+            <parent-name>[taxi_zones.shp]</parent-name>
+            <remote-alias>Shape_Leng</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[taxi_zones.shp_503FA286FC4A4BBFA81E55574DE6BB62]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Shape_Area</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Shape_Area]</local-name>
+            <parent-name>[taxi_zones.shp]</parent-name>
+            <remote-alias>Shape_Area</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[taxi_zones.shp_503FA286FC4A4BBFA81E55574DE6BB62]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>zone</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[zone]</local-name>
+            <parent-name>[taxi_zones.shp]</parent-name>
+            <remote-alias>zone</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[taxi_zones.shp_503FA286FC4A4BBFA81E55574DE6BB62]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>LocationID</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[LocationID]</local-name>
+            <parent-name>[taxi_zones.shp]</parent-name>
+            <remote-alias>LocationID</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[taxi_zones.shp_503FA286FC4A4BBFA81E55574DE6BB62]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>borough</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[borough]</local-name>
+            <parent-name>[taxi_zones.shp]</parent-name>
+            <remote-alias>borough</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[taxi_zones.shp_503FA286FC4A4BBFA81E55574DE6BB62]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Geometry</remote-name>
+            <remote-type>8</remote-type>
+            <local-name>[Geometry]</local-name>
+            <parent-name>[taxi_zones.shp]</parent-name>
+            <remote-alias>Geometry</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>spatial</local-type>
+            <aggregation>Collect</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[taxi_zones.shp_503FA286FC4A4BBFA81E55574DE6BB62]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Zone</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Zone (merged_taxi_population_data.csv)]</local-name>
+            <parent-name>[merged_taxi_population_data.csv]</parent-name>
+            <remote-alias>Zone</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[merged_taxi_population_data.csv_15B8A8F542284708B60D360B3452B03D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>matched_demographic_region</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[matched_demographic_region]</local-name>
+            <parent-name>[merged_taxi_population_data.csv]</parent-name>
+            <remote-alias>matched_demographic_region</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[merged_taxi_population_data.csv_15B8A8F542284708B60D360B3452B03D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PULocationID</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[PULocationID (merged_taxi_population_data.csv)]</local-name>
+            <parent-name>[merged_taxi_population_data.csv]</parent-name>
+            <remote-alias>PULocationID</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[merged_taxi_population_data.csv_15B8A8F542284708B60D360B3452B03D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>TimeFrame</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[TimeFrame (merged_taxi_population_data.csv)]</local-name>
+            <parent-name>[merged_taxi_population_data.csv]</parent-name>
+            <remote-alias>TimeFrame</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[merged_taxi_population_data.csv_15B8A8F542284708B60D360B3452B03D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Data</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Data (merged_taxi_population_data.csv)]</local-name>
+            <parent-name>[merged_taxi_population_data.csv]</parent-name>
+            <remote-alias>Data</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[merged_taxi_population_data.csv_15B8A8F542284708B60D360B3452B03D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>match_score</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[match_score (merged_taxi_population_data.csv)]</local-name>
+            <parent-name>[merged_taxi_population_data.csv]</parent-name>
+            <remote-alias>match_score</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[merged_taxi_population_data.csv_15B8A8F542284708B60D360B3452B03D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PULocationID 1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[PULocationID 1 (merged_taxi_population_data.csv)]</local-name>
+            <parent-name>[merged_taxi_population_data.csv]</parent-name>
+            <remote-alias>PULocationID 1</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[merged_taxi_population_data.csv_15B8A8F542284708B60D360B3452B03D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Borough</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Borough (merged_taxi_population_data.csv)]</local-name>
+            <parent-name>[merged_taxi_population_data.csv]</parent-name>
+            <remote-alias>Borough</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[merged_taxi_population_data.csv_15B8A8F542284708B60D360B3452B03D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Zone 1</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Zone 1]</local-name>
+            <parent-name>[merged_taxi_population_data.csv]</parent-name>
+            <remote-alias>Zone 1</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[merged_taxi_population_data.csv_15B8A8F542284708B60D360B3452B03D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>fhv_trips</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[fhv_trips (merged_taxi_population_data.csv)]</local-name>
+            <parent-name>[merged_taxi_population_data.csv]</parent-name>
+            <remote-alias>fhv_trips</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[merged_taxi_population_data.csv_15B8A8F542284708B60D360B3452B03D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>fhvhv_trips</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[fhvhv_trips (merged_taxi_population_data.csv)]</local-name>
+            <parent-name>[merged_taxi_population_data.csv]</parent-name>
+            <remote-alias>fhvhv_trips</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[merged_taxi_population_data.csv_15B8A8F542284708B60D360B3452B03D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>green_trips</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[green_trips (merged_taxi_population_data.csv)]</local-name>
+            <parent-name>[merged_taxi_population_data.csv]</parent-name>
+            <remote-alias>green_trips</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[merged_taxi_population_data.csv_15B8A8F542284708B60D360B3452B03D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>yellow_trips</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[yellow_trips (merged_taxi_population_data.csv)]</local-name>
+            <parent-name>[merged_taxi_population_data.csv]</parent-name>
+            <remote-alias>yellow_trips</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[merged_taxi_population_data.csv_15B8A8F542284708B60D360B3452B03D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Borough (merged taxi population data.csv)' datatype='string' name='[Borough (merged_taxi_population_data.csv)]' role='dimension' type='nominal' />
+      <column caption='Data (merged taxi population data.csv)' datatype='real' name='[Data (merged_taxi_population_data.csv)]' role='measure' type='quantitative' />
+      <column caption='Location ID' datatype='integer' name='[LocationID]' role='dimension' type='ordinal' />
+      <column caption='Objectid' datatype='integer' name='[OBJECTID]' role='measure' type='quantitative' />
+      <column caption='PULocationID (merged taxi population data.csv)' datatype='integer' name='[PULocationID (merged_taxi_population_data.csv)]' role='dimension' type='ordinal' />
+      <column caption='PULocationID 1 (merged taxi population data.csv)' datatype='integer' name='[PULocationID 1 (merged_taxi_population_data.csv)]' role='dimension' type='ordinal' />
+      <column caption='Shape Area' datatype='real' name='[Shape_Area]' role='measure' type='quantitative' />
+      <column caption='Shape Leng' datatype='real' name='[Shape_Leng]' role='measure' type='quantitative' />
+      <column caption='TimeFrame (merged taxi population data.csv)' datatype='real' name='[TimeFrame (merged_taxi_population_data.csv)]' role='measure' type='quantitative' />
+      <column caption='Time Frame' datatype='integer' name='[TimeFrame]' role='measure' type='quantitative' />
+      <column caption='Zone (merged taxi population data.csv)' datatype='string' name='[Zone (merged_taxi_population_data.csv)]' role='dimension' type='nominal' />
+      <_.fcp.ObjectModelTableType.true...column caption='merged_taxi_population_data.csv' datatype='table' name='[__tableau_internal_object_id__].[merged_taxi_population_data.csv_15B8A8F542284708B60D360B3452B03D]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='taxi_zones.shp' datatype='table' name='[__tableau_internal_object_id__].[taxi_zones.shp_503FA286FC4A4BBFA81E55574DE6BB62]' role='measure' type='quantitative' />
+      <column caption='Borough' datatype='string' name='[borough]' role='dimension' type='nominal' />
+      <column caption='Fhv Trips (Merged Taxi Population Data.Csv)' datatype='integer' name='[fhv_trips (merged_taxi_population_data.csv)]' role='measure' type='quantitative' />
+      <column caption='Fhvhv Trips (Merged Taxi Population Data.Csv)' datatype='integer' name='[fhvhv_trips (merged_taxi_population_data.csv)]' role='measure' type='quantitative' />
+      <column caption='Green Trips (Merged Taxi Population Data.Csv)' datatype='integer' name='[green_trips (merged_taxi_population_data.csv)]' role='measure' type='quantitative' />
+      <column caption='Match Score (Merged Taxi Population Data.Csv)' datatype='real' name='[match_score (merged_taxi_population_data.csv)]' role='measure' type='quantitative' />
+      <column caption='Matched Demographic Region' datatype='string' name='[matched_demographic_region]' role='dimension' type='nominal' />
+      <column caption='Yellow Trips (Merged Taxi Population Data.Csv)' datatype='integer' name='[yellow_trips (merged_taxi_population_data.csv)]' role='measure' type='quantitative' />
+      <column caption='Yellow Trips' datatype='integer' name='[yellow_trips]' role='measure' type='quantitative' />
+      <column caption='Zone' datatype='string' name='[zone]' role='dimension' type='nominal' />
+      <column-instance column='[yellow_trips]' derivation='Sum' name='[sum:yellow_trips:qk]' pivot='key' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0f2k8ge1rvwx3116gust61989lnk].[cnt:Data:qk]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0f2k8ge1rvwx3116gust61989lnk].[sum:Data:qk]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0f2k8ge1rvwx3116gust61989lnk].[sum:yellow_trips:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0f2k8ge1rvwx3116gust61989lnk]&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Netherlands&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='merged_taxi_population_data.csv' id='merged_taxi_population_data.csv_15B8A8F542284708B60D360B3452B03D'>
+            <properties context=''>
+              <relation connection='textscan.1odahpc0tzvw6r1darv2111ykv9r' name='merged_taxi_population_data.csv' table='[merged_taxi_population_data#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_GB' separator=','>
+                  <column datatype='string' name='Zone' ordinal='0' />
+                  <column datatype='string' name='matched_demographic_region' ordinal='1' />
+                  <column datatype='integer' name='PULocationID' ordinal='2' />
+                  <column datatype='real' name='TimeFrame' ordinal='3' />
+                  <column datatype='real' name='Data' ordinal='4' />
+                  <column datatype='real' name='match_score' ordinal='5' />
+                  <column datatype='integer' name='PULocationID 1' ordinal='6' />
+                  <column datatype='string' name='Borough' ordinal='7' />
+                  <column datatype='string' name='Zone 1' ordinal='8' />
+                  <column datatype='integer' name='fhv_trips' ordinal='9' />
+                  <column datatype='integer' name='fhvhv_trips' ordinal='10' />
+                  <column datatype='integer' name='green_trips' ordinal='11' />
+                  <column datatype='integer' name='yellow_trips' ordinal='12' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+          <object caption='taxi_zones.shp' id='taxi_zones.shp_503FA286FC4A4BBFA81E55574DE6BB62'>
+            <properties context=''>
+              <relation connection='ogrdirect.0y9mdel0poa1t51ahdr5j10odppe' name='taxi_zones.shp' table='[taxi_zones.shp]' type='table'>
+                <columns>
+                  <column datatype='integer' name='OBJECTID' ordinal='0' />
+                  <column datatype='real' name='Shape_Leng' ordinal='1' />
+                  <column datatype='real' name='Shape_Area' ordinal='2' />
+                  <column datatype='string' name='zone' ordinal='3' />
+                  <column datatype='integer' name='LocationID' ordinal='4' />
+                  <column datatype='string' name='borough' ordinal='5' />
+                  <column datatype='spatial' name='Geometry' ordinal='6' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+        <relationships>
+          <relationship>
+            <expression op='='>
+              <expression op='[LocationID]' />
+              <expression op='[PULocationID (merged_taxi_population_data.csv)]' />
+            </expression>
+            <first-end-point object-id='taxi_zones.shp_503FA286FC4A4BBFA81E55574DE6BB62' />
+            <second-end-point object-id='merged_taxi_population_data.csv_15B8A8F542284708B60D360B3452B03D' />
+          </relationship>
+        </relationships>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <mapsources>
+    <mapsource name='Tableau' />
+  </mapsources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='taxi_zones' name='federated.0f2k8ge1rvwx3116gust61989lnk' />
+          </datasources>
+          <mapsources>
+            <mapsource name='Tableau' />
+          </mapsources>
+          <datasource-dependencies datasource='federated.0f2k8ge1rvwx3116gust61989lnk'>
+            <column caption='LN(SUM([Data (merged taxi population data.csv)]))' datatype='real' name='[Calculation_2552696597713682434]' role='measure' type='quantitative' user:unnamed='Sheet 1'>
+              <calculation class='tableau' formula='LN(SUM([Data (merged_taxi_population_data.csv)]))' />
+            </column>
+            <column caption='Data (merged taxi population data.csv)' datatype='real' name='[Data (merged_taxi_population_data.csv)]' role='measure' type='quantitative' />
+            <column datatype='spatial' name='[Geometry]' role='measure' type='nominal' />
+            <column caption='TimeFrame (merged taxi population data.csv)' datatype='real' name='[TimeFrame (merged_taxi_population_data.csv)]' role='measure' type='quantitative' />
+            <column-instance column='[Geometry]' derivation='Collect' name='[clct:Geometry:nk]' pivot='key' type='nominal' />
+            <column-instance column='[TimeFrame (merged_taxi_population_data.csv)]' derivation='None' name='[none:TimeFrame (merged_taxi_population_data.csv):ok]' pivot='key' type='ordinal' />
+            <column-instance column='[zone]' derivation='None' name='[none:zone:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Calculation_2552696597713682434]' derivation='User' name='[usr:Calculation_2552696597713682434:qk]' pivot='key' type='quantitative' />
+            <column caption='Zone' datatype='string' name='[zone]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.0f2k8ge1rvwx3116gust61989lnk].[Longitude (generated)]' field-type='quantitative' max='-8203949.3937408002' min='-8272229.5398617797' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.0f2k8ge1rvwx3116gust61989lnk].[Latitude (generated)]' field-type='quantitative' max='5004385.3542745775' min='4947054.8225598652' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+          </style-rule>
+          <style-rule element='mark'>
+            <encoding attr='color' field='[federated.0f2k8ge1rvwx3116gust61989lnk].[usr:Calculation_2552696597713682434:qk]' palette='orange_blue_diverging_10_0' type='interpolated' />
+          </style-rule>
+          <style-rule element='map'>
+            <format attr='washout' value='0.0' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='1' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <lod column='[federated.0f2k8ge1rvwx3116gust61989lnk].[clct:Geometry:nk]' />
+              <lod column='[federated.0f2k8ge1rvwx3116gust61989lnk].[none:zone:nk]' />
+              <color column='[federated.0f2k8ge1rvwx3116gust61989lnk].[usr:Calculation_2552696597713682434:qk]' />
+              <geometry column='[federated.0f2k8ge1rvwx3116gust61989lnk].[clct:Geometry:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.0f2k8ge1rvwx3116gust61989lnk].[Latitude (generated)]</rows>
+        <cols>[federated.0f2k8ge1rvwx3116gust61989lnk].[Longitude (generated)]</cols>
+        <pages>
+          <column>[federated.0f2k8ge1rvwx3116gust61989lnk].[none:TimeFrame (merged_taxi_population_data.csv):ok]</column>
+        </pages>
+      </table>
+      <simple-id uuid='{DB95C2F4-5677-45CF-A04F-5A769BE8DDCA}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='1' param='[federated.0f2k8ge1rvwx3116gust61989lnk].[usr:Calculation_2552696597713682434:qk]' type='color' />
+            <card looped='1' type='currpage' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <current-page>
+          <multibucket>
+            <bucket>%null%</bucket>
+          </multibucket>
+        </current-page>
+      </viewpoint>
+      <simple-id uuid='{5EEBA06D-5063-44BA-81FF-2EAEB9071E77}' />
+    </window>
+  </windows>
+</workbook>
