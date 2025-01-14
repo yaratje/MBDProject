@@ -12,10 +12,8 @@ airport_ids = [1, 132, 138]
 # LocationID, Nr of PickUps, Nr of DropOffs, Year, Type
 schema = StructType([
     StructField('LocationID', IntegerType(), True),
-    StructField('Nr of PickUps', IntegerType(), True),
-    StructField('Nr of DropOffs', IntegerType(), True),
-    StructField('Year', IntegerType(), True),
-    StructField('Type', StringType(), True),
+    StructField('LocationID2', IntegerType(), True),
+    StructField('Nr of DropOffs/pickupp', IntegerType(), True),
 ])
 print_df = spark.createDataFrame([], schema)
 print_df2 = spark.createDataFrame([], schema)
@@ -54,13 +52,14 @@ for year in years:
             .withColumnRenamed("PULocationID", "AirportLocationID")
             .withColumnRenamed("count", "Nr of DropOffsFromAirport")
         )
+
         print_df = pickups_to_airports.union(print_df)
         print_df2 = dropoffs_from_airports.union(print_df2)
 
 # Write print dataframe to output directory
 output = "/user/s2779323/project/output/Trips_per_LocationID_airport/"
-print_df.write.mode("overwrite").csv(output + "/pickup_output")
-print_df2.write.mode("overwrite").csv(output+ "/dropoff_output")
+print_df.coalesce(1).write.mode("overwrite").csv(output + "/pickup_output")
+print_df2.coalesce(1).write.mode("overwrite").csv(output+ "/dropoff_output")
 
 print("Saved output for the years:")
 print(*years, sep=", ")

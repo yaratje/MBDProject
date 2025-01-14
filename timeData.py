@@ -44,8 +44,8 @@ for year in years:
         HouseToWork = (
             import_df.filter(col("PULocationID").isin(living_id))
             .filter(
-                (hour(col(timename)).between(6, 8)) |  # Hours 6 to 8 (inclusive)
-                ((hour(col(timename)) == 9) & (minute(col(timename)) == 0))  # Hour 9, minute 0
+                (hour(col(timename)).between(6, 8)) |  #Hours 6 to 8
+                ((hour(col(timename)) == 9) & (minute(col(timename)) == 0))  # and 9, minute 0
             )
             .groupBy("DOLocationID", "PULocationID")
             .count()
