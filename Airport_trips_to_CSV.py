@@ -18,6 +18,7 @@ schema = StructType([
     StructField('Type', StringType(), True),
 ])
 print_df = spark.createDataFrame([], schema)
+print_df2 = spark.createDataFrame([], schema)
 
 # Define general file path
 filePath = "/user/s2645963/project/processed_data/"
@@ -53,12 +54,13 @@ for year in years:
             .withColumnRenamed("PULocationID", "AirportLocationID")
             .withColumnRenamed("count", "Nr of DropOffsFromAirport")
         )
-
+        print_df = pickups_to_airports.union(print_df)
+        print_df2 = dropoffs_from_airports.union(print_df2)
 
 # Write print dataframe to output directory
 output = "/user/s2779323/project/output/Trips_per_LocationID_airport/"
-pickups_to_airports.write.mode("overwrite").csv(output + "/pickup_output")
-dropoffs_from_airports.write.mode("overwrite").csv(output+ "/dropoff_output")
+print_df.write.mode("overwrite").csv(output + "/pickup_output")
+print_df2.write.mode("overwrite").csv(output+ "/dropoff_output")
 
 print("Saved output for the years:")
 print(*years, sep=", ")
