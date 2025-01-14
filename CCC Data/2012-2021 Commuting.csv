@@ -1,0 +1,1761 @@
+"Name","Commuting"
+"Description","The share of individuals who worked in the last week (excluding those who work at home), by the reported time it usually takes to get from home to work."
+"Source Notes","U.S. Census Bureau, American Community Survey 1-Year Estimates, Table B08012 (2012-2019, 2021); retrieved from <a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a>."
+"Notes","Please note, we do not report 2020 American Community Survey 1-year estimates. Due to disruptions and biases in data collection during 2020, the Census Bureau released the &ldquo;experimental&rdquo; 1-year estimates for 2020 and advises against comparing against estimates from prior or future years."
+
+Location,Travel Time,TimeFrame,DataFormat,Data,Fips
+Battery Park/Tribeca,Under 30 minutes,2012,Percent,0.6429,101
+Greenwich Village,Under 30 minutes,2012,Percent,0.6429,102
+Lower East Side,Under 30 minutes,2012,Percent,0.44275,103
+Chelsea/Clinton,Under 30 minutes,2012,Percent,0.66503,104
+Midtown Business District,Under 30 minutes,2012,Percent,0.66503,105
+Murray Hill/Stuyvesant,Under 30 minutes,2012,Percent,0.59842,106
+Upper West Side,Under 30 minutes,2012,Percent,0.45796,107
+Upper East Side,Under 30 minutes,2012,Percent,0.43841,108
+Manhattanville,Under 30 minutes,2012,Percent,0.34886,109
+Central Harlem,Under 30 minutes,2012,Percent,0.28845,110
+East Harlem,Under 30 minutes,2012,Percent,0.34176,111
+Washington Heights,Under 30 minutes,2012,Percent,0.2928,112
+Mott Haven,Under 30 minutes,2012,Percent,0.3021,201
+Hunts Point,Under 30 minutes,2012,Percent,0.3021,202
+Morrisania,Under 30 minutes,2012,Percent,0.25693,203
+Concourse/Highbridge,Under 30 minutes,2012,Percent,0.27434,204
+University Heights,Under 30 minutes,2012,Percent,0.26625,205
+East Tremont,Under 30 minutes,2012,Percent,0.25693,206
+Bedford Park,Under 30 minutes,2012,Percent,0.28013,207
+Riverdale,Under 30 minutes,2012,Percent,0.29675,208
+Unionport/Soundview,Under 30 minutes,2012,Percent,0.21424,209
+Throgs Neck,Under 30 minutes,2012,Percent,0.31189,210
+Pelham Parkway,Under 30 minutes,2012,Percent,0.34825,211
+Williamsbridge,Under 30 minutes,2012,Percent,0.25831,212
+Williamsburg/Greenpoint,Under 30 minutes,2012,Percent,0.37612,301
+Fort Greene/Brooklyn Hts,Under 30 minutes,2012,Percent,0.30961,302
+Bedford Stuyvesant,Under 30 minutes,2012,Percent,0.24708,303
+Bushwick,Under 30 minutes,2012,Percent,0.24511,304
+East New York,Under 30 minutes,2012,Percent,0.1656,305
+Park Slope,Under 30 minutes,2012,Percent,0.26334,306
+Sunset Park,Under 30 minutes,2012,Percent,0.26859,307
+Crown Heights North,Under 30 minutes,2012,Percent,0.22848,308
+Crown Heights South,Under 30 minutes,2012,Percent,0.24343,309
+Bay Ridge,Under 30 minutes,2012,Percent,0.28073,310
+Bensonhurst,Under 30 minutes,2012,Percent,0.24632,311
+Borough Park,Under 30 minutes,2012,Percent,0.39026,312
+Coney Island,Under 30 minutes,2012,Percent,0.28453,313
+Flatbush/Midwood,Under 30 minutes,2012,Percent,0.28739,314
+Sheepshead Bay,Under 30 minutes,2012,Percent,0.28556,315
+Brownsville,Under 30 minutes,2012,Percent,0.21982,316
+East Flatbush,Under 30 minutes,2012,Percent,0.26153,317
+Canarsie,Under 30 minutes,2012,Percent,0.26352,318
+Astoria,Under 30 minutes,2012,Percent,0.25622,401
+Sunnyside/Woodside,Under 30 minutes,2012,Percent,0.26829,402
+Jackson Heights,Under 30 minutes,2012,Percent,0.27109,403
+Elmhurst/Corona,Under 30 minutes,2012,Percent,0.25115,404
+Ridgewood/Glendale,Under 30 minutes,2012,Percent,0.22133,405
+Rego Park/Forest Hills,Under 30 minutes,2012,Percent,0.22458,406
+Flushing,Under 30 minutes,2012,Percent,0.36087,407
+Fresh Meadows/Briarwood,Under 30 minutes,2012,Percent,0.28237,408
+Woodhaven,Under 30 minutes,2012,Percent,0.21664,409
+Howard Beach,Under 30 minutes,2012,Percent,0.29683,410
+Bayside,Under 30 minutes,2012,Percent,0.3692,411
+Jamaica/St. Albans,Under 30 minutes,2012,Percent,0.22321,412
+Queens Village,Under 30 minutes,2012,Percent,0.29445,413
+The Rockaways,Under 30 minutes,2012,Percent,0.37008,414
+St. George,Under 30 minutes,2012,Percent,0.40099,501
+South Beach,Under 30 minutes,2012,Percent,0.39028,502
+Tottenville,Under 30 minutes,2012,Percent,0.41244,503
+Bronx,Under 30 minutes,2012,Percent,0.27857,36005
+Brooklyn,Under 30 minutes,2012,Percent,0.27298,36047
+Manhattan,Under 30 minutes,2012,Percent,0.46504,36061
+Queens,Under 30 minutes,2012,Percent,0.27747,36081
+Staten Island,Under 30 minutes,2012,Percent,0.4019,36085
+New York City,Under 30 minutes,2012,Percent,0.32425,3651000
+Battery Park/Tribeca,An hour or more,2012,Percent,0.05566,101
+Greenwich Village,An hour or more,2012,Percent,0.05566,102
+Lower East Side,An hour or more,2012,Percent,0.11627,103
+Chelsea/Clinton,An hour or more,2012,Percent,0.05536,104
+Midtown Business District,An hour or more,2012,Percent,0.05536,105
+Murray Hill/Stuyvesant,An hour or more,2012,Percent,0.0827,106
+Upper West Side,An hour or more,2012,Percent,0.06982,107
+Upper East Side,An hour or more,2012,Percent,0.08554,108
+Manhattanville,An hour or more,2012,Percent,0.11444,109
+Central Harlem,An hour or more,2012,Percent,0.17665,110
+East Harlem,An hour or more,2012,Percent,0.12238,111
+Washington Heights,An hour or more,2012,Percent,0.21282,112
+Mott Haven,An hour or more,2012,Percent,0.27592,201
+Hunts Point,An hour or more,2012,Percent,0.27592,202
+Morrisania,An hour or more,2012,Percent,0.31098,203
+Concourse/Highbridge,An hour or more,2012,Percent,0.24829,204
+University Heights,An hour or more,2012,Percent,0.30112,205
+East Tremont,An hour or more,2012,Percent,0.31098,206
+Bedford Park,An hour or more,2012,Percent,0.30121,207
+Riverdale,An hour or more,2012,Percent,0.31905,208
+Unionport/Soundview,An hour or more,2012,Percent,0.35533,209
+Throgs Neck,An hour or more,2012,Percent,0.37839,210
+Pelham Parkway,An hour or more,2012,Percent,0.29924,211
+Williamsbridge,An hour or more,2012,Percent,0.35881,212
+Williamsburg/Greenpoint,An hour or more,2012,Percent,0.07369,301
+Fort Greene/Brooklyn Hts,An hour or more,2012,Percent,0.12345,302
+Bedford Stuyvesant,An hour or more,2012,Percent,0.28161,303
+Bushwick,An hour or more,2012,Percent,0.19677,304
+East New York,An hour or more,2012,Percent,0.25336,305
+Park Slope,An hour or more,2012,Percent,0.13147,306
+Sunset Park,An hour or more,2012,Percent,0.25614,307
+Crown Heights North,An hour or more,2012,Percent,0.23802,308
+Crown Heights South,An hour or more,2012,Percent,0.26779,309
+Bay Ridge,An hour or more,2012,Percent,0.34681,310
+Bensonhurst,An hour or more,2012,Percent,0.36574,311
+Borough Park,An hour or more,2012,Percent,0.21248,312
+Coney Island,An hour or more,2012,Percent,0.38001,313
+Flatbush/Midwood,An hour or more,2012,Percent,0.24074,314
+Sheepshead Bay,An hour or more,2012,Percent,0.36046,315
+Brownsville,An hour or more,2012,Percent,0.34065,316
+East Flatbush,An hour or more,2012,Percent,0.29993,317
+Canarsie,An hour or more,2012,Percent,0.36356,318
+Astoria,An hour or more,2012,Percent,0.14144,401
+Sunnyside/Woodside,An hour or more,2012,Percent,0.16416,402
+Jackson Heights,An hour or more,2012,Percent,0.23195,403
+Elmhurst/Corona,An hour or more,2012,Percent,0.23121,404
+Ridgewood/Glendale,An hour or more,2012,Percent,0.16331,405
+Rego Park/Forest Hills,An hour or more,2012,Percent,0.25923,406
+Flushing,An hour or more,2012,Percent,0.28217,407
+Fresh Meadows/Briarwood,An hour or more,2012,Percent,0.33902,408
+Woodhaven,An hour or more,2012,Percent,0.36617,409
+Howard Beach,An hour or more,2012,Percent,0.35818,410
+Bayside,An hour or more,2012,Percent,0.2475,411
+Jamaica/St. Albans,An hour or more,2012,Percent,0.39304,412
+Queens Village,An hour or more,2012,Percent,0.36098,413
+The Rockaways,An hour or more,2012,Percent,0.32431,414
+St. George,An hour or more,2012,Percent,0.31141,501
+South Beach,An hour or more,2012,Percent,0.31525,502
+Tottenville,An hour or more,2012,Percent,0.30599,503
+Bronx,An hour or more,2012,Percent,0.31762,36005
+Brooklyn,An hour or more,2012,Percent,0.26114,36047
+Manhattan,An hour or more,2012,Percent,0.10517,36061
+Queens,An hour or more,2012,Percent,0.27654,36081
+Staten Island,An hour or more,2012,Percent,0.31063,36085
+New York City,An hour or more,2012,Percent,0.24227,3651000
+Battery Park/Tribeca,30 to 59 minutes,2012,Percent,0.30144,101
+Greenwich Village,30 to 59 minutes,2012,Percent,0.30144,102
+Lower East Side,30 to 59 minutes,2012,Percent,0.44099,103
+Chelsea/Clinton,30 to 59 minutes,2012,Percent,0.27961,104
+Midtown Business District,30 to 59 minutes,2012,Percent,0.27961,105
+Murray Hill/Stuyvesant,30 to 59 minutes,2012,Percent,0.31888,106
+Upper West Side,30 to 59 minutes,2012,Percent,0.47221,107
+Upper East Side,30 to 59 minutes,2012,Percent,0.47605,108
+Manhattanville,30 to 59 minutes,2012,Percent,0.53669,109
+Central Harlem,30 to 59 minutes,2012,Percent,0.5349,110
+East Harlem,30 to 59 minutes,2012,Percent,0.53586,111
+Washington Heights,30 to 59 minutes,2012,Percent,0.49438,112
+Mott Haven,30 to 59 minutes,2012,Percent,0.42198,201
+Hunts Point,30 to 59 minutes,2012,Percent,0.42198,202
+Morrisania,30 to 59 minutes,2012,Percent,0.43209,203
+Concourse/Highbridge,30 to 59 minutes,2012,Percent,0.47737,204
+University Heights,30 to 59 minutes,2012,Percent,0.43263,205
+East Tremont,30 to 59 minutes,2012,Percent,0.43209,206
+Bedford Park,30 to 59 minutes,2012,Percent,0.41865,207
+Riverdale,30 to 59 minutes,2012,Percent,0.3842,208
+Unionport/Soundview,30 to 59 minutes,2012,Percent,0.43042,209
+Throgs Neck,30 to 59 minutes,2012,Percent,0.30972,210
+Pelham Parkway,30 to 59 minutes,2012,Percent,0.35251,211
+Williamsbridge,30 to 59 minutes,2012,Percent,0.38288,212
+Williamsburg/Greenpoint,30 to 59 minutes,2012,Percent,0.55019,301
+Fort Greene/Brooklyn Hts,30 to 59 minutes,2012,Percent,0.56694,302
+Bedford Stuyvesant,30 to 59 minutes,2012,Percent,0.47132,303
+Bushwick,30 to 59 minutes,2012,Percent,0.55812,304
+East New York,30 to 59 minutes,2012,Percent,0.58105,305
+Park Slope,30 to 59 minutes,2012,Percent,0.60519,306
+Sunset Park,30 to 59 minutes,2012,Percent,0.47528,307
+Crown Heights North,30 to 59 minutes,2012,Percent,0.53349,308
+Crown Heights South,30 to 59 minutes,2012,Percent,0.48877,309
+Bay Ridge,30 to 59 minutes,2012,Percent,0.37246,310
+Bensonhurst,30 to 59 minutes,2012,Percent,0.38794,311
+Borough Park,30 to 59 minutes,2012,Percent,0.39726,312
+Coney Island,30 to 59 minutes,2012,Percent,0.33546,313
+Flatbush/Midwood,30 to 59 minutes,2012,Percent,0.47187,314
+Sheepshead Bay,30 to 59 minutes,2012,Percent,0.35398,315
+Brownsville,30 to 59 minutes,2012,Percent,0.43953,316
+East Flatbush,30 to 59 minutes,2012,Percent,0.43854,317
+Canarsie,30 to 59 minutes,2012,Percent,0.37292,318
+Astoria,30 to 59 minutes,2012,Percent,0.60234,401
+Sunnyside/Woodside,30 to 59 minutes,2012,Percent,0.56756,402
+Jackson Heights,30 to 59 minutes,2012,Percent,0.49696,403
+Elmhurst/Corona,30 to 59 minutes,2012,Percent,0.51764,404
+Ridgewood/Glendale,30 to 59 minutes,2012,Percent,0.61536,405
+Rego Park/Forest Hills,30 to 59 minutes,2012,Percent,0.51619,406
+Flushing,30 to 59 minutes,2012,Percent,0.35697,407
+Fresh Meadows/Briarwood,30 to 59 minutes,2012,Percent,0.37861,408
+Woodhaven,30 to 59 minutes,2012,Percent,0.41719,409
+Howard Beach,30 to 59 minutes,2012,Percent,0.34499,410
+Bayside,30 to 59 minutes,2012,Percent,0.3833,411
+Jamaica/St. Albans,30 to 59 minutes,2012,Percent,0.38375,412
+Queens Village,30 to 59 minutes,2012,Percent,0.34457,413
+The Rockaways,30 to 59 minutes,2012,Percent,0.30561,414
+St. George,30 to 59 minutes,2012,Percent,0.2876,501
+South Beach,30 to 59 minutes,2012,Percent,0.29447,502
+Tottenville,30 to 59 minutes,2012,Percent,0.28157,503
+Bronx,30 to 59 minutes,2012,Percent,0.40381,36005
+Brooklyn,30 to 59 minutes,2012,Percent,0.46588,36047
+Manhattan,30 to 59 minutes,2012,Percent,0.42979,36061
+Queens,30 to 59 minutes,2012,Percent,0.44598,36081
+Staten Island,30 to 59 minutes,2012,Percent,0.28747,36085
+New York City,30 to 59 minutes,2012,Percent,0.43348,3651000
+Battery Park/Tribeca,Under 30 minutes,2013,Percent,0.65019,101
+Greenwich Village,Under 30 minutes,2013,Percent,0.65019,102
+Lower East Side,Under 30 minutes,2013,Percent,0.49909,103
+Chelsea/Clinton,Under 30 minutes,2013,Percent,0.64246,104
+Midtown Business District,Under 30 minutes,2013,Percent,0.64246,105
+Murray Hill/Stuyvesant,Under 30 minutes,2013,Percent,0.56864,106
+Upper West Side,Under 30 minutes,2013,Percent,0.39992,107
+Upper East Side,Under 30 minutes,2013,Percent,0.4475,108
+Manhattanville,Under 30 minutes,2013,Percent,0.32185,109
+Central Harlem,Under 30 minutes,2013,Percent,0.32839,110
+East Harlem,Under 30 minutes,2013,Percent,0.31837,111
+Washington Heights,Under 30 minutes,2013,Percent,0.26433,112
+Mott Haven,Under 30 minutes,2013,Percent,0.23925,201
+Hunts Point,Under 30 minutes,2013,Percent,0.23925,202
+Morrisania,Under 30 minutes,2013,Percent,0.30599,203
+Concourse/Highbridge,Under 30 minutes,2013,Percent,0.27644,204
+University Heights,Under 30 minutes,2013,Percent,0.26396,205
+East Tremont,Under 30 minutes,2013,Percent,0.30599,206
+Bedford Park,Under 30 minutes,2013,Percent,0.26938,207
+Riverdale,Under 30 minutes,2013,Percent,0.26602,208
+Unionport/Soundview,Under 30 minutes,2013,Percent,0.2967,209
+Throgs Neck,Under 30 minutes,2013,Percent,0.37745,210
+Pelham Parkway,Under 30 minutes,2013,Percent,0.33631,211
+Williamsbridge,Under 30 minutes,2013,Percent,0.29383,212
+Williamsburg/Greenpoint,Under 30 minutes,2013,Percent,0.31231,301
+Fort Greene/Brooklyn Hts,Under 30 minutes,2013,Percent,0.33809,302
+Bedford Stuyvesant,Under 30 minutes,2013,Percent,0.27572,303
+Bushwick,Under 30 minutes,2013,Percent,0.18697,304
+East New York,Under 30 minutes,2013,Percent,0.19687,305
+Park Slope,Under 30 minutes,2013,Percent,0.23369,306
+Sunset Park,Under 30 minutes,2013,Percent,0.26526,307
+Crown Heights North,Under 30 minutes,2013,Percent,0.20597,308
+Crown Heights South,Under 30 minutes,2013,Percent,0.21683,309
+Bay Ridge,Under 30 minutes,2013,Percent,0.27107,310
+Bensonhurst,Under 30 minutes,2013,Percent,0.22403,311
+Borough Park,Under 30 minutes,2013,Percent,0.42844,312
+Coney Island,Under 30 minutes,2013,Percent,0.25087,313
+Flatbush/Midwood,Under 30 minutes,2013,Percent,0.31059,314
+Sheepshead Bay,Under 30 minutes,2013,Percent,0.28839,315
+Brownsville,Under 30 minutes,2013,Percent,0.23375,316
+East Flatbush,Under 30 minutes,2013,Percent,0.1768,317
+Canarsie,Under 30 minutes,2013,Percent,0.28457,318
+Astoria,Under 30 minutes,2013,Percent,0.24857,401
+Sunnyside/Woodside,Under 30 minutes,2013,Percent,0.23809,402
+Jackson Heights,Under 30 minutes,2013,Percent,0.28529,403
+Elmhurst/Corona,Under 30 minutes,2013,Percent,0.26733,404
+Ridgewood/Glendale,Under 30 minutes,2013,Percent,0.24623,405
+Rego Park/Forest Hills,Under 30 minutes,2013,Percent,0.25507,406
+Flushing,Under 30 minutes,2013,Percent,0.31482,407
+Fresh Meadows/Briarwood,Under 30 minutes,2013,Percent,0.28274,408
+Woodhaven,Under 30 minutes,2013,Percent,0.2226,409
+Howard Beach,Under 30 minutes,2013,Percent,0.2642,410
+Bayside,Under 30 minutes,2013,Percent,0.34836,411
+Jamaica/St. Albans,Under 30 minutes,2013,Percent,0.24581,412
+Queens Village,Under 30 minutes,2013,Percent,0.30011,413
+The Rockaways,Under 30 minutes,2013,Percent,0.2547,414
+St. George,Under 30 minutes,2013,Percent,0.33916,501
+South Beach,Under 30 minutes,2013,Percent,0.42532,502
+Tottenville,Under 30 minutes,2013,Percent,0.3403,503
+Bronx,Under 30 minutes,2013,Percent,0.29329,36005
+Brooklyn,Under 30 minutes,2013,Percent,0.26264,36047
+Manhattan,Under 30 minutes,2013,Percent,0.46127,36061
+Queens,Under 30 minutes,2013,Percent,0.26998,36081
+Staten Island,Under 30 minutes,2013,Percent,0.36407,36085
+New York City,Under 30 minutes,2013,Percent,0.31823,3651000
+Battery Park/Tribeca,An hour or more,2013,Percent,0.0381,101
+Greenwich Village,An hour or more,2013,Percent,0.0381,102
+Lower East Side,An hour or more,2013,Percent,0.11364,103
+Chelsea/Clinton,An hour or more,2013,Percent,0.07335,104
+Midtown Business District,An hour or more,2013,Percent,0.07335,105
+Murray Hill/Stuyvesant,An hour or more,2013,Percent,0.04153,106
+Upper West Side,An hour or more,2013,Percent,0.06839,107
+Upper East Side,An hour or more,2013,Percent,0.0542,108
+Manhattanville,An hour or more,2013,Percent,0.17138,109
+Central Harlem,An hour or more,2013,Percent,0.15445,110
+East Harlem,An hour or more,2013,Percent,0.15173,111
+Washington Heights,An hour or more,2013,Percent,0.22093,112
+Mott Haven,An hour or more,2013,Percent,0.27924,201
+Hunts Point,An hour or more,2013,Percent,0.27924,202
+Morrisania,An hour or more,2013,Percent,0.33202,203
+Concourse/Highbridge,An hour or more,2013,Percent,0.24024,204
+University Heights,An hour or more,2013,Percent,0.29392,205
+East Tremont,An hour or more,2013,Percent,0.33202,206
+Bedford Park,An hour or more,2013,Percent,0.40099,207
+Riverdale,An hour or more,2013,Percent,0.32936,208
+Unionport/Soundview,An hour or more,2013,Percent,0.36605,209
+Throgs Neck,An hour or more,2013,Percent,0.33923,210
+Pelham Parkway,An hour or more,2013,Percent,0.3207,211
+Williamsbridge,An hour or more,2013,Percent,0.32989,212
+Williamsburg/Greenpoint,An hour or more,2013,Percent,0.10107,301
+Fort Greene/Brooklyn Hts,An hour or more,2013,Percent,0.10723,302
+Bedford Stuyvesant,An hour or more,2013,Percent,0.23742,303
+Bushwick,An hour or more,2013,Percent,0.18652,304
+East New York,An hour or more,2013,Percent,0.32134,305
+Park Slope,An hour or more,2013,Percent,0.10197,306
+Sunset Park,An hour or more,2013,Percent,0.26721,307
+Crown Heights North,An hour or more,2013,Percent,0.21417,308
+Crown Heights South,An hour or more,2013,Percent,0.24648,309
+Bay Ridge,An hour or more,2013,Percent,0.35201,310
+Bensonhurst,An hour or more,2013,Percent,0.40176,311
+Borough Park,An hour or more,2013,Percent,0.24908,312
+Coney Island,An hour or more,2013,Percent,0.34439,313
+Flatbush/Midwood,An hour or more,2013,Percent,0.25673,314
+Sheepshead Bay,An hour or more,2013,Percent,0.31931,315
+Brownsville,An hour or more,2013,Percent,0.37847,316
+East Flatbush,An hour or more,2013,Percent,0.32713,317
+Canarsie,An hour or more,2013,Percent,0.3374,318
+Astoria,An hour or more,2013,Percent,0.14125,401
+Sunnyside/Woodside,An hour or more,2013,Percent,0.11671,402
+Jackson Heights,An hour or more,2013,Percent,0.26155,403
+Elmhurst/Corona,An hour or more,2013,Percent,0.24272,404
+Ridgewood/Glendale,An hour or more,2013,Percent,0.19486,405
+Rego Park/Forest Hills,An hour or more,2013,Percent,0.24339,406
+Flushing,An hour or more,2013,Percent,0.33299,407
+Fresh Meadows/Briarwood,An hour or more,2013,Percent,0.35989,408
+Woodhaven,An hour or more,2013,Percent,0.30312,409
+Howard Beach,An hour or more,2013,Percent,0.33377,410
+Bayside,An hour or more,2013,Percent,0.29237,411
+Jamaica/St. Albans,An hour or more,2013,Percent,0.39181,412
+Queens Village,An hour or more,2013,Percent,0.34299,413
+The Rockaways,An hour or more,2013,Percent,0.43181,414
+St. George,An hour or more,2013,Percent,0.33768,501
+South Beach,An hour or more,2013,Percent,0.29356,502
+Tottenville,An hour or more,2013,Percent,0.40679,503
+Bronx,An hour or more,2013,Percent,0.3247,36005
+Brooklyn,An hour or more,2013,Percent,0.26253,36047
+Manhattan,An hour or more,2013,Percent,0.09856,36061
+Queens,An hour or more,2013,Percent,0.28244,36081
+Staten Island,An hour or more,2013,Percent,0.35025,36085
+New York City,An hour or more,2013,Percent,0.24592,3651000
+Battery Park/Tribeca,30 to 59 minutes,2013,Percent,0.31171,101
+Greenwich Village,30 to 59 minutes,2013,Percent,0.31171,102
+Lower East Side,30 to 59 minutes,2013,Percent,0.38727,103
+Chelsea/Clinton,30 to 59 minutes,2013,Percent,0.28418,104
+Midtown Business District,30 to 59 minutes,2013,Percent,0.28418,105
+Murray Hill/Stuyvesant,30 to 59 minutes,2013,Percent,0.38983,106
+Upper West Side,30 to 59 minutes,2013,Percent,0.53169,107
+Upper East Side,30 to 59 minutes,2013,Percent,0.4983,108
+Manhattanville,30 to 59 minutes,2013,Percent,0.50677,109
+Central Harlem,30 to 59 minutes,2013,Percent,0.51716,110
+East Harlem,30 to 59 minutes,2013,Percent,0.5299,111
+Washington Heights,30 to 59 minutes,2013,Percent,0.51474,112
+Mott Haven,30 to 59 minutes,2013,Percent,0.48151,201
+Hunts Point,30 to 59 minutes,2013,Percent,0.48151,202
+Morrisania,30 to 59 minutes,2013,Percent,0.36199,203
+Concourse/Highbridge,30 to 59 minutes,2013,Percent,0.48332,204
+University Heights,30 to 59 minutes,2013,Percent,0.44212,205
+East Tremont,30 to 59 minutes,2013,Percent,0.36199,206
+Bedford Park,30 to 59 minutes,2013,Percent,0.32964,207
+Riverdale,30 to 59 minutes,2013,Percent,0.40462,208
+Unionport/Soundview,30 to 59 minutes,2013,Percent,0.33725,209
+Throgs Neck,30 to 59 minutes,2013,Percent,0.28332,210
+Pelham Parkway,30 to 59 minutes,2013,Percent,0.34299,211
+Williamsbridge,30 to 59 minutes,2013,Percent,0.37628,212
+Williamsburg/Greenpoint,30 to 59 minutes,2013,Percent,0.58662,301
+Fort Greene/Brooklyn Hts,30 to 59 minutes,2013,Percent,0.55469,302
+Bedford Stuyvesant,30 to 59 minutes,2013,Percent,0.48686,303
+Bushwick,30 to 59 minutes,2013,Percent,0.62651,304
+East New York,30 to 59 minutes,2013,Percent,0.48179,305
+Park Slope,30 to 59 minutes,2013,Percent,0.66434,306
+Sunset Park,30 to 59 minutes,2013,Percent,0.46752,307
+Crown Heights North,30 to 59 minutes,2013,Percent,0.57985,308
+Crown Heights South,30 to 59 minutes,2013,Percent,0.53669,309
+Bay Ridge,30 to 59 minutes,2013,Percent,0.37692,310
+Bensonhurst,30 to 59 minutes,2013,Percent,0.37421,311
+Borough Park,30 to 59 minutes,2013,Percent,0.32248,312
+Coney Island,30 to 59 minutes,2013,Percent,0.40474,313
+Flatbush/Midwood,30 to 59 minutes,2013,Percent,0.43268,314
+Sheepshead Bay,30 to 59 minutes,2013,Percent,0.3923,315
+Brownsville,30 to 59 minutes,2013,Percent,0.38778,316
+East Flatbush,30 to 59 minutes,2013,Percent,0.49607,317
+Canarsie,30 to 59 minutes,2013,Percent,0.37803,318
+Astoria,30 to 59 minutes,2013,Percent,0.61018,401
+Sunnyside/Woodside,30 to 59 minutes,2013,Percent,0.6452,402
+Jackson Heights,30 to 59 minutes,2013,Percent,0.45316,403
+Elmhurst/Corona,30 to 59 minutes,2013,Percent,0.48995,404
+Ridgewood/Glendale,30 to 59 minutes,2013,Percent,0.55891,405
+Rego Park/Forest Hills,30 to 59 minutes,2013,Percent,0.50153,406
+Flushing,30 to 59 minutes,2013,Percent,0.35219,407
+Fresh Meadows/Briarwood,30 to 59 minutes,2013,Percent,0.35738,408
+Woodhaven,30 to 59 minutes,2013,Percent,0.47427,409
+Howard Beach,30 to 59 minutes,2013,Percent,0.40203,410
+Bayside,30 to 59 minutes,2013,Percent,0.35927,411
+Jamaica/St. Albans,30 to 59 minutes,2013,Percent,0.36238,412
+Queens Village,30 to 59 minutes,2013,Percent,0.3569,413
+The Rockaways,30 to 59 minutes,2013,Percent,0.31349,414
+St. George,30 to 59 minutes,2013,Percent,0.32316,501
+South Beach,30 to 59 minutes,2013,Percent,0.28112,502
+Tottenville,30 to 59 minutes,2013,Percent,0.25291,503
+Bronx,30 to 59 minutes,2013,Percent,0.38201,36005
+Brooklyn,30 to 59 minutes,2013,Percent,0.47484,36047
+Manhattan,30 to 59 minutes,2013,Percent,0.44017,36061
+Queens,30 to 59 minutes,2013,Percent,0.44758,36081
+Staten Island,30 to 59 minutes,2013,Percent,0.28569,36085
+New York City,30 to 59 minutes,2013,Percent,0.43586,3651000
+Battery Park/Tribeca,Under 30 minutes,2014,Percent,0.58618,101
+Greenwich Village,Under 30 minutes,2014,Percent,0.58618,102
+Lower East Side,Under 30 minutes,2014,Percent,0.5188,103
+Chelsea/Clinton,Under 30 minutes,2014,Percent,0.57282,104
+Midtown Business District,Under 30 minutes,2014,Percent,0.57282,105
+Murray Hill/Stuyvesant,Under 30 minutes,2014,Percent,0.56851,106
+Upper West Side,Under 30 minutes,2014,Percent,0.42099,107
+Upper East Side,Under 30 minutes,2014,Percent,0.40981,108
+Manhattanville,Under 30 minutes,2014,Percent,0.34101,109
+Central Harlem,Under 30 minutes,2014,Percent,0.30458,110
+East Harlem,Under 30 minutes,2014,Percent,0.36113,111
+Washington Heights,Under 30 minutes,2014,Percent,0.26327,112
+Mott Haven,Under 30 minutes,2014,Percent,0.23775,201
+Hunts Point,Under 30 minutes,2014,Percent,0.23775,202
+Morrisania,Under 30 minutes,2014,Percent,0.22584,203
+Concourse/Highbridge,Under 30 minutes,2014,Percent,0.29109,204
+University Heights,Under 30 minutes,2014,Percent,0.2782,205
+East Tremont,Under 30 minutes,2014,Percent,0.22584,206
+Bedford Park,Under 30 minutes,2014,Percent,0.23851,207
+Riverdale,Under 30 minutes,2014,Percent,0.26977,208
+Unionport/Soundview,Under 30 minutes,2014,Percent,0.22199,209
+Throgs Neck,Under 30 minutes,2014,Percent,0.3093,210
+Pelham Parkway,Under 30 minutes,2014,Percent,0.32999,211
+Williamsbridge,Under 30 minutes,2014,Percent,0.31599,212
+Williamsburg/Greenpoint,Under 30 minutes,2014,Percent,0.28806,301
+Fort Greene/Brooklyn Hts,Under 30 minutes,2014,Percent,0.30144,302
+Bedford Stuyvesant,Under 30 minutes,2014,Percent,0.21356,303
+Bushwick,Under 30 minutes,2014,Percent,0.22231,304
+East New York,Under 30 minutes,2014,Percent,0.13983,305
+Park Slope,Under 30 minutes,2014,Percent,0.24047,306
+Sunset Park,Under 30 minutes,2014,Percent,0.24269,307
+Crown Heights North,Under 30 minutes,2014,Percent,0.24537,308
+Crown Heights South,Under 30 minutes,2014,Percent,0.21924,309
+Bay Ridge,Under 30 minutes,2014,Percent,0.28697,310
+Bensonhurst,Under 30 minutes,2014,Percent,0.24258,311
+Borough Park,Under 30 minutes,2014,Percent,0.4006,312
+Coney Island,Under 30 minutes,2014,Percent,0.31846,313
+Flatbush/Midwood,Under 30 minutes,2014,Percent,0.26035,314
+Sheepshead Bay,Under 30 minutes,2014,Percent,0.27443,315
+Brownsville,Under 30 minutes,2014,Percent,0.18862,316
+East Flatbush,Under 30 minutes,2014,Percent,0.18229,317
+Canarsie,Under 30 minutes,2014,Percent,0.26999,318
+Astoria,Under 30 minutes,2014,Percent,0.27164,401
+Sunnyside/Woodside,Under 30 minutes,2014,Percent,0.26366,402
+Jackson Heights,Under 30 minutes,2014,Percent,0.24417,403
+Elmhurst/Corona,Under 30 minutes,2014,Percent,0.21352,404
+Ridgewood/Glendale,Under 30 minutes,2014,Percent,0.20736,405
+Rego Park/Forest Hills,Under 30 minutes,2014,Percent,0.22285,406
+Flushing,Under 30 minutes,2014,Percent,0.34924,407
+Fresh Meadows/Briarwood,Under 30 minutes,2014,Percent,0.31334,408
+Woodhaven,Under 30 minutes,2014,Percent,0.22391,409
+Howard Beach,Under 30 minutes,2014,Percent,0.27551,410
+Bayside,Under 30 minutes,2014,Percent,0.31195,411
+Jamaica/St. Albans,Under 30 minutes,2014,Percent,0.20806,412
+Queens Village,Under 30 minutes,2014,Percent,0.2701,413
+The Rockaways,Under 30 minutes,2014,Percent,0.26915,414
+St. George,Under 30 minutes,2014,Percent,0.42323,501
+South Beach,Under 30 minutes,2014,Percent,0.35037,502
+Tottenville,Under 30 minutes,2014,Percent,0.36885,503
+Bronx,Under 30 minutes,2014,Percent,0.27033,36005
+Brooklyn,Under 30 minutes,2014,Percent,0.25335,36047
+Manhattan,Under 30 minutes,2014,Percent,0.44299,36061
+Queens,Under 30 minutes,2014,Percent,0.26145,36081
+Staten Island,Under 30 minutes,2014,Percent,0.38368,36085
+New York City,Under 30 minutes,2014,Percent,0.30662,3651000
+Battery Park/Tribeca,An hour or more,2014,Percent,0.05465,101
+Greenwich Village,An hour or more,2014,Percent,0.05465,102
+Lower East Side,An hour or more,2014,Percent,0.08164,103
+Chelsea/Clinton,An hour or more,2014,Percent,0.06817,104
+Midtown Business District,An hour or more,2014,Percent,0.06817,105
+Murray Hill/Stuyvesant,An hour or more,2014,Percent,0.06712,106
+Upper West Side,An hour or more,2014,Percent,0.07457,107
+Upper East Side,An hour or more,2014,Percent,0.07336,108
+Manhattanville,An hour or more,2014,Percent,0.10044,109
+Central Harlem,An hour or more,2014,Percent,0.09827,110
+East Harlem,An hour or more,2014,Percent,0.14514,111
+Washington Heights,An hour or more,2014,Percent,0.2307,112
+Mott Haven,An hour or more,2014,Percent,0.26756,201
+Hunts Point,An hour or more,2014,Percent,0.26756,202
+Morrisania,An hour or more,2014,Percent,0.3577,203
+Concourse/Highbridge,An hour or more,2014,Percent,0.20178,204
+University Heights,An hour or more,2014,Percent,0.29382,205
+East Tremont,An hour or more,2014,Percent,0.3577,206
+Bedford Park,An hour or more,2014,Percent,0.31206,207
+Riverdale,An hour or more,2014,Percent,0.34245,208
+Unionport/Soundview,An hour or more,2014,Percent,0.3761,209
+Throgs Neck,An hour or more,2014,Percent,0.3498,210
+Pelham Parkway,An hour or more,2014,Percent,0.35721,211
+Williamsbridge,An hour or more,2014,Percent,0.36815,212
+Williamsburg/Greenpoint,An hour or more,2014,Percent,0.11639,301
+Fort Greene/Brooklyn Hts,An hour or more,2014,Percent,0.12729,302
+Bedford Stuyvesant,An hour or more,2014,Percent,0.23182,303
+Bushwick,An hour or more,2014,Percent,0.20742,304
+East New York,An hour or more,2014,Percent,0.28311,305
+Park Slope,An hour or more,2014,Percent,0.11316,306
+Sunset Park,An hour or more,2014,Percent,0.2854,307
+Crown Heights North,An hour or more,2014,Percent,0.21861,308
+Crown Heights South,An hour or more,2014,Percent,0.26609,309
+Bay Ridge,An hour or more,2014,Percent,0.33537,310
+Bensonhurst,An hour or more,2014,Percent,0.38983,311
+Borough Park,An hour or more,2014,Percent,0.22444,312
+Coney Island,An hour or more,2014,Percent,0.35566,313
+Flatbush/Midwood,An hour or more,2014,Percent,0.25025,314
+Sheepshead Bay,An hour or more,2014,Percent,0.35533,315
+Brownsville,An hour or more,2014,Percent,0.35193,316
+East Flatbush,An hour or more,2014,Percent,0.32468,317
+Canarsie,An hour or more,2014,Percent,0.39275,318
+Astoria,An hour or more,2014,Percent,0.15227,401
+Sunnyside/Woodside,An hour or more,2014,Percent,0.1271,402
+Jackson Heights,An hour or more,2014,Percent,0.28035,403
+Elmhurst/Corona,An hour or more,2014,Percent,0.28579,404
+Ridgewood/Glendale,An hour or more,2014,Percent,0.20339,405
+Rego Park/Forest Hills,An hour or more,2014,Percent,0.24904,406
+Flushing,An hour or more,2014,Percent,0.272,407
+Fresh Meadows/Briarwood,An hour or more,2014,Percent,0.35124,408
+Woodhaven,An hour or more,2014,Percent,0.32347,409
+Howard Beach,An hour or more,2014,Percent,0.33853,410
+Bayside,An hour or more,2014,Percent,0.31026,411
+Jamaica/St. Albans,An hour or more,2014,Percent,0.42697,412
+Queens Village,An hour or more,2014,Percent,0.3325,413
+The Rockaways,An hour or more,2014,Percent,0.44292,414
+St. George,An hour or more,2014,Percent,0.3376,501
+South Beach,An hour or more,2014,Percent,0.33204,502
+Tottenville,An hour or more,2014,Percent,0.33112,503
+Bronx,An hour or more,2014,Percent,0.32663,36005
+Brooklyn,An hour or more,2014,Percent,0.26779,36047
+Manhattan,An hour or more,2014,Percent,0.09748,36061
+Queens,An hour or more,2014,Percent,0.28737,36081
+Staten Island,An hour or more,2014,Percent,0.33373,36085
+New York City,An hour or more,2014,Percent,0.24795,3651000
+Battery Park/Tribeca,30 to 59 minutes,2014,Percent,0.35917,101
+Greenwich Village,30 to 59 minutes,2014,Percent,0.35917,102
+Lower East Side,30 to 59 minutes,2014,Percent,0.39956,103
+Chelsea/Clinton,30 to 59 minutes,2014,Percent,0.35901,104
+Midtown Business District,30 to 59 minutes,2014,Percent,0.35901,105
+Murray Hill/Stuyvesant,30 to 59 minutes,2014,Percent,0.36437,106
+Upper West Side,30 to 59 minutes,2014,Percent,0.50444,107
+Upper East Side,30 to 59 minutes,2014,Percent,0.51683,108
+Manhattanville,30 to 59 minutes,2014,Percent,0.55855,109
+Central Harlem,30 to 59 minutes,2014,Percent,0.59714,110
+East Harlem,30 to 59 minutes,2014,Percent,0.49373,111
+Washington Heights,30 to 59 minutes,2014,Percent,0.50603,112
+Mott Haven,30 to 59 minutes,2014,Percent,0.49469,201
+Hunts Point,30 to 59 minutes,2014,Percent,0.49469,202
+Morrisania,30 to 59 minutes,2014,Percent,0.41646,203
+Concourse/Highbridge,30 to 59 minutes,2014,Percent,0.50714,204
+University Heights,30 to 59 minutes,2014,Percent,0.42799,205
+East Tremont,30 to 59 minutes,2014,Percent,0.41646,206
+Bedford Park,30 to 59 minutes,2014,Percent,0.44943,207
+Riverdale,30 to 59 minutes,2014,Percent,0.38778,208
+Unionport/Soundview,30 to 59 minutes,2014,Percent,0.4019,209
+Throgs Neck,30 to 59 minutes,2014,Percent,0.34089,210
+Pelham Parkway,30 to 59 minutes,2014,Percent,0.3128,211
+Williamsbridge,30 to 59 minutes,2014,Percent,0.31586,212
+Williamsburg/Greenpoint,30 to 59 minutes,2014,Percent,0.59555,301
+Fort Greene/Brooklyn Hts,30 to 59 minutes,2014,Percent,0.57127,302
+Bedford Stuyvesant,30 to 59 minutes,2014,Percent,0.55461,303
+Bushwick,30 to 59 minutes,2014,Percent,0.57027,304
+East New York,30 to 59 minutes,2014,Percent,0.57707,305
+Park Slope,30 to 59 minutes,2014,Percent,0.64637,306
+Sunset Park,30 to 59 minutes,2014,Percent,0.47191,307
+Crown Heights North,30 to 59 minutes,2014,Percent,0.53602,308
+Crown Heights South,30 to 59 minutes,2014,Percent,0.51467,309
+Bay Ridge,30 to 59 minutes,2014,Percent,0.37766,310
+Bensonhurst,30 to 59 minutes,2014,Percent,0.36759,311
+Borough Park,30 to 59 minutes,2014,Percent,0.37495,312
+Coney Island,30 to 59 minutes,2014,Percent,0.32588,313
+Flatbush/Midwood,30 to 59 minutes,2014,Percent,0.4894,314
+Sheepshead Bay,30 to 59 minutes,2014,Percent,0.37024,315
+Brownsville,30 to 59 minutes,2014,Percent,0.45944,316
+East Flatbush,30 to 59 minutes,2014,Percent,0.49303,317
+Canarsie,30 to 59 minutes,2014,Percent,0.33727,318
+Astoria,30 to 59 minutes,2014,Percent,0.57608,401
+Sunnyside/Woodside,30 to 59 minutes,2014,Percent,0.60924,402
+Jackson Heights,30 to 59 minutes,2014,Percent,0.47548,403
+Elmhurst/Corona,30 to 59 minutes,2014,Percent,0.50069,404
+Ridgewood/Glendale,30 to 59 minutes,2014,Percent,0.58925,405
+Rego Park/Forest Hills,30 to 59 minutes,2014,Percent,0.52811,406
+Flushing,30 to 59 minutes,2014,Percent,0.37876,407
+Fresh Meadows/Briarwood,30 to 59 minutes,2014,Percent,0.33542,408
+Woodhaven,30 to 59 minutes,2014,Percent,0.45262,409
+Howard Beach,30 to 59 minutes,2014,Percent,0.38596,410
+Bayside,30 to 59 minutes,2014,Percent,0.37779,411
+Jamaica/St. Albans,30 to 59 minutes,2014,Percent,0.36497,412
+Queens Village,30 to 59 minutes,2014,Percent,0.3974,413
+The Rockaways,30 to 59 minutes,2014,Percent,0.28793,414
+St. George,30 to 59 minutes,2014,Percent,0.23916,501
+South Beach,30 to 59 minutes,2014,Percent,0.3176,502
+Tottenville,30 to 59 minutes,2014,Percent,0.30003,503
+Bronx,30 to 59 minutes,2014,Percent,0.40304,36005
+Brooklyn,30 to 59 minutes,2014,Percent,0.47887,36047
+Manhattan,30 to 59 minutes,2014,Percent,0.45953,36061
+Queens,30 to 59 minutes,2014,Percent,0.45118,36081
+Staten Island,30 to 59 minutes,2014,Percent,0.2826,36085
+New York City,30 to 59 minutes,2014,Percent,0.44543,3651000
+Battery Park/Tribeca,Under 30 minutes,2015,Percent,0.67557,101
+Greenwich Village,Under 30 minutes,2015,Percent,0.67557,102
+Lower East Side,Under 30 minutes,2015,Percent,0.46802,103
+Chelsea/Clinton,Under 30 minutes,2015,Percent,0.60547,104
+Midtown Business District,Under 30 minutes,2015,Percent,0.60547,105
+Murray Hill/Stuyvesant,Under 30 minutes,2015,Percent,0.5944,106
+Upper West Side,Under 30 minutes,2015,Percent,0.41878,107
+Upper East Side,Under 30 minutes,2015,Percent,0.42039,108
+Manhattanville,Under 30 minutes,2015,Percent,0.30205,109
+Central Harlem,Under 30 minutes,2015,Percent,0.27663,110
+East Harlem,Under 30 minutes,2015,Percent,0.40261,111
+Washington Heights,Under 30 minutes,2015,Percent,0.26442,112
+Mott Haven,Under 30 minutes,2015,Percent,0.26323,201
+Hunts Point,Under 30 minutes,2015,Percent,0.26323,202
+Morrisania,Under 30 minutes,2015,Percent,0.27695,203
+Concourse/Highbridge,Under 30 minutes,2015,Percent,0.27872,204
+University Heights,Under 30 minutes,2015,Percent,0.25078,205
+East Tremont,Under 30 minutes,2015,Percent,0.27695,206
+Bedford Park,Under 30 minutes,2015,Percent,0.24275,207
+Riverdale,Under 30 minutes,2015,Percent,0.26867,208
+Unionport/Soundview,Under 30 minutes,2015,Percent,0.22487,209
+Throgs Neck,Under 30 minutes,2015,Percent,0.3239,210
+Pelham Parkway,Under 30 minutes,2015,Percent,0.2747,211
+Williamsbridge,Under 30 minutes,2015,Percent,0.26255,212
+Williamsburg/Greenpoint,Under 30 minutes,2015,Percent,0.29878,301
+Fort Greene/Brooklyn Hts,Under 30 minutes,2015,Percent,0.33354,302
+Bedford Stuyvesant,Under 30 minutes,2015,Percent,0.24568,303
+Bushwick,Under 30 minutes,2015,Percent,0.20602,304
+East New York,Under 30 minutes,2015,Percent,0.16035,305
+Park Slope,Under 30 minutes,2015,Percent,0.24459,306
+Sunset Park,Under 30 minutes,2015,Percent,0.25592,307
+Crown Heights North,Under 30 minutes,2015,Percent,0.25904,308
+Crown Heights South,Under 30 minutes,2015,Percent,0.20112,309
+Bay Ridge,Under 30 minutes,2015,Percent,0.28805,310
+Bensonhurst,Under 30 minutes,2015,Percent,0.25611,311
+Borough Park,Under 30 minutes,2015,Percent,0.42722,312
+Coney Island,Under 30 minutes,2015,Percent,0.25978,313
+Flatbush/Midwood,Under 30 minutes,2015,Percent,0.24512,314
+Sheepshead Bay,Under 30 minutes,2015,Percent,0.26682,315
+Brownsville,Under 30 minutes,2015,Percent,0.15809,316
+East Flatbush,Under 30 minutes,2015,Percent,0.18918,317
+Canarsie,Under 30 minutes,2015,Percent,0.24638,318
+Astoria,Under 30 minutes,2015,Percent,0.21229,401
+Sunnyside/Woodside,Under 30 minutes,2015,Percent,0.21334,402
+Jackson Heights,Under 30 minutes,2015,Percent,0.21368,403
+Elmhurst/Corona,Under 30 minutes,2015,Percent,0.20076,404
+Ridgewood/Glendale,Under 30 minutes,2015,Percent,0.23118,405
+Rego Park/Forest Hills,Under 30 minutes,2015,Percent,0.20216,406
+Flushing,Under 30 minutes,2015,Percent,0.34531,407
+Fresh Meadows/Briarwood,Under 30 minutes,2015,Percent,0.27877,408
+Woodhaven,Under 30 minutes,2015,Percent,0.21342,409
+Howard Beach,Under 30 minutes,2015,Percent,0.25233,410
+Bayside,Under 30 minutes,2015,Percent,0.30934,411
+Jamaica/St. Albans,Under 30 minutes,2015,Percent,0.23548,412
+Queens Village,Under 30 minutes,2015,Percent,0.26952,413
+The Rockaways,Under 30 minutes,2015,Percent,0.25386,414
+St. George,Under 30 minutes,2015,Percent,0.41602,501
+South Beach,Under 30 minutes,2015,Percent,0.37298,502
+Tottenville,Under 30 minutes,2015,Percent,0.35591,503
+Bronx,Under 30 minutes,2015,Percent,0.26552,36005
+Brooklyn,Under 30 minutes,2015,Percent,0.25398,36047
+Manhattan,Under 30 minutes,2015,Percent,0.45076,36061
+Queens,Under 30 minutes,2015,Percent,0.24722,36081
+Staten Island,Under 30 minutes,2015,Percent,0.38109,36085
+New York City,Under 30 minutes,2015,Percent,0.30291,3651000
+Battery Park/Tribeca,An hour or more,2015,Percent,0.05202,101
+Greenwich Village,An hour or more,2015,Percent,0.05202,102
+Lower East Side,An hour or more,2015,Percent,0.10553,103
+Chelsea/Clinton,An hour or more,2015,Percent,0.08749,104
+Midtown Business District,An hour or more,2015,Percent,0.08749,105
+Murray Hill/Stuyvesant,An hour or more,2015,Percent,0.0654,106
+Upper West Side,An hour or more,2015,Percent,0.10042,107
+Upper East Side,An hour or more,2015,Percent,0.0849,108
+Manhattanville,An hour or more,2015,Percent,0.15453,109
+Central Harlem,An hour or more,2015,Percent,0.13961,110
+East Harlem,An hour or more,2015,Percent,0.11054,111
+Washington Heights,An hour or more,2015,Percent,0.25584,112
+Mott Haven,An hour or more,2015,Percent,0.36447,201
+Hunts Point,An hour or more,2015,Percent,0.36447,202
+Morrisania,An hour or more,2015,Percent,0.37143,203
+Concourse/Highbridge,An hour or more,2015,Percent,0.21215,204
+University Heights,An hour or more,2015,Percent,0.23647,205
+East Tremont,An hour or more,2015,Percent,0.37143,206
+Bedford Park,An hour or more,2015,Percent,0.35021,207
+Riverdale,An hour or more,2015,Percent,0.36879,208
+Unionport/Soundview,An hour or more,2015,Percent,0.44046,209
+Throgs Neck,An hour or more,2015,Percent,0.38982,210
+Pelham Parkway,An hour or more,2015,Percent,0.41505,211
+Williamsbridge,An hour or more,2015,Percent,0.3951,212
+Williamsburg/Greenpoint,An hour or more,2015,Percent,0.10626,301
+Fort Greene/Brooklyn Hts,An hour or more,2015,Percent,0.12606,302
+Bedford Stuyvesant,An hour or more,2015,Percent,0.22142,303
+Bushwick,An hour or more,2015,Percent,0.22999,304
+East New York,An hour or more,2015,Percent,0.30024,305
+Park Slope,An hour or more,2015,Percent,0.13001,306
+Sunset Park,An hour or more,2015,Percent,0.29525,307
+Crown Heights North,An hour or more,2015,Percent,0.22038,308
+Crown Heights South,An hour or more,2015,Percent,0.21817,309
+Bay Ridge,An hour or more,2015,Percent,0.32859,310
+Bensonhurst,An hour or more,2015,Percent,0.4347,311
+Borough Park,An hour or more,2015,Percent,0.23058,312
+Coney Island,An hour or more,2015,Percent,0.3862,313
+Flatbush/Midwood,An hour or more,2015,Percent,0.287,314
+Sheepshead Bay,An hour or more,2015,Percent,0.37949,315
+Brownsville,An hour or more,2015,Percent,0.34465,316
+East Flatbush,An hour or more,2015,Percent,0.34347,317
+Canarsie,An hour or more,2015,Percent,0.40254,318
+Astoria,An hour or more,2015,Percent,0.17088,401
+Sunnyside/Woodside,An hour or more,2015,Percent,0.14368,402
+Jackson Heights,An hour or more,2015,Percent,0.22152,403
+Elmhurst/Corona,An hour or more,2015,Percent,0.29553,404
+Ridgewood/Glendale,An hour or more,2015,Percent,0.23814,405
+Rego Park/Forest Hills,An hour or more,2015,Percent,0.25489,406
+Flushing,An hour or more,2015,Percent,0.26982,407
+Fresh Meadows/Briarwood,An hour or more,2015,Percent,0.34408,408
+Woodhaven,An hour or more,2015,Percent,0.36176,409
+Howard Beach,An hour or more,2015,Percent,0.38946,410
+Bayside,An hour or more,2015,Percent,0.30478,411
+Jamaica/St. Albans,An hour or more,2015,Percent,0.41469,412
+Queens Village,An hour or more,2015,Percent,0.38106,413
+The Rockaways,An hour or more,2015,Percent,0.40465,414
+St. George,An hour or more,2015,Percent,0.31739,501
+South Beach,An hour or more,2015,Percent,0.32718,502
+Tottenville,An hour or more,2015,Percent,0.36016,503
+Bronx,An hour or more,2015,Percent,0.35578,36005
+Brooklyn,An hour or more,2015,Percent,0.27806,36047
+Manhattan,An hour or more,2015,Percent,0.11612,36061
+Queens,An hour or more,2015,Percent,0.29675,36081
+Staten Island,An hour or more,2015,Percent,0.33618,36085
+New York City,An hour or more,2015,Percent,0.26287,3651000
+Battery Park/Tribeca,30 to 59 minutes,2015,Percent,0.27241,101
+Greenwich Village,30 to 59 minutes,2015,Percent,0.27241,102
+Lower East Side,30 to 59 minutes,2015,Percent,0.42644,103
+Chelsea/Clinton,30 to 59 minutes,2015,Percent,0.30704,104
+Midtown Business District,30 to 59 minutes,2015,Percent,0.30704,105
+Murray Hill/Stuyvesant,30 to 59 minutes,2015,Percent,0.3402,106
+Upper West Side,30 to 59 minutes,2015,Percent,0.4808,107
+Upper East Side,30 to 59 minutes,2015,Percent,0.49471,108
+Manhattanville,30 to 59 minutes,2015,Percent,0.54342,109
+Central Harlem,30 to 59 minutes,2015,Percent,0.58375,110
+East Harlem,30 to 59 minutes,2015,Percent,0.48684,111
+Washington Heights,30 to 59 minutes,2015,Percent,0.47974,112
+Mott Haven,30 to 59 minutes,2015,Percent,0.3723,201
+Hunts Point,30 to 59 minutes,2015,Percent,0.3723,202
+Morrisania,30 to 59 minutes,2015,Percent,0.35161,203
+Concourse/Highbridge,30 to 59 minutes,2015,Percent,0.50913,204
+University Heights,30 to 59 minutes,2015,Percent,0.51275,205
+East Tremont,30 to 59 minutes,2015,Percent,0.35161,206
+Bedford Park,30 to 59 minutes,2015,Percent,0.40704,207
+Riverdale,30 to 59 minutes,2015,Percent,0.36254,208
+Unionport/Soundview,30 to 59 minutes,2015,Percent,0.33467,209
+Throgs Neck,30 to 59 minutes,2015,Percent,0.28629,210
+Pelham Parkway,30 to 59 minutes,2015,Percent,0.31026,211
+Williamsbridge,30 to 59 minutes,2015,Percent,0.34234,212
+Williamsburg/Greenpoint,30 to 59 minutes,2015,Percent,0.59496,301
+Fort Greene/Brooklyn Hts,30 to 59 minutes,2015,Percent,0.5404,302
+Bedford Stuyvesant,30 to 59 minutes,2015,Percent,0.53291,303
+Bushwick,30 to 59 minutes,2015,Percent,0.56399,304
+East New York,30 to 59 minutes,2015,Percent,0.53941,305
+Park Slope,30 to 59 minutes,2015,Percent,0.6254,306
+Sunset Park,30 to 59 minutes,2015,Percent,0.44883,307
+Crown Heights North,30 to 59 minutes,2015,Percent,0.52058,308
+Crown Heights South,30 to 59 minutes,2015,Percent,0.58071,309
+Bay Ridge,30 to 59 minutes,2015,Percent,0.38336,310
+Bensonhurst,30 to 59 minutes,2015,Percent,0.30919,311
+Borough Park,30 to 59 minutes,2015,Percent,0.3422,312
+Coney Island,30 to 59 minutes,2015,Percent,0.35402,313
+Flatbush/Midwood,30 to 59 minutes,2015,Percent,0.46788,314
+Sheepshead Bay,30 to 59 minutes,2015,Percent,0.35368,315
+Brownsville,30 to 59 minutes,2015,Percent,0.49726,316
+East Flatbush,30 to 59 minutes,2015,Percent,0.46735,317
+Canarsie,30 to 59 minutes,2015,Percent,0.35108,318
+Astoria,30 to 59 minutes,2015,Percent,0.61682,401
+Sunnyside/Woodside,30 to 59 minutes,2015,Percent,0.64298,402
+Jackson Heights,30 to 59 minutes,2015,Percent,0.56481,403
+Elmhurst/Corona,30 to 59 minutes,2015,Percent,0.5037,404
+Ridgewood/Glendale,30 to 59 minutes,2015,Percent,0.53068,405
+Rego Park/Forest Hills,30 to 59 minutes,2015,Percent,0.54295,406
+Flushing,30 to 59 minutes,2015,Percent,0.38487,407
+Fresh Meadows/Briarwood,30 to 59 minutes,2015,Percent,0.37715,408
+Woodhaven,30 to 59 minutes,2015,Percent,0.42482,409
+Howard Beach,30 to 59 minutes,2015,Percent,0.35821,410
+Bayside,30 to 59 minutes,2015,Percent,0.38588,411
+Jamaica/St. Albans,30 to 59 minutes,2015,Percent,0.34983,412
+Queens Village,30 to 59 minutes,2015,Percent,0.34941,413
+The Rockaways,30 to 59 minutes,2015,Percent,0.3415,414
+St. George,30 to 59 minutes,2015,Percent,0.26659,501
+South Beach,30 to 59 minutes,2015,Percent,0.29984,502
+Tottenville,30 to 59 minutes,2015,Percent,0.28392,503
+Bronx,30 to 59 minutes,2015,Percent,0.37869,36005
+Brooklyn,30 to 59 minutes,2015,Percent,0.46796,36047
+Manhattan,30 to 59 minutes,2015,Percent,0.43312,36061
+Queens,30 to 59 minutes,2015,Percent,0.45604,36081
+Staten Island,30 to 59 minutes,2015,Percent,0.28274,36085
+New York City,30 to 59 minutes,2015,Percent,0.43422,3651000
+Battery Park/Tribeca,Under 30 minutes,2016,Percent,0.59502,101
+Greenwich Village,Under 30 minutes,2016,Percent,0.59502,102
+Lower East Side,Under 30 minutes,2016,Percent,0.42942,103
+Chelsea/Clinton,Under 30 minutes,2016,Percent,0.61137,104
+Midtown Business District,Under 30 minutes,2016,Percent,0.61137,105
+Murray Hill/Stuyvesant,Under 30 minutes,2016,Percent,0.6032,106
+Upper West Side,Under 30 minutes,2016,Percent,0.39584,107
+Upper East Side,Under 30 minutes,2016,Percent,0.39102,108
+Manhattanville,Under 30 minutes,2016,Percent,0.27435,109
+Central Harlem,Under 30 minutes,2016,Percent,0.24972,110
+East Harlem,Under 30 minutes,2016,Percent,0.35151,111
+Washington Heights,Under 30 minutes,2016,Percent,0.23466,112
+Mott Haven,Under 30 minutes,2016,Percent,0.24229,201
+Hunts Point,Under 30 minutes,2016,Percent,0.24229,202
+Morrisania,Under 30 minutes,2016,Percent,0.28249,203
+Concourse/Highbridge,Under 30 minutes,2016,Percent,0.23343,204
+University Heights,Under 30 minutes,2016,Percent,0.25616,205
+East Tremont,Under 30 minutes,2016,Percent,0.28249,206
+Bedford Park,Under 30 minutes,2016,Percent,0.24305,207
+Riverdale,Under 30 minutes,2016,Percent,0.23643,208
+Unionport/Soundview,Under 30 minutes,2016,Percent,0.2015,209
+Throgs Neck,Under 30 minutes,2016,Percent,0.32738,210
+Pelham Parkway,Under 30 minutes,2016,Percent,0.29643,211
+Williamsbridge,Under 30 minutes,2016,Percent,0.28006,212
+Williamsburg/Greenpoint,Under 30 minutes,2016,Percent,0.31349,301
+Fort Greene/Brooklyn Hts,Under 30 minutes,2016,Percent,0.32553,302
+Bedford Stuyvesant,Under 30 minutes,2016,Percent,0.20898,303
+Bushwick,Under 30 minutes,2016,Percent,0.2209,304
+East New York,Under 30 minutes,2016,Percent,0.1511,305
+Park Slope,Under 30 minutes,2016,Percent,0.21721,306
+Sunset Park,Under 30 minutes,2016,Percent,0.24316,307
+Crown Heights North,Under 30 minutes,2016,Percent,0.19866,308
+Crown Heights South,Under 30 minutes,2016,Percent,0.23302,309
+Bay Ridge,Under 30 minutes,2016,Percent,0.25214,310
+Bensonhurst,Under 30 minutes,2016,Percent,0.22776,311
+Borough Park,Under 30 minutes,2016,Percent,0.36552,312
+Coney Island,Under 30 minutes,2016,Percent,0.26452,313
+Flatbush/Midwood,Under 30 minutes,2016,Percent,0.26332,314
+Sheepshead Bay,Under 30 minutes,2016,Percent,0.2793,315
+Brownsville,Under 30 minutes,2016,Percent,0.17932,316
+East Flatbush,Under 30 minutes,2016,Percent,0.17756,317
+Canarsie,Under 30 minutes,2016,Percent,0.22639,318
+Astoria,Under 30 minutes,2016,Percent,0.23128,401
+Sunnyside/Woodside,Under 30 minutes,2016,Percent,0.26658,402
+Jackson Heights,Under 30 minutes,2016,Percent,0.2214,403
+Elmhurst/Corona,Under 30 minutes,2016,Percent,0.20953,404
+Ridgewood/Glendale,Under 30 minutes,2016,Percent,0.21892,405
+Rego Park/Forest Hills,Under 30 minutes,2016,Percent,0.18823,406
+Flushing,Under 30 minutes,2016,Percent,0.3263,407
+Fresh Meadows/Briarwood,Under 30 minutes,2016,Percent,0.2877,408
+Woodhaven,Under 30 minutes,2016,Percent,0.18959,409
+Howard Beach,Under 30 minutes,2016,Percent,0.18838,410
+Bayside,Under 30 minutes,2016,Percent,0.30547,411
+Jamaica/St. Albans,Under 30 minutes,2016,Percent,0.22662,412
+Queens Village,Under 30 minutes,2016,Percent,0.27017,413
+The Rockaways,Under 30 minutes,2016,Percent,0.27562,414
+St. George,Under 30 minutes,2016,Percent,0.38849,501
+South Beach,Under 30 minutes,2016,Percent,0.36427,502
+Tottenville,Under 30 minutes,2016,Percent,0.37513,503
+Bronx,Under 30 minutes,2016,Percent,0.25695,36005
+Brooklyn,Under 30 minutes,2016,Percent,0.24278,36047
+Manhattan,Under 30 minutes,2016,Percent,0.41903,36061
+Queens,Under 30 minutes,2016,Percent,0.24541,36081
+Staten Island,Under 30 minutes,2016,Percent,0.37674,36085
+New York City,Under 30 minutes,2016,Percent,0.29046,3651000
+Battery Park/Tribeca,An hour or more,2016,Percent,0.04736,101
+Greenwich Village,An hour or more,2016,Percent,0.04736,102
+Lower East Side,An hour or more,2016,Percent,0.11439,103
+Chelsea/Clinton,An hour or more,2016,Percent,0.06588,104
+Midtown Business District,An hour or more,2016,Percent,0.06588,105
+Murray Hill/Stuyvesant,An hour or more,2016,Percent,0.04846,106
+Upper West Side,An hour or more,2016,Percent,0.08452,107
+Upper East Side,An hour or more,2016,Percent,0.08331,108
+Manhattanville,An hour or more,2016,Percent,0.13678,109
+Central Harlem,An hour or more,2016,Percent,0.1434,110
+East Harlem,An hour or more,2016,Percent,0.13299,111
+Washington Heights,An hour or more,2016,Percent,0.21989,112
+Mott Haven,An hour or more,2016,Percent,0.31445,201
+Hunts Point,An hour or more,2016,Percent,0.31445,202
+Morrisania,An hour or more,2016,Percent,0.35834,203
+Concourse/Highbridge,An hour or more,2016,Percent,0.29401,204
+University Heights,An hour or more,2016,Percent,0.34149,205
+East Tremont,An hour or more,2016,Percent,0.35834,206
+Bedford Park,An hour or more,2016,Percent,0.34888,207
+Riverdale,An hour or more,2016,Percent,0.40581,208
+Unionport/Soundview,An hour or more,2016,Percent,0.4198,209
+Throgs Neck,An hour or more,2016,Percent,0.28917,210
+Pelham Parkway,An hour or more,2016,Percent,0.38157,211
+Williamsbridge,An hour or more,2016,Percent,0.39056,212
+Williamsburg/Greenpoint,An hour or more,2016,Percent,0.09816,301
+Fort Greene/Brooklyn Hts,An hour or more,2016,Percent,0.11696,302
+Bedford Stuyvesant,An hour or more,2016,Percent,0.22811,303
+Bushwick,An hour or more,2016,Percent,0.2056,304
+East New York,An hour or more,2016,Percent,0.36673,305
+Park Slope,An hour or more,2016,Percent,0.14907,306
+Sunset Park,An hour or more,2016,Percent,0.32957,307
+Crown Heights North,An hour or more,2016,Percent,0.20053,308
+Crown Heights South,An hour or more,2016,Percent,0.24542,309
+Bay Ridge,An hour or more,2016,Percent,0.34639,310
+Bensonhurst,An hour or more,2016,Percent,0.39793,311
+Borough Park,An hour or more,2016,Percent,0.25777,312
+Coney Island,An hour or more,2016,Percent,0.44662,313
+Flatbush/Midwood,An hour or more,2016,Percent,0.29413,314
+Sheepshead Bay,An hour or more,2016,Percent,0.38846,315
+Brownsville,An hour or more,2016,Percent,0.32707,316
+East Flatbush,An hour or more,2016,Percent,0.35,317
+Canarsie,An hour or more,2016,Percent,0.39468,318
+Astoria,An hour or more,2016,Percent,0.17705,401
+Sunnyside/Woodside,An hour or more,2016,Percent,0.15089,402
+Jackson Heights,An hour or more,2016,Percent,0.26737,403
+Elmhurst/Corona,An hour or more,2016,Percent,0.2977,404
+Ridgewood/Glendale,An hour or more,2016,Percent,0.26665,405
+Rego Park/Forest Hills,An hour or more,2016,Percent,0.31052,406
+Flushing,An hour or more,2016,Percent,0.27541,407
+Fresh Meadows/Briarwood,An hour or more,2016,Percent,0.34135,408
+Woodhaven,An hour or more,2016,Percent,0.38542,409
+Howard Beach,An hour or more,2016,Percent,0.41573,410
+Bayside,An hour or more,2016,Percent,0.38162,411
+Jamaica/St. Albans,An hour or more,2016,Percent,0.417,412
+Queens Village,An hour or more,2016,Percent,0.3667,413
+The Rockaways,An hour or more,2016,Percent,0.42208,414
+St. George,An hour or more,2016,Percent,0.36327,501
+South Beach,An hour or more,2016,Percent,0.3531,502
+Tottenville,An hour or more,2016,Percent,0.3668,503
+Bronx,An hour or more,2016,Percent,0.35795,36005
+Brooklyn,An hour or more,2016,Percent,0.28413,36047
+Manhattan,An hour or more,2016,Percent,0.10654,36061
+Queens,An hour or more,2016,Percent,0.31485,36081
+Staten Island,An hour or more,2016,Percent,0.36158,36085
+New York City,An hour or more,2016,Percent,0.26992,3651000
+Battery Park/Tribeca,30 to 59 minutes,2016,Percent,0.35763,101
+Greenwich Village,30 to 59 minutes,2016,Percent,0.35763,102
+Lower East Side,30 to 59 minutes,2016,Percent,0.45619,103
+Chelsea/Clinton,30 to 59 minutes,2016,Percent,0.32275,104
+Midtown Business District,30 to 59 minutes,2016,Percent,0.32275,105
+Murray Hill/Stuyvesant,30 to 59 minutes,2016,Percent,0.34834,106
+Upper West Side,30 to 59 minutes,2016,Percent,0.51964,107
+Upper East Side,30 to 59 minutes,2016,Percent,0.52567,108
+Manhattanville,30 to 59 minutes,2016,Percent,0.58886,109
+Central Harlem,30 to 59 minutes,2016,Percent,0.60688,110
+East Harlem,30 to 59 minutes,2016,Percent,0.51551,111
+Washington Heights,30 to 59 minutes,2016,Percent,0.54546,112
+Mott Haven,30 to 59 minutes,2016,Percent,0.44326,201
+Hunts Point,30 to 59 minutes,2016,Percent,0.44326,202
+Morrisania,30 to 59 minutes,2016,Percent,0.35917,203
+Concourse/Highbridge,30 to 59 minutes,2016,Percent,0.47255,204
+University Heights,30 to 59 minutes,2016,Percent,0.40235,205
+East Tremont,30 to 59 minutes,2016,Percent,0.35917,206
+Bedford Park,30 to 59 minutes,2016,Percent,0.40807,207
+Riverdale,30 to 59 minutes,2016,Percent,0.35775,208
+Unionport/Soundview,30 to 59 minutes,2016,Percent,0.3787,209
+Throgs Neck,30 to 59 minutes,2016,Percent,0.38345,210
+Pelham Parkway,30 to 59 minutes,2016,Percent,0.32201,211
+Williamsbridge,30 to 59 minutes,2016,Percent,0.32938,212
+Williamsburg/Greenpoint,30 to 59 minutes,2016,Percent,0.58835,301
+Fort Greene/Brooklyn Hts,30 to 59 minutes,2016,Percent,0.5575,302
+Bedford Stuyvesant,30 to 59 minutes,2016,Percent,0.56291,303
+Bushwick,30 to 59 minutes,2016,Percent,0.57351,304
+East New York,30 to 59 minutes,2016,Percent,0.48217,305
+Park Slope,30 to 59 minutes,2016,Percent,0.63372,306
+Sunset Park,30 to 59 minutes,2016,Percent,0.42727,307
+Crown Heights North,30 to 59 minutes,2016,Percent,0.60081,308
+Crown Heights South,30 to 59 minutes,2016,Percent,0.52157,309
+Bay Ridge,30 to 59 minutes,2016,Percent,0.40147,310
+Bensonhurst,30 to 59 minutes,2016,Percent,0.37431,311
+Borough Park,30 to 59 minutes,2016,Percent,0.37671,312
+Coney Island,30 to 59 minutes,2016,Percent,0.28886,313
+Flatbush/Midwood,30 to 59 minutes,2016,Percent,0.44254,314
+Sheepshead Bay,30 to 59 minutes,2016,Percent,0.33224,315
+Brownsville,30 to 59 minutes,2016,Percent,0.49361,316
+East Flatbush,30 to 59 minutes,2016,Percent,0.47244,317
+Canarsie,30 to 59 minutes,2016,Percent,0.37893,318
+Astoria,30 to 59 minutes,2016,Percent,0.59167,401
+Sunnyside/Woodside,30 to 59 minutes,2016,Percent,0.58253,402
+Jackson Heights,30 to 59 minutes,2016,Percent,0.51123,403
+Elmhurst/Corona,30 to 59 minutes,2016,Percent,0.49277,404
+Ridgewood/Glendale,30 to 59 minutes,2016,Percent,0.51443,405
+Rego Park/Forest Hills,30 to 59 minutes,2016,Percent,0.50124,406
+Flushing,30 to 59 minutes,2016,Percent,0.39828,407
+Fresh Meadows/Briarwood,30 to 59 minutes,2016,Percent,0.37095,408
+Woodhaven,30 to 59 minutes,2016,Percent,0.42499,409
+Howard Beach,30 to 59 minutes,2016,Percent,0.39589,410
+Bayside,30 to 59 minutes,2016,Percent,0.31292,411
+Jamaica/St. Albans,30 to 59 minutes,2016,Percent,0.35638,412
+Queens Village,30 to 59 minutes,2016,Percent,0.36312,413
+The Rockaways,30 to 59 minutes,2016,Percent,0.30229,414
+St. George,30 to 59 minutes,2016,Percent,0.24824,501
+South Beach,30 to 59 minutes,2016,Percent,0.28263,502
+Tottenville,30 to 59 minutes,2016,Percent,0.25807,503
+Bronx,30 to 59 minutes,2016,Percent,0.38511,36005
+Brooklyn,30 to 59 minutes,2016,Percent,0.47309,36047
+Manhattan,30 to 59 minutes,2016,Percent,0.47442,36061
+Queens,30 to 59 minutes,2016,Percent,0.43973,36081
+Staten Island,30 to 59 minutes,2016,Percent,0.26169,36085
+New York City,30 to 59 minutes,2016,Percent,0.43962,3651000
+Battery Park/Tribeca,Under 30 minutes,2017,Percent,0.60431,101
+Greenwich Village,Under 30 minutes,2017,Percent,0.60431,102
+Lower East Side,Under 30 minutes,2017,Percent,0.47144,103
+Chelsea/Clinton,Under 30 minutes,2017,Percent,0.62725,104
+Midtown Business District,Under 30 minutes,2017,Percent,0.62725,105
+Murray Hill/Stuyvesant,Under 30 minutes,2017,Percent,0.60424,106
+Upper West Side,Under 30 minutes,2017,Percent,0.38209,107
+Upper East Side,Under 30 minutes,2017,Percent,0.46358,108
+Manhattanville,Under 30 minutes,2017,Percent,0.28635,109
+Central Harlem,Under 30 minutes,2017,Percent,0.27769,110
+East Harlem,Under 30 minutes,2017,Percent,0.2564,111
+Washington Heights,Under 30 minutes,2017,Percent,0.22938,112
+Mott Haven,Under 30 minutes,2017,Percent,0.28564,201
+Hunts Point,Under 30 minutes,2017,Percent,0.28564,202
+Morrisania,Under 30 minutes,2017,Percent,0.22199,203
+Concourse/Highbridge,Under 30 minutes,2017,Percent,0.20032,204
+University Heights,Under 30 minutes,2017,Percent,0.23102,205
+East Tremont,Under 30 minutes,2017,Percent,0.22199,206
+Bedford Park,Under 30 minutes,2017,Percent,0.20659,207
+Riverdale,Under 30 minutes,2017,Percent,0.25524,208
+Unionport/Soundview,Under 30 minutes,2017,Percent,0.22663,209
+Throgs Neck,Under 30 minutes,2017,Percent,0.23993,210
+Pelham Parkway,Under 30 minutes,2017,Percent,0.30284,211
+Williamsbridge,Under 30 minutes,2017,Percent,0.26536,212
+Williamsburg/Greenpoint,Under 30 minutes,2017,Percent,0.32067,301
+Fort Greene/Brooklyn Hts,Under 30 minutes,2017,Percent,0.2946,302
+Bedford Stuyvesant,Under 30 minutes,2017,Percent,0.23368,303
+Bushwick,Under 30 minutes,2017,Percent,0.21029,304
+East New York,Under 30 minutes,2017,Percent,0.12659,305
+Park Slope,Under 30 minutes,2017,Percent,0.24512,306
+Sunset Park,Under 30 minutes,2017,Percent,0.23608,307
+Crown Heights North,Under 30 minutes,2017,Percent,0.21342,308
+Crown Heights South,Under 30 minutes,2017,Percent,0.20744,309
+Bay Ridge,Under 30 minutes,2017,Percent,0.23538,310
+Bensonhurst,Under 30 minutes,2017,Percent,0.24181,311
+Borough Park,Under 30 minutes,2017,Percent,0.42343,312
+Coney Island,Under 30 minutes,2017,Percent,0.2703,313
+Flatbush/Midwood,Under 30 minutes,2017,Percent,0.20292,314
+Sheepshead Bay,Under 30 minutes,2017,Percent,0.2254,315
+Brownsville,Under 30 minutes,2017,Percent,0.18808,316
+East Flatbush,Under 30 minutes,2017,Percent,0.13501,317
+Canarsie,Under 30 minutes,2017,Percent,0.20946,318
+Astoria,Under 30 minutes,2017,Percent,0.18547,401
+Sunnyside/Woodside,Under 30 minutes,2017,Percent,0.28065,402
+Jackson Heights,Under 30 minutes,2017,Percent,0.26994,403
+Elmhurst/Corona,Under 30 minutes,2017,Percent,0.22143,404
+Ridgewood/Glendale,Under 30 minutes,2017,Percent,0.20876,405
+Rego Park/Forest Hills,Under 30 minutes,2017,Percent,0.19545,406
+Flushing,Under 30 minutes,2017,Percent,0.31853,407
+Fresh Meadows/Briarwood,Under 30 minutes,2017,Percent,0.27384,408
+Woodhaven,Under 30 minutes,2017,Percent,0.20477,409
+Howard Beach,Under 30 minutes,2017,Percent,0.23967,410
+Bayside,Under 30 minutes,2017,Percent,0.32017,411
+Jamaica/St. Albans,Under 30 minutes,2017,Percent,0.23084,412
+Queens Village,Under 30 minutes,2017,Percent,0.27972,413
+The Rockaways,Under 30 minutes,2017,Percent,0.21408,414
+St. George,Under 30 minutes,2017,Percent,0.3861,501
+South Beach,Under 30 minutes,2017,Percent,0.35434,502
+Tottenville,Under 30 minutes,2017,Percent,0.28725,503
+Bronx,Under 30 minutes,2017,Percent,0.24214,36005
+Brooklyn,Under 30 minutes,2017,Percent,0.23293,36047
+Manhattan,Under 30 minutes,2017,Percent,0.43078,36061
+Queens,Under 30 minutes,2017,Percent,0.24813,36081
+Staten Island,Under 30 minutes,2017,Percent,0.34236,36085
+New York City,Under 30 minutes,2017,Percent,0.28728,3651000
+Battery Park/Tribeca,An hour or more,2017,Percent,0.0583,101
+Greenwich Village,An hour or more,2017,Percent,0.0583,102
+Lower East Side,An hour or more,2017,Percent,0.11918,103
+Chelsea/Clinton,An hour or more,2017,Percent,0.06849,104
+Midtown Business District,An hour or more,2017,Percent,0.06849,105
+Murray Hill/Stuyvesant,An hour or more,2017,Percent,0.06109,106
+Upper West Side,An hour or more,2017,Percent,0.09402,107
+Upper East Side,An hour or more,2017,Percent,0.07839,108
+Manhattanville,An hour or more,2017,Percent,0.18509,109
+Central Harlem,An hour or more,2017,Percent,0.14193,110
+East Harlem,An hour or more,2017,Percent,0.16093,111
+Washington Heights,An hour or more,2017,Percent,0.28949,112
+Mott Haven,An hour or more,2017,Percent,0.30692,201
+Hunts Point,An hour or more,2017,Percent,0.30692,202
+Morrisania,An hour or more,2017,Percent,0.40051,203
+Concourse/Highbridge,An hour or more,2017,Percent,0.30761,204
+University Heights,An hour or more,2017,Percent,0.38096,205
+East Tremont,An hour or more,2017,Percent,0.40051,206
+Bedford Park,An hour or more,2017,Percent,0.36325,207
+Riverdale,An hour or more,2017,Percent,0.44046,208
+Unionport/Soundview,An hour or more,2017,Percent,0.38333,209
+Throgs Neck,An hour or more,2017,Percent,0.41921,210
+Pelham Parkway,An hour or more,2017,Percent,0.34159,211
+Williamsbridge,An hour or more,2017,Percent,0.41466,212
+Williamsburg/Greenpoint,An hour or more,2017,Percent,0.11427,301
+Fort Greene/Brooklyn Hts,An hour or more,2017,Percent,0.10402,302
+Bedford Stuyvesant,An hour or more,2017,Percent,0.2333,303
+Bushwick,An hour or more,2017,Percent,0.24729,304
+East New York,An hour or more,2017,Percent,0.24042,305
+Park Slope,An hour or more,2017,Percent,0.13936,306
+Sunset Park,An hour or more,2017,Percent,0.31084,307
+Crown Heights North,An hour or more,2017,Percent,0.24207,308
+Crown Heights South,An hour or more,2017,Percent,0.29909,309
+Bay Ridge,An hour or more,2017,Percent,0.35147,310
+Bensonhurst,An hour or more,2017,Percent,0.42212,311
+Borough Park,An hour or more,2017,Percent,0.24829,312
+Coney Island,An hour or more,2017,Percent,0.38038,313
+Flatbush/Midwood,An hour or more,2017,Percent,0.26207,314
+Sheepshead Bay,An hour or more,2017,Percent,0.42557,315
+Brownsville,An hour or more,2017,Percent,0.33852,316
+East Flatbush,An hour or more,2017,Percent,0.39844,317
+Canarsie,An hour or more,2017,Percent,0.41263,318
+Astoria,An hour or more,2017,Percent,0.24642,401
+Sunnyside/Woodside,An hour or more,2017,Percent,0.14282,402
+Jackson Heights,An hour or more,2017,Percent,0.35517,403
+Elmhurst/Corona,An hour or more,2017,Percent,0.2779,404
+Ridgewood/Glendale,An hour or more,2017,Percent,0.23567,405
+Rego Park/Forest Hills,An hour or more,2017,Percent,0.25771,406
+Flushing,An hour or more,2017,Percent,0.29652,407
+Fresh Meadows/Briarwood,An hour or more,2017,Percent,0.36233,408
+Woodhaven,An hour or more,2017,Percent,0.40602,409
+Howard Beach,An hour or more,2017,Percent,0.35887,410
+Bayside,An hour or more,2017,Percent,0.34051,411
+Jamaica/St. Albans,An hour or more,2017,Percent,0.43507,412
+Queens Village,An hour or more,2017,Percent,0.36204,413
+The Rockaways,An hour or more,2017,Percent,0.42737,414
+St. George,An hour or more,2017,Percent,0.34064,501
+South Beach,An hour or more,2017,Percent,0.3932,502
+Tottenville,An hour or more,2017,Percent,0.41352,503
+Bronx,An hour or more,2017,Percent,0.37663,36005
+Brooklyn,An hour or more,2017,Percent,0.28889,36047
+Manhattan,An hour or more,2017,Percent,0.12381,36061
+Queens,An hour or more,2017,Percent,0.32098,36081
+Staten Island,An hour or more,2017,Percent,0.38143,36085
+New York City,An hour or more,2017,Percent,0.28028,3651000
+Battery Park/Tribeca,30 to 59 minutes,2017,Percent,0.33739,101
+Greenwich Village,30 to 59 minutes,2017,Percent,0.33739,102
+Lower East Side,30 to 59 minutes,2017,Percent,0.40938,103
+Chelsea/Clinton,30 to 59 minutes,2017,Percent,0.30426,104
+Midtown Business District,30 to 59 minutes,2017,Percent,0.30426,105
+Murray Hill/Stuyvesant,30 to 59 minutes,2017,Percent,0.33467,106
+Upper West Side,30 to 59 minutes,2017,Percent,0.5239,107
+Upper East Side,30 to 59 minutes,2017,Percent,0.45803,108
+Manhattanville,30 to 59 minutes,2017,Percent,0.52856,109
+Central Harlem,30 to 59 minutes,2017,Percent,0.58038,110
+East Harlem,30 to 59 minutes,2017,Percent,0.58267,111
+Washington Heights,30 to 59 minutes,2017,Percent,0.48114,112
+Mott Haven,30 to 59 minutes,2017,Percent,0.40744,201
+Hunts Point,30 to 59 minutes,2017,Percent,0.40744,202
+Morrisania,30 to 59 minutes,2017,Percent,0.3775,203
+Concourse/Highbridge,30 to 59 minutes,2017,Percent,0.49207,204
+University Heights,30 to 59 minutes,2017,Percent,0.38802,205
+East Tremont,30 to 59 minutes,2017,Percent,0.3775,206
+Bedford Park,30 to 59 minutes,2017,Percent,0.43016,207
+Riverdale,30 to 59 minutes,2017,Percent,0.3043,208
+Unionport/Soundview,30 to 59 minutes,2017,Percent,0.39004,209
+Throgs Neck,30 to 59 minutes,2017,Percent,0.34086,210
+Pelham Parkway,30 to 59 minutes,2017,Percent,0.35557,211
+Williamsbridge,30 to 59 minutes,2017,Percent,0.31998,212
+Williamsburg/Greenpoint,30 to 59 minutes,2017,Percent,0.56505,301
+Fort Greene/Brooklyn Hts,30 to 59 minutes,2017,Percent,0.60138,302
+Bedford Stuyvesant,30 to 59 minutes,2017,Percent,0.53302,303
+Bushwick,30 to 59 minutes,2017,Percent,0.54242,304
+East New York,30 to 59 minutes,2017,Percent,0.63299,305
+Park Slope,30 to 59 minutes,2017,Percent,0.61552,306
+Sunset Park,30 to 59 minutes,2017,Percent,0.45308,307
+Crown Heights North,30 to 59 minutes,2017,Percent,0.54451,308
+Crown Heights South,30 to 59 minutes,2017,Percent,0.49347,309
+Bay Ridge,30 to 59 minutes,2017,Percent,0.41315,310
+Bensonhurst,30 to 59 minutes,2017,Percent,0.33607,311
+Borough Park,30 to 59 minutes,2017,Percent,0.32827,312
+Coney Island,30 to 59 minutes,2017,Percent,0.34932,313
+Flatbush/Midwood,30 to 59 minutes,2017,Percent,0.53501,314
+Sheepshead Bay,30 to 59 minutes,2017,Percent,0.34903,315
+Brownsville,30 to 59 minutes,2017,Percent,0.47339,316
+East Flatbush,30 to 59 minutes,2017,Percent,0.46655,317
+Canarsie,30 to 59 minutes,2017,Percent,0.3779,318
+Astoria,30 to 59 minutes,2017,Percent,0.56811,401
+Sunnyside/Woodside,30 to 59 minutes,2017,Percent,0.57653,402
+Jackson Heights,30 to 59 minutes,2017,Percent,0.3749,403
+Elmhurst/Corona,30 to 59 minutes,2017,Percent,0.50067,404
+Ridgewood/Glendale,30 to 59 minutes,2017,Percent,0.55557,405
+Rego Park/Forest Hills,30 to 59 minutes,2017,Percent,0.54684,406
+Flushing,30 to 59 minutes,2017,Percent,0.38495,407
+Fresh Meadows/Briarwood,30 to 59 minutes,2017,Percent,0.36383,408
+Woodhaven,30 to 59 minutes,2017,Percent,0.38922,409
+Howard Beach,30 to 59 minutes,2017,Percent,0.40146,410
+Bayside,30 to 59 minutes,2017,Percent,0.33932,411
+Jamaica/St. Albans,30 to 59 minutes,2017,Percent,0.3341,412
+Queens Village,30 to 59 minutes,2017,Percent,0.35824,413
+The Rockaways,30 to 59 minutes,2017,Percent,0.35855,414
+St. George,30 to 59 minutes,2017,Percent,0.27326,501
+South Beach,30 to 59 minutes,2017,Percent,0.25246,502
+Tottenville,30 to 59 minutes,2017,Percent,0.29923,503
+Bronx,30 to 59 minutes,2017,Percent,0.38123,36005
+Brooklyn,30 to 59 minutes,2017,Percent,0.47819,36047
+Manhattan,30 to 59 minutes,2017,Percent,0.44541,36061
+Queens,30 to 59 minutes,2017,Percent,0.4309,36081
+Staten Island,30 to 59 minutes,2017,Percent,0.27622,36085
+New York City,30 to 59 minutes,2017,Percent,0.43243,3651000
+Battery Park/Tribeca,Under 30 minutes,2018,Percent,0.63981,101
+Greenwich Village,Under 30 minutes,2018,Percent,0.63981,102
+Lower East Side,Under 30 minutes,2018,Percent,0.4039,103
+Chelsea/Clinton,Under 30 minutes,2018,Percent,0.62436,104
+Midtown Business District,Under 30 minutes,2018,Percent,0.62436,105
+Murray Hill/Stuyvesant,Under 30 minutes,2018,Percent,0.58358,106
+Upper West Side,Under 30 minutes,2018,Percent,0.38158,107
+Upper East Side,Under 30 minutes,2018,Percent,0.45506,108
+Manhattanville,Under 30 minutes,2018,Percent,0.32129,109
+Central Harlem,Under 30 minutes,2018,Percent,0.24221,110
+East Harlem,Under 30 minutes,2018,Percent,0.29181,111
+Washington Heights,Under 30 minutes,2018,Percent,0.23154,112
+Mott Haven,Under 30 minutes,2018,Percent,0.2412,201
+Hunts Point,Under 30 minutes,2018,Percent,0.2412,202
+Morrisania,Under 30 minutes,2018,Percent,0.27479,203
+Concourse/Highbridge,Under 30 minutes,2018,Percent,0.24022,204
+University Heights,Under 30 minutes,2018,Percent,0.21991,205
+East Tremont,Under 30 minutes,2018,Percent,0.27479,206
+Bedford Park,Under 30 minutes,2018,Percent,0.20369,207
+Riverdale,Under 30 minutes,2018,Percent,0.28067,208
+Unionport/Soundview,Under 30 minutes,2018,Percent,0.23189,209
+Throgs Neck,Under 30 minutes,2018,Percent,0.32727,210
+Pelham Parkway,Under 30 minutes,2018,Percent,0.3038,211
+Williamsbridge,Under 30 minutes,2018,Percent,0.25501,212
+Williamsburg/Greenpoint,Under 30 minutes,2018,Percent,0.32922,301
+Fort Greene/Brooklyn Hts,Under 30 minutes,2018,Percent,0.31931,302
+Bedford Stuyvesant,Under 30 minutes,2018,Percent,0.19486,303
+Bushwick,Under 30 minutes,2018,Percent,0.17377,304
+East New York,Under 30 minutes,2018,Percent,0.14495,305
+Park Slope,Under 30 minutes,2018,Percent,0.23995,306
+Sunset Park,Under 30 minutes,2018,Percent,0.24735,307
+Crown Heights North,Under 30 minutes,2018,Percent,0.18905,308
+Crown Heights South,Under 30 minutes,2018,Percent,0.15787,309
+Bay Ridge,Under 30 minutes,2018,Percent,0.23966,310
+Bensonhurst,Under 30 minutes,2018,Percent,0.21226,311
+Borough Park,Under 30 minutes,2018,Percent,0.41663,312
+Coney Island,Under 30 minutes,2018,Percent,0.20816,313
+Flatbush/Midwood,Under 30 minutes,2018,Percent,0.22768,314
+Sheepshead Bay,Under 30 minutes,2018,Percent,0.22856,315
+Brownsville,Under 30 minutes,2018,Percent,0.19962,316
+East Flatbush,Under 30 minutes,2018,Percent,0.12995,317
+Canarsie,Under 30 minutes,2018,Percent,0.21013,318
+Astoria,Under 30 minutes,2018,Percent,0.20109,401
+Sunnyside/Woodside,Under 30 minutes,2018,Percent,0.30404,402
+Jackson Heights,Under 30 minutes,2018,Percent,0.25014,403
+Elmhurst/Corona,Under 30 minutes,2018,Percent,0.17184,404
+Ridgewood/Glendale,Under 30 minutes,2018,Percent,0.20617,405
+Rego Park/Forest Hills,Under 30 minutes,2018,Percent,0.18838,406
+Flushing,Under 30 minutes,2018,Percent,0.30484,407
+Fresh Meadows/Briarwood,Under 30 minutes,2018,Percent,0.25521,408
+Woodhaven,Under 30 minutes,2018,Percent,0.20896,409
+Howard Beach,Under 30 minutes,2018,Percent,0.24798,410
+Bayside,Under 30 minutes,2018,Percent,0.27996,411
+Jamaica/St. Albans,Under 30 minutes,2018,Percent,0.25332,412
+Queens Village,Under 30 minutes,2018,Percent,0.25791,413
+The Rockaways,Under 30 minutes,2018,Percent,0.30914,414
+St. George,Under 30 minutes,2018,Percent,0.35859,501
+South Beach,Under 30 minutes,2018,Percent,0.3261,502
+Tottenville,Under 30 minutes,2018,Percent,0.31997,503
+Bronx,Under 30 minutes,2018,Percent,0.25696,36005
+Brooklyn,Under 30 minutes,2018,Percent,0.22637,36047
+Manhattan,Under 30 minutes,2018,Percent,0.43373,36061
+Queens,Under 30 minutes,2018,Percent,0.24592,36081
+Staten Island,Under 30 minutes,2018,Percent,0.33562,36085
+New York City,Under 30 minutes,2018,Percent,0.28685,3651000
+Battery Park/Tribeca,An hour or more,2018,Percent,0.04917,101
+Greenwich Village,An hour or more,2018,Percent,0.04917,102
+Lower East Side,An hour or more,2018,Percent,0.08309,103
+Chelsea/Clinton,An hour or more,2018,Percent,0.06284,104
+Midtown Business District,An hour or more,2018,Percent,0.06284,105
+Murray Hill/Stuyvesant,An hour or more,2018,Percent,0.08931,106
+Upper West Side,An hour or more,2018,Percent,0.10272,107
+Upper East Side,An hour or more,2018,Percent,0.07697,108
+Manhattanville,An hour or more,2018,Percent,0.13272,109
+Central Harlem,An hour or more,2018,Percent,0.1417,110
+East Harlem,An hour or more,2018,Percent,0.11895,111
+Washington Heights,An hour or more,2018,Percent,0.26491,112
+Mott Haven,An hour or more,2018,Percent,0.32193,201
+Hunts Point,An hour or more,2018,Percent,0.32193,202
+Morrisania,An hour or more,2018,Percent,0.31241,203
+Concourse/Highbridge,An hour or more,2018,Percent,0.32922,204
+University Heights,An hour or more,2018,Percent,0.30657,205
+East Tremont,An hour or more,2018,Percent,0.31241,206
+Bedford Park,An hour or more,2018,Percent,0.35675,207
+Riverdale,An hour or more,2018,Percent,0.36103,208
+Unionport/Soundview,An hour or more,2018,Percent,0.40318,209
+Throgs Neck,An hour or more,2018,Percent,0.37972,210
+Pelham Parkway,An hour or more,2018,Percent,0.38704,211
+Williamsbridge,An hour or more,2018,Percent,0.39258,212
+Williamsburg/Greenpoint,An hour or more,2018,Percent,0.11491,301
+Fort Greene/Brooklyn Hts,An hour or more,2018,Percent,0.12896,302
+Bedford Stuyvesant,An hour or more,2018,Percent,0.23443,303
+Bushwick,An hour or more,2018,Percent,0.24613,304
+East New York,An hour or more,2018,Percent,0.24183,305
+Park Slope,An hour or more,2018,Percent,0.13999,306
+Sunset Park,An hour or more,2018,Percent,0.26216,307
+Crown Heights North,An hour or more,2018,Percent,0.23639,308
+Crown Heights South,An hour or more,2018,Percent,0.23926,309
+Bay Ridge,An hour or more,2018,Percent,0.39073,310
+Bensonhurst,An hour or more,2018,Percent,0.41357,311
+Borough Park,An hour or more,2018,Percent,0.21386,312
+Coney Island,An hour or more,2018,Percent,0.38191,313
+Flatbush/Midwood,An hour or more,2018,Percent,0.28431,314
+Sheepshead Bay,An hour or more,2018,Percent,0.43732,315
+Brownsville,An hour or more,2018,Percent,0.34191,316
+East Flatbush,An hour or more,2018,Percent,0.40428,317
+Canarsie,An hour or more,2018,Percent,0.42664,318
+Astoria,An hour or more,2018,Percent,0.21421,401
+Sunnyside/Woodside,An hour or more,2018,Percent,0.18451,402
+Jackson Heights,An hour or more,2018,Percent,0.30629,403
+Elmhurst/Corona,An hour or more,2018,Percent,0.31161,404
+Ridgewood/Glendale,An hour or more,2018,Percent,0.33707,405
+Rego Park/Forest Hills,An hour or more,2018,Percent,0.32656,406
+Flushing,An hour or more,2018,Percent,0.3201,407
+Fresh Meadows/Briarwood,An hour or more,2018,Percent,0.39423,408
+Woodhaven,An hour or more,2018,Percent,0.37174,409
+Howard Beach,An hour or more,2018,Percent,0.33778,410
+Bayside,An hour or more,2018,Percent,0.37194,411
+Jamaica/St. Albans,An hour or more,2018,Percent,0.3891,412
+Queens Village,An hour or more,2018,Percent,0.38901,413
+The Rockaways,An hour or more,2018,Percent,0.3636,414
+St. George,An hour or more,2018,Percent,0.3898,501
+South Beach,An hour or more,2018,Percent,0.40004,502
+Tottenville,An hour or more,2018,Percent,0.3691,503
+Bronx,An hour or more,2018,Percent,0.35617,36005
+Brooklyn,An hour or more,2018,Percent,0.28497,36047
+Manhattan,An hour or more,2018,Percent,0.11062,36061
+Queens,An hour or more,2018,Percent,0.3292,36081
+Staten Island,An hour or more,2018,Percent,0.38532,36085
+New York City,An hour or more,2018,Percent,0.27581,3651000
+Battery Park/Tribeca,30 to 59 minutes,2018,Percent,0.31101,101
+Greenwich Village,30 to 59 minutes,2018,Percent,0.31101,102
+Lower East Side,30 to 59 minutes,2018,Percent,0.51302,103
+Chelsea/Clinton,30 to 59 minutes,2018,Percent,0.3128,104
+Midtown Business District,30 to 59 minutes,2018,Percent,0.3128,105
+Murray Hill/Stuyvesant,30 to 59 minutes,2018,Percent,0.32711,106
+Upper West Side,30 to 59 minutes,2018,Percent,0.5157,107
+Upper East Side,30 to 59 minutes,2018,Percent,0.46797,108
+Manhattanville,30 to 59 minutes,2018,Percent,0.54599,109
+Central Harlem,30 to 59 minutes,2018,Percent,0.61608,110
+East Harlem,30 to 59 minutes,2018,Percent,0.58924,111
+Washington Heights,30 to 59 minutes,2018,Percent,0.50355,112
+Mott Haven,30 to 59 minutes,2018,Percent,0.43687,201
+Hunts Point,30 to 59 minutes,2018,Percent,0.43687,202
+Morrisania,30 to 59 minutes,2018,Percent,0.4128,203
+Concourse/Highbridge,30 to 59 minutes,2018,Percent,0.43056,204
+University Heights,30 to 59 minutes,2018,Percent,0.47352,205
+East Tremont,30 to 59 minutes,2018,Percent,0.4128,206
+Bedford Park,30 to 59 minutes,2018,Percent,0.43956,207
+Riverdale,30 to 59 minutes,2018,Percent,0.3583,208
+Unionport/Soundview,30 to 59 minutes,2018,Percent,0.36493,209
+Throgs Neck,30 to 59 minutes,2018,Percent,0.29301,210
+Pelham Parkway,30 to 59 minutes,2018,Percent,0.30916,211
+Williamsbridge,30 to 59 minutes,2018,Percent,0.35241,212
+Williamsburg/Greenpoint,30 to 59 minutes,2018,Percent,0.55587,301
+Fort Greene/Brooklyn Hts,30 to 59 minutes,2018,Percent,0.55172,302
+Bedford Stuyvesant,30 to 59 minutes,2018,Percent,0.5707,303
+Bushwick,30 to 59 minutes,2018,Percent,0.5801,304
+East New York,30 to 59 minutes,2018,Percent,0.61322,305
+Park Slope,30 to 59 minutes,2018,Percent,0.62006,306
+Sunset Park,30 to 59 minutes,2018,Percent,0.49048,307
+Crown Heights North,30 to 59 minutes,2018,Percent,0.57456,308
+Crown Heights South,30 to 59 minutes,2018,Percent,0.60288,309
+Bay Ridge,30 to 59 minutes,2018,Percent,0.3696,310
+Bensonhurst,30 to 59 minutes,2018,Percent,0.37418,311
+Borough Park,30 to 59 minutes,2018,Percent,0.36951,312
+Coney Island,30 to 59 minutes,2018,Percent,0.40992,313
+Flatbush/Midwood,30 to 59 minutes,2018,Percent,0.488,314
+Sheepshead Bay,30 to 59 minutes,2018,Percent,0.33412,315
+Brownsville,30 to 59 minutes,2018,Percent,0.45847,316
+East Flatbush,30 to 59 minutes,2018,Percent,0.46577,317
+Canarsie,30 to 59 minutes,2018,Percent,0.36322,318
+Astoria,30 to 59 minutes,2018,Percent,0.58471,401
+Sunnyside/Woodside,30 to 59 minutes,2018,Percent,0.51145,402
+Jackson Heights,30 to 59 minutes,2018,Percent,0.44357,403
+Elmhurst/Corona,30 to 59 minutes,2018,Percent,0.51655,404
+Ridgewood/Glendale,30 to 59 minutes,2018,Percent,0.45676,405
+Rego Park/Forest Hills,30 to 59 minutes,2018,Percent,0.48507,406
+Flushing,30 to 59 minutes,2018,Percent,0.37506,407
+Fresh Meadows/Briarwood,30 to 59 minutes,2018,Percent,0.35057,408
+Woodhaven,30 to 59 minutes,2018,Percent,0.4193,409
+Howard Beach,30 to 59 minutes,2018,Percent,0.41424,410
+Bayside,30 to 59 minutes,2018,Percent,0.3481,411
+Jamaica/St. Albans,30 to 59 minutes,2018,Percent,0.35758,412
+Queens Village,30 to 59 minutes,2018,Percent,0.35309,413
+The Rockaways,30 to 59 minutes,2018,Percent,0.32726,414
+St. George,30 to 59 minutes,2018,Percent,0.25161,501
+South Beach,30 to 59 minutes,2018,Percent,0.27386,502
+Tottenville,30 to 59 minutes,2018,Percent,0.31093,503
+Bronx,30 to 59 minutes,2018,Percent,0.38687,36005
+Brooklyn,30 to 59 minutes,2018,Percent,0.48865,36047
+Manhattan,30 to 59 minutes,2018,Percent,0.45565,36061
+Queens,30 to 59 minutes,2018,Percent,0.42487,36081
+Staten Island,30 to 59 minutes,2018,Percent,0.27906,36085
+New York City,30 to 59 minutes,2018,Percent,0.43734,3651000
+Battery Park/Tribeca,Under 30 minutes,2019,Percent,0.63933,101
+Greenwich Village,Under 30 minutes,2019,Percent,0.63933,102
+Lower East Side,Under 30 minutes,2019,Percent,0.47459,103
+Chelsea/Clinton,Under 30 minutes,2019,Percent,0.60972,104
+Midtown Business District,Under 30 minutes,2019,Percent,0.60972,105
+Murray Hill/Stuyvesant,Under 30 minutes,2019,Percent,0.61647,106
+Upper West Side,Under 30 minutes,2019,Percent,0.42615,107
+Upper East Side,Under 30 minutes,2019,Percent,0.45983,108
+Manhattanville,Under 30 minutes,2019,Percent,0.34253,109
+Central Harlem,Under 30 minutes,2019,Percent,0.25679,110
+East Harlem,Under 30 minutes,2019,Percent,0.28287,111
+Washington Heights,Under 30 minutes,2019,Percent,0.22234,112
+Mott Haven,Under 30 minutes,2019,Percent,0.22405,201
+Hunts Point,Under 30 minutes,2019,Percent,0.22405,202
+Morrisania,Under 30 minutes,2019,Percent,0.2623,203
+Concourse/Highbridge,Under 30 minutes,2019,Percent,0.2117,204
+University Heights,Under 30 minutes,2019,Percent,0.19461,205
+East Tremont,Under 30 minutes,2019,Percent,0.2623,206
+Bedford Park,Under 30 minutes,2019,Percent,0.22443,207
+Riverdale,Under 30 minutes,2019,Percent,0.23841,208
+Unionport/Soundview,Under 30 minutes,2019,Percent,0.22145,209
+Throgs Neck,Under 30 minutes,2019,Percent,0.35958,210
+Pelham Parkway,Under 30 minutes,2019,Percent,0.27953,211
+Williamsbridge,Under 30 minutes,2019,Percent,0.25803,212
+Williamsburg/Greenpoint,Under 30 minutes,2019,Percent,0.29454,301
+Fort Greene/Brooklyn Hts,Under 30 minutes,2019,Percent,0.2998,302
+Bedford Stuyvesant,Under 30 minutes,2019,Percent,0.21531,303
+Bushwick,Under 30 minutes,2019,Percent,0.19436,304
+East New York,Under 30 minutes,2019,Percent,0.17759,305
+Park Slope,Under 30 minutes,2019,Percent,0.22709,306
+Sunset Park,Under 30 minutes,2019,Percent,0.22168,307
+Crown Heights North,Under 30 minutes,2019,Percent,0.1548,308
+Crown Heights South,Under 30 minutes,2019,Percent,0.1563,309
+Bay Ridge,Under 30 minutes,2019,Percent,0.27942,310
+Bensonhurst,Under 30 minutes,2019,Percent,0.21957,311
+Borough Park,Under 30 minutes,2019,Percent,0.39656,312
+Coney Island,Under 30 minutes,2019,Percent,0.25098,313
+Flatbush/Midwood,Under 30 minutes,2019,Percent,0.22036,314
+Sheepshead Bay,Under 30 minutes,2019,Percent,0.28005,315
+Brownsville,Under 30 minutes,2019,Percent,0.15182,316
+East Flatbush,Under 30 minutes,2019,Percent,0.15054,317
+Canarsie,Under 30 minutes,2019,Percent,0.19094,318
+Astoria,Under 30 minutes,2019,Percent,0.21872,401
+Sunnyside/Woodside,Under 30 minutes,2019,Percent,0.30346,402
+Jackson Heights,Under 30 minutes,2019,Percent,0.20519,403
+Elmhurst/Corona,Under 30 minutes,2019,Percent,0.16999,404
+Ridgewood/Glendale,Under 30 minutes,2019,Percent,0.22348,405
+Rego Park/Forest Hills,Under 30 minutes,2019,Percent,0.18837,406
+Flushing,Under 30 minutes,2019,Percent,0.32818,407
+Fresh Meadows/Briarwood,Under 30 minutes,2019,Percent,0.30837,408
+Woodhaven,Under 30 minutes,2019,Percent,0.22938,409
+Howard Beach,Under 30 minutes,2019,Percent,0.25746,410
+Bayside,Under 30 minutes,2019,Percent,0.33319,411
+Jamaica/St. Albans,Under 30 minutes,2019,Percent,0.24956,412
+Queens Village,Under 30 minutes,2019,Percent,0.26425,413
+The Rockaways,Under 30 minutes,2019,Percent,0.24993,414
+St. George,Under 30 minutes,2019,Percent,0.37849,501
+South Beach,Under 30 minutes,2019,Percent,0.33663,502
+Tottenville,Under 30 minutes,2019,Percent,0.30902,503
+Bronx,Under 30 minutes,2019,Percent,0.24602,36005
+Brooklyn,Under 30 minutes,2019,Percent,0.22608,36047
+Manhattan,Under 30 minutes,2019,Percent,0.45078,36061
+Queens,Under 30 minutes,2019,Percent,0.25271,36081
+Staten Island,Under 30 minutes,2019,Percent,0.34271,36085
+New York City,Under 30 minutes,2019,Percent,0.29205,3651000
+Battery Park/Tribeca,An hour or more,2019,Percent,0.05875,101
+Greenwich Village,An hour or more,2019,Percent,0.05875,102
+Lower East Side,An hour or more,2019,Percent,0.08475,103
+Chelsea/Clinton,An hour or more,2019,Percent,0.05747,104
+Midtown Business District,An hour or more,2019,Percent,0.05747,105
+Murray Hill/Stuyvesant,An hour or more,2019,Percent,0.082,106
+Upper West Side,An hour or more,2019,Percent,0.0573,107
+Upper East Side,An hour or more,2019,Percent,0.06929,108
+Manhattanville,An hour or more,2019,Percent,0.11877,109
+Central Harlem,An hour or more,2019,Percent,0.11547,110
+East Harlem,An hour or more,2019,Percent,0.12429,111
+Washington Heights,An hour or more,2019,Percent,0.25967,112
+Mott Haven,An hour or more,2019,Percent,0.30563,201
+Hunts Point,An hour or more,2019,Percent,0.30563,202
+Morrisania,An hour or more,2019,Percent,0.38734,203
+Concourse/Highbridge,An hour or more,2019,Percent,0.3416,204
+University Heights,An hour or more,2019,Percent,0.40074,205
+East Tremont,An hour or more,2019,Percent,0.38734,206
+Bedford Park,An hour or more,2019,Percent,0.40071,207
+Riverdale,An hour or more,2019,Percent,0.35236,208
+Unionport/Soundview,An hour or more,2019,Percent,0.42583,209
+Throgs Neck,An hour or more,2019,Percent,0.37923,210
+Pelham Parkway,An hour or more,2019,Percent,0.36965,211
+Williamsbridge,An hour or more,2019,Percent,0.37371,212
+Williamsburg/Greenpoint,An hour or more,2019,Percent,0.09436,301
+Fort Greene/Brooklyn Hts,An hour or more,2019,Percent,0.09893,302
+Bedford Stuyvesant,An hour or more,2019,Percent,0.19839,303
+Bushwick,An hour or more,2019,Percent,0.27066,304
+East New York,An hour or more,2019,Percent,0.33764,305
+Park Slope,An hour or more,2019,Percent,0.14709,306
+Sunset Park,An hour or more,2019,Percent,0.28451,307
+Crown Heights North,An hour or more,2019,Percent,0.21656,308
+Crown Heights South,An hour or more,2019,Percent,0.32619,309
+Bay Ridge,An hour or more,2019,Percent,0.35426,310
+Bensonhurst,An hour or more,2019,Percent,0.39967,311
+Borough Park,An hour or more,2019,Percent,0.24268,312
+Coney Island,An hour or more,2019,Percent,0.39182,313
+Flatbush/Midwood,An hour or more,2019,Percent,0.28796,314
+Sheepshead Bay,An hour or more,2019,Percent,0.3863,315
+Brownsville,An hour or more,2019,Percent,0.36894,316
+East Flatbush,An hour or more,2019,Percent,0.39433,317
+Canarsie,An hour or more,2019,Percent,0.46112,318
+Astoria,An hour or more,2019,Percent,0.17502,401
+Sunnyside/Woodside,An hour or more,2019,Percent,0.15355,402
+Jackson Heights,An hour or more,2019,Percent,0.26704,403
+Elmhurst/Corona,An hour or more,2019,Percent,0.28127,404
+Ridgewood/Glendale,An hour or more,2019,Percent,0.2694,405
+Rego Park/Forest Hills,An hour or more,2019,Percent,0.30696,406
+Flushing,An hour or more,2019,Percent,0.32241,407
+Fresh Meadows/Briarwood,An hour or more,2019,Percent,0.32171,408
+Woodhaven,An hour or more,2019,Percent,0.34763,409
+Howard Beach,An hour or more,2019,Percent,0.39411,410
+Bayside,An hour or more,2019,Percent,0.34062,411
+Jamaica/St. Albans,An hour or more,2019,Percent,0.40366,412
+Queens Village,An hour or more,2019,Percent,0.36766,413
+The Rockaways,An hour or more,2019,Percent,0.40204,414
+St. George,An hour or more,2019,Percent,0.34939,501
+South Beach,An hour or more,2019,Percent,0.37166,502
+Tottenville,An hour or more,2019,Percent,0.39818,503
+Bronx,An hour or more,2019,Percent,0.37651,36005
+Brooklyn,An hour or more,2019,Percent,0.2906,36047
+Manhattan,An hour or more,2019,Percent,0.10103,36061
+Queens,An hour or more,2019,Percent,0.30909,36081
+Staten Island,An hour or more,2019,Percent,0.37258,36085
+New York City,An hour or more,2019,Percent,0.27155,3651000
+Battery Park/Tribeca,30 to 59 minutes,2019,Percent,0.30192,101
+Greenwich Village,30 to 59 minutes,2019,Percent,0.30192,102
+Lower East Side,30 to 59 minutes,2019,Percent,0.44065,103
+Chelsea/Clinton,30 to 59 minutes,2019,Percent,0.33281,104
+Midtown Business District,30 to 59 minutes,2019,Percent,0.33281,105
+Murray Hill/Stuyvesant,30 to 59 minutes,2019,Percent,0.30153,106
+Upper West Side,30 to 59 minutes,2019,Percent,0.51655,107
+Upper East Side,30 to 59 minutes,2019,Percent,0.47087,108
+Manhattanville,30 to 59 minutes,2019,Percent,0.5387,109
+Central Harlem,30 to 59 minutes,2019,Percent,0.62774,110
+East Harlem,30 to 59 minutes,2019,Percent,0.59284,111
+Washington Heights,30 to 59 minutes,2019,Percent,0.51799,112
+Mott Haven,30 to 59 minutes,2019,Percent,0.47032,201
+Hunts Point,30 to 59 minutes,2019,Percent,0.47032,202
+Morrisania,30 to 59 minutes,2019,Percent,0.35035,203
+Concourse/Highbridge,30 to 59 minutes,2019,Percent,0.4467,204
+University Heights,30 to 59 minutes,2019,Percent,0.40466,205
+East Tremont,30 to 59 minutes,2019,Percent,0.35035,206
+Bedford Park,30 to 59 minutes,2019,Percent,0.37486,207
+Riverdale,30 to 59 minutes,2019,Percent,0.40922,208
+Unionport/Soundview,30 to 59 minutes,2019,Percent,0.35272,209
+Throgs Neck,30 to 59 minutes,2019,Percent,0.26119,210
+Pelham Parkway,30 to 59 minutes,2019,Percent,0.35082,211
+Williamsbridge,30 to 59 minutes,2019,Percent,0.36826,212
+Williamsburg/Greenpoint,30 to 59 minutes,2019,Percent,0.6111,301
+Fort Greene/Brooklyn Hts,30 to 59 minutes,2019,Percent,0.60127,302
+Bedford Stuyvesant,30 to 59 minutes,2019,Percent,0.5863,303
+Bushwick,30 to 59 minutes,2019,Percent,0.53499,304
+East New York,30 to 59 minutes,2019,Percent,0.48477,305
+Park Slope,30 to 59 minutes,2019,Percent,0.62582,306
+Sunset Park,30 to 59 minutes,2019,Percent,0.49381,307
+Crown Heights North,30 to 59 minutes,2019,Percent,0.62864,308
+Crown Heights South,30 to 59 minutes,2019,Percent,0.5175,309
+Bay Ridge,30 to 59 minutes,2019,Percent,0.36631,310
+Bensonhurst,30 to 59 minutes,2019,Percent,0.38076,311
+Borough Park,30 to 59 minutes,2019,Percent,0.36077,312
+Coney Island,30 to 59 minutes,2019,Percent,0.3572,313
+Flatbush/Midwood,30 to 59 minutes,2019,Percent,0.49169,314
+Sheepshead Bay,30 to 59 minutes,2019,Percent,0.33365,315
+Brownsville,30 to 59 minutes,2019,Percent,0.47924,316
+East Flatbush,30 to 59 minutes,2019,Percent,0.45513,317
+Canarsie,30 to 59 minutes,2019,Percent,0.34793,318
+Astoria,30 to 59 minutes,2019,Percent,0.60625,401
+Sunnyside/Woodside,30 to 59 minutes,2019,Percent,0.54299,402
+Jackson Heights,30 to 59 minutes,2019,Percent,0.52777,403
+Elmhurst/Corona,30 to 59 minutes,2019,Percent,0.54875,404
+Ridgewood/Glendale,30 to 59 minutes,2019,Percent,0.50713,405
+Rego Park/Forest Hills,30 to 59 minutes,2019,Percent,0.50467,406
+Flushing,30 to 59 minutes,2019,Percent,0.34941,407
+Fresh Meadows/Briarwood,30 to 59 minutes,2019,Percent,0.36992,408
+Woodhaven,30 to 59 minutes,2019,Percent,0.42298,409
+Howard Beach,30 to 59 minutes,2019,Percent,0.34843,410
+Bayside,30 to 59 minutes,2019,Percent,0.32619,411
+Jamaica/St. Albans,30 to 59 minutes,2019,Percent,0.34678,412
+Queens Village,30 to 59 minutes,2019,Percent,0.36809,413
+The Rockaways,30 to 59 minutes,2019,Percent,0.34803,414
+St. George,30 to 59 minutes,2019,Percent,0.27212,501
+South Beach,30 to 59 minutes,2019,Percent,0.29171,502
+Tottenville,30 to 59 minutes,2019,Percent,0.29281,503
+Bronx,30 to 59 minutes,2019,Percent,0.37746,36005
+Brooklyn,30 to 59 minutes,2019,Percent,0.48333,36047
+Manhattan,30 to 59 minutes,2019,Percent,0.44819,36061
+Queens,30 to 59 minutes,2019,Percent,0.4382,36081
+Staten Island,30 to 59 minutes,2019,Percent,0.28471,36085
+New York City,30 to 59 minutes,2019,Percent,0.43641,3651000
+Riverdale,Under 30 minutes,2021,Percent,0.37017,208
+Williamsbridge,Under 30 minutes,2021,Percent,0.30836,212
+Throgs Neck,Under 30 minutes,2021,Percent,0.31863,210
+Pelham Parkway,Under 30 minutes,2021,Percent,0.33567,211
+Morrisania,Under 30 minutes,2021,Percent,0.2841,203
+East Tremont,Under 30 minutes,2021,Percent,0.2841,206
+Bedford Park,Under 30 minutes,2021,Percent,0.22798,207
+University Heights,Under 30 minutes,2021,Percent,0.23023,205
+Concourse/Highbridge,Under 30 minutes,2021,Percent,0.2533,204
+Unionport/Soundview,Under 30 minutes,2021,Percent,0.27303,209
+Mott Haven,Under 30 minutes,2021,Percent,0.26942,201
+Hunts Point,Under 30 minutes,2021,Percent,0.26942,202
+Washington Heights,Under 30 minutes,2021,Percent,0.27045,112
+Manhattanville,Under 30 minutes,2021,Percent,0.37123,109
+Central Harlem,Under 30 minutes,2021,Percent,0.26291,110
+East Harlem,Under 30 minutes,2021,Percent,0.35319,111
+Upper East Side,Under 30 minutes,2021,Percent,0.5072,108
+Upper West Side,Under 30 minutes,2021,Percent,0.51681,107
+Chelsea/Clinton,Under 30 minutes,2021,Percent,0.56862,104
+Midtown Business District,Under 30 minutes,2021,Percent,0.56862,105
+Murray Hill/Stuyvesant,Under 30 minutes,2021,Percent,0.52243,106
+Lower East Side,Under 30 minutes,2021,Percent,0.44225,103
+Battery Park/Tribeca,Under 30 minutes,2021,Percent,0.59025,101
+Greenwich Village,Under 30 minutes,2021,Percent,0.59025,102
+Tottenville,Under 30 minutes,2021,Percent,0.40592,503
+South Beach,Under 30 minutes,2021,Percent,0.34849,502
+St. George,Under 30 minutes,2021,Percent,0.44194,501
+Williamsburg/Greenpoint,Under 30 minutes,2021,Percent,0.35864,301
+Bushwick,Under 30 minutes,2021,Percent,0.21684,304
+Bedford Stuyvesant,Under 30 minutes,2021,Percent,0.31349,303
+Fort Greene/Brooklyn Hts,Under 30 minutes,2021,Percent,0.36056,302
+Park Slope,Under 30 minutes,2021,Percent,0.31613,306
+Crown Heights North,Under 30 minutes,2021,Percent,0.21091,308
+Brownsville,Under 30 minutes,2021,Percent,0.2068,316
+East New York,Under 30 minutes,2021,Percent,0.19069,305
+Canarsie,Under 30 minutes,2021,Percent,0.27398,318
+East Flatbush,Under 30 minutes,2021,Percent,0.2017,317
+Crown Heights South,Under 30 minutes,2021,Percent,0.26665,309
+Sunset Park,Under 30 minutes,2021,Percent,0.2995,307
+Bay Ridge,Under 30 minutes,2021,Percent,0.27222,310
+Borough Park,Under 30 minutes,2021,Percent,0.42434,312
+Flatbush/Midwood,Under 30 minutes,2021,Percent,0.24066,314
+Sheepshead Bay,Under 30 minutes,2021,Percent,0.35256,315
+Bensonhurst,Under 30 minutes,2021,Percent,0.34126,311
+Coney Island,Under 30 minutes,2021,Percent,0.35558,313
+Astoria,Under 30 minutes,2021,Percent,0.32631,401
+Jackson Heights,Under 30 minutes,2021,Percent,0.25722,403
+Flushing,Under 30 minutes,2021,Percent,0.37418,407
+Bayside,Under 30 minutes,2021,Percent,0.38757,411
+Queens Village,Under 30 minutes,2021,Percent,0.30179,413
+Fresh Meadows/Briarwood,Under 30 minutes,2021,Percent,0.37113,408
+Elmhurst/Corona,Under 30 minutes,2021,Percent,0.23421,404
+Rego Park/Forest Hills,Under 30 minutes,2021,Percent,0.23154,406
+Sunnyside/Woodside,Under 30 minutes,2021,Percent,0.35489,402
+Ridgewood/Glendale,Under 30 minutes,2021,Percent,0.24648,405
+Woodhaven,Under 30 minutes,2021,Percent,0.26742,409
+Jamaica/St. Albans,Under 30 minutes,2021,Percent,0.24452,412
+Howard Beach,Under 30 minutes,2021,Percent,0.2501,410
+The Rockaways,Under 30 minutes,2021,Percent,0.34866,414
+Bronx,Under 30 minutes,2021,Percent,0.28466,36005
+Brooklyn,Under 30 minutes,2021,Percent,0.28814,36047
+Manhattan,Under 30 minutes,2021,Percent,0.44729,36061
+Queens,Under 30 minutes,2021,Percent,0.29713,36081
+Staten Island,Under 30 minutes,2021,Percent,0.40475,36085
+New York City,Under 30 minutes,2021,Percent,0.32613,3651000
+Riverdale,30 to 59 minutes,2021,Percent,0.37619,208
+Williamsbridge,30 to 59 minutes,2021,Percent,0.36541,212
+Throgs Neck,30 to 59 minutes,2021,Percent,0.34187,210
+Pelham Parkway,30 to 59 minutes,2021,Percent,0.33837,211
+Morrisania,30 to 59 minutes,2021,Percent,0.42845,203
+East Tremont,30 to 59 minutes,2021,Percent,0.42845,206
+Bedford Park,30 to 59 minutes,2021,Percent,0.38482,207
+University Heights,30 to 59 minutes,2021,Percent,0.54665,205
+Concourse/Highbridge,30 to 59 minutes,2021,Percent,0.47848,204
+Unionport/Soundview,30 to 59 minutes,2021,Percent,0.38257,209
+Mott Haven,30 to 59 minutes,2021,Percent,0.4726,201
+Hunts Point,30 to 59 minutes,2021,Percent,0.4726,202
+Washington Heights,30 to 59 minutes,2021,Percent,0.49461,112
+Manhattanville,30 to 59 minutes,2021,Percent,0.44499,109
+Central Harlem,30 to 59 minutes,2021,Percent,0.56608,110
+East Harlem,30 to 59 minutes,2021,Percent,0.45284,111
+Upper East Side,30 to 59 minutes,2021,Percent,0.38984,108
+Upper West Side,30 to 59 minutes,2021,Percent,0.41092,107
+Chelsea/Clinton,30 to 59 minutes,2021,Percent,0.34824,104
+Midtown Business District,30 to 59 minutes,2021,Percent,0.34824,105
+Murray Hill/Stuyvesant,30 to 59 minutes,2021,Percent,0.45313,106
+Lower East Side,30 to 59 minutes,2021,Percent,0.45506,103
+Battery Park/Tribeca,30 to 59 minutes,2021,Percent,0.35922,101
+Greenwich Village,30 to 59 minutes,2021,Percent,0.35922,102
+Tottenville,30 to 59 minutes,2021,Percent,0.30046,503
+South Beach,30 to 59 minutes,2021,Percent,0.33914,502
+St. George,30 to 59 minutes,2021,Percent,0.26413,501
+Williamsburg/Greenpoint,30 to 59 minutes,2021,Percent,0.49997,301
+Bushwick,30 to 59 minutes,2021,Percent,0.58371,304
+Bedford Stuyvesant,30 to 59 minutes,2021,Percent,0.46241,303
+Fort Greene/Brooklyn Hts,30 to 59 minutes,2021,Percent,0.53106,302
+Park Slope,30 to 59 minutes,2021,Percent,0.51543,306
+Crown Heights North,30 to 59 minutes,2021,Percent,0.51144,308
+Brownsville,30 to 59 minutes,2021,Percent,0.46388,316
+East New York,30 to 59 minutes,2021,Percent,0.41637,305
+Canarsie,30 to 59 minutes,2021,Percent,0.36052,318
+East Flatbush,30 to 59 minutes,2021,Percent,0.44806,317
+Crown Heights South,30 to 59 minutes,2021,Percent,0.48538,309
+Sunset Park,30 to 59 minutes,2021,Percent,0.48078,307
+Bay Ridge,30 to 59 minutes,2021,Percent,0.41934,310
+Borough Park,30 to 59 minutes,2021,Percent,0.37764,312
+Flatbush/Midwood,30 to 59 minutes,2021,Percent,0.4427,314
+Sheepshead Bay,30 to 59 minutes,2021,Percent,0.36286,315
+Bensonhurst,30 to 59 minutes,2021,Percent,0.37456,311
+Coney Island,30 to 59 minutes,2021,Percent,0.33725,313
+Astoria,30 to 59 minutes,2021,Percent,0.52678,401
+Jackson Heights,30 to 59 minutes,2021,Percent,0.50363,403
+Flushing,30 to 59 minutes,2021,Percent,0.37089,407
+Bayside,30 to 59 minutes,2021,Percent,0.34849,411
+Queens Village,30 to 59 minutes,2021,Percent,0.36876,413
+Fresh Meadows/Briarwood,30 to 59 minutes,2021,Percent,0.38897,408
+Elmhurst/Corona,30 to 59 minutes,2021,Percent,0.55553,404
+Rego Park/Forest Hills,30 to 59 minutes,2021,Percent,0.45442,406
+Sunnyside/Woodside,30 to 59 minutes,2021,Percent,0.51894,402
+Ridgewood/Glendale,30 to 59 minutes,2021,Percent,0.44813,405
+Woodhaven,30 to 59 minutes,2021,Percent,0.45454,409
+Jamaica/St. Albans,30 to 59 minutes,2021,Percent,0.40408,412
+Howard Beach,30 to 59 minutes,2021,Percent,0.45656,410
+The Rockaways,30 to 59 minutes,2021,Percent,0.32238,414
+Bronx,30 to 59 minutes,2021,Percent,0.41119,36005
+Brooklyn,30 to 59 minutes,2021,Percent,0.44278,36047
+Manhattan,30 to 59 minutes,2021,Percent,0.43201,36061
+Queens,30 to 59 minutes,2021,Percent,0.43623,36081
+Staten Island,30 to 59 minutes,2021,Percent,0.29682,36085
+New York City,30 to 59 minutes,2021,Percent,0.4246,3651000
+Riverdale,An hour or more,2021,Percent,0.25364,208
+Williamsbridge,An hour or more,2021,Percent,0.32623,212
+Throgs Neck,An hour or more,2021,Percent,0.33949,210
+Pelham Parkway,An hour or more,2021,Percent,0.32595,211
+Morrisania,An hour or more,2021,Percent,0.28745,203
+East Tremont,An hour or more,2021,Percent,0.28745,206
+Bedford Park,An hour or more,2021,Percent,0.3872,207
+University Heights,An hour or more,2021,Percent,0.22312,205
+Concourse/Highbridge,An hour or more,2021,Percent,0.26822,204
+Unionport/Soundview,An hour or more,2021,Percent,0.3444,209
+Mott Haven,An hour or more,2021,Percent,0.25798,201
+Hunts Point,An hour or more,2021,Percent,0.25798,202
+Washington Heights,An hour or more,2021,Percent,0.23493,112
+Manhattanville,An hour or more,2021,Percent,0.18378,109
+Central Harlem,An hour or more,2021,Percent,0.17102,110
+East Harlem,An hour or more,2021,Percent,0.19396,111
+Upper East Side,An hour or more,2021,Percent,0.10295,108
+Upper West Side,An hour or more,2021,Percent,0.07226,107
+Chelsea/Clinton,An hour or more,2021,Percent,0.08314,104
+Midtown Business District,An hour or more,2021,Percent,0.08314,105
+Murray Hill/Stuyvesant,An hour or more,2021,Percent,0.02444,106
+Lower East Side,An hour or more,2021,Percent,0.10268,103
+Battery Park/Tribeca,An hour or more,2021,Percent,0.05053,101
+Greenwich Village,An hour or more,2021,Percent,0.05053,102
+Tottenville,An hour or more,2021,Percent,0.29362,503
+South Beach,An hour or more,2021,Percent,0.31237,502
+St. George,An hour or more,2021,Percent,0.29392,501
+Williamsburg/Greenpoint,An hour or more,2021,Percent,0.14139,301
+Bushwick,An hour or more,2021,Percent,0.19945,304
+Bedford Stuyvesant,An hour or more,2021,Percent,0.2241,303
+Fort Greene/Brooklyn Hts,An hour or more,2021,Percent,0.10838,302
+Park Slope,An hour or more,2021,Percent,0.16844,306
+Crown Heights North,An hour or more,2021,Percent,0.27765,308
+Brownsville,An hour or more,2021,Percent,0.32932,316
+East New York,An hour or more,2021,Percent,0.39293,305
+Canarsie,An hour or more,2021,Percent,0.3655,318
+East Flatbush,An hour or more,2021,Percent,0.35024,317
+Crown Heights South,An hour or more,2021,Percent,0.24797,309
+Sunset Park,An hour or more,2021,Percent,0.21973,307
+Bay Ridge,An hour or more,2021,Percent,0.30844,310
+Borough Park,An hour or more,2021,Percent,0.19802,312
+Flatbush/Midwood,An hour or more,2021,Percent,0.31665,314
+Sheepshead Bay,An hour or more,2021,Percent,0.28458,315
+Bensonhurst,An hour or more,2021,Percent,0.28418,311
+Coney Island,An hour or more,2021,Percent,0.30717,313
+Astoria,An hour or more,2021,Percent,0.14691,401
+Jackson Heights,An hour or more,2021,Percent,0.23914,403
+Flushing,An hour or more,2021,Percent,0.25493,407
+Bayside,An hour or more,2021,Percent,0.26394,411
+Queens Village,An hour or more,2021,Percent,0.32945,413
+Fresh Meadows/Briarwood,An hour or more,2021,Percent,0.23991,408
+Elmhurst/Corona,An hour or more,2021,Percent,0.21027,404
+Rego Park/Forest Hills,An hour or more,2021,Percent,0.31404,406
+Sunnyside/Woodside,An hour or more,2021,Percent,0.12618,402
+Ridgewood/Glendale,An hour or more,2021,Percent,0.30539,405
+Woodhaven,An hour or more,2021,Percent,0.27804,409
+Jamaica/St. Albans,An hour or more,2021,Percent,0.3514,412
+Howard Beach,An hour or more,2021,Percent,0.29334,410
+The Rockaways,An hour or more,2021,Percent,0.32897,414
+Bronx,An hour or more,2021,Percent,0.30416,36005
+Brooklyn,An hour or more,2021,Percent,0.26909,36047
+Manhattan,An hour or more,2021,Percent,0.1207,36061
+Queens,An hour or more,2021,Percent,0.26664,36081
+Staten Island,An hour or more,2021,Percent,0.29843,36085
+New York City,An hour or more,2021,Percent,0.24926,3651000

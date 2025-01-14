@@ -1,0 +1,71 @@
+"Name","Residential Units"
+"Description","The sum of residential units in all buildings on land used for (1) One &amp; Two Family Buildings, (2) Multi-Family Walk-Up Buildings, (3) Multi-Family Elevator Buildings, and (4) Mixed Residential &amp; Commercial Buildings."
+"Source Notes","CCC analysis of NYC Pluto Data Downloader, version 2018v2. Retrieved from&nbsp;<a href=""https://chriswhong.github.io/plutoplus/"">https://chriswhong.github.io/plutoplus/</a>."
+"Notes","Residential units include both occupied and vacant units."
+
+Location,TimeFrame,DataFormat,Data,Fips
+Battery Park/Tribeca,2018,Number,43892,101
+Greenwich Village,2018,Number,57146,102
+Lower East Side,2018,Number,81404,103
+Chelsea/Clinton,2018,Number,85163,104
+Midtown Business District,2018,Number,47373,105
+Murray Hill/Stuyvesant,2018,Number,99362,106
+Upper West Side,2018,Number,127516,107
+Upper East Side,2018,Number,149217,108
+Manhattanville,2018,Number,45495,109
+Central Harlem,2018,Number,59541,110
+East Harlem,2018,Number,56990,111
+Washington Heights,2018,Number,72895,112
+Mott Haven,2018,Number,39063,201
+Hunts Point,2018,Number,20123,202
+Morrisania,2018,Number,34238,203
+Concourse/Highbridge,2018,Number,51894,204
+University Heights,2018,Number,51169,205
+East Tremont,2018,Number,33005,206
+Bedford Park,2018,Number,51982,207
+Riverdale,2018,Number,44172,208
+Unionport/Soundview,2018,Number,64871,209
+Throgs Neck,2018,Number,49638,210
+Pelham Parkway,2018,Number,52744,211
+Williamsbridge,2018,Number,54941,212
+Williamsburg/Greenpoint,2018,Number,86107,301
+Fort Greene/Brooklyn Hts,2018,Number,68650,302
+Bedford Stuyvesant,2018,Number,70496,303
+Bushwick,2018,Number,43056,304
+East New York,2018,Number,65804,305
+Park Slope,2018,Number,54529,306
+Sunset Park,2018,Number,41436,307
+Crown Heights North,2018,Number,47264,308
+Crown Heights South,2018,Number,40354,309
+Bay Ridge,2018,Number,52070,310
+Bensonhurst,2018,Number,68083,311
+Borough Park,2018,Number,60383,312
+Coney Island,2018,Number,46421,313
+Flatbush/Midwood,2018,Number,61310,314
+Sheepshead Bay,2018,Number,64756,315
+Brownsville,2018,Number,36432,316
+East Flatbush,2018,Number,58120,317
+Canarsie,2018,Number,65237,318
+Astoria,2018,Number,87438,401
+Sunnyside/Woodside,2018,Number,67243,402
+Jackson Heights,2018,Number,52882,403
+Elmhurst/Corona,2018,Number,53618,404
+Ridgewood/Glendale,2018,Number,66329,405
+Rego Park/Forest Hills,2018,Number,55744,406
+Flushing,2018,Number,96260,407
+Fresh Meadows/Briarwood,2018,Number,59030,408
+Woodhaven,2018,Number,46203,409
+Howard Beach,2018,Number,39195,410
+Bayside,2018,Number,45165,411
+Jamaica/St. Albans,2018,Number,76920,412
+Queens Village,2018,Number,60793,413
+The Rockaways,2018,Number,45804,414
+St. George,2018,Number,65009,501
+South Beach,2018,Number,48732,502
+Tottenville,2018,Number,60847,503
+Bronx,2018,Number,1030508,36005
+Brooklyn,2018,Number,544734,36047
+Manhattan,2018,Number,929126,36061
+Queens,2018,Number,852626,36081
+Staten Island,2018,Number,174588,36085
+New York City,2018,Number,3531582,3651000
