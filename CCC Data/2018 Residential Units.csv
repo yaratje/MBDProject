@@ -1,8 +1,3 @@
-"Name","Residential Units"
-"Description","The sum of residential units in all buildings on land used for (1) One &amp; Two Family Buildings, (2) Multi-Family Walk-Up Buildings, (3) Multi-Family Elevator Buildings, and (4) Mixed Residential &amp; Commercial Buildings."
-"Source Notes","CCC analysis of NYC Pluto Data Downloader, version 2018v2. Retrieved from&nbsp;<a href=""https://chriswhong.github.io/plutoplus/"">https://chriswhong.github.io/plutoplus/</a>."
-"Notes","Residential units include both occupied and vacant units."
-
 Location,TimeFrame,DataFormat,Data,Fips
 Battery Park/Tribeca,2018,Number,43892,101
 Greenwich Village,2018,Number,57146,102

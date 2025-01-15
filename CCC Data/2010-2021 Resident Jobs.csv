@@ -1,14 +1,3 @@
-"Name","Resident Jobs"
-"Description","Industry number and percentages refer to the total and share of workers (aged 16 and over) in an industry, by the residence of the jobholder. CCC generated 5-year estimates and coded this variable to correspond with broader categories outlined by the <a href=""https://www.naics.com/naics-code-description/"" target=""_blank"">North American Industry Classification System</a>.&nbsp;<br />
-<br />
-""Management and Professional Services"" includes workers in Legal Services, Scientific Research and Development, Architectural and Engineering Services, and other professions which tend to require advanced degrees or certificates.<br />
-<br />
-""Other Services"" includes workers in Auto Repair and Maintenance, Barber Shops, Beauty Salons, and Religious Organizations, among others.<br />
-<br />
-Workers in the Agricultural, Extraction, and Utilities industries, as well as those employed by the military, make up less than 0.5% of the citywide population of workers and are omitted from the data."
-"Source Notes","U.S. Census Bureau, American Community Survey 5-Year Estimates, Table S2403 (2010, 2015, 2020, 2021); retrieved from&nbsp;<a href=""https://data.census.gov/"">https://data.census.gov/</a><a href=""http://factfinder2.census.gov/"" target=""_blank""></a>."
-"Notes","According to the Census Bureau, overlapping datasets should not be compared. To track change over time compare non-overlapping datasets, such as  2010-2015 ACS 5-year estimates compared to 2016-2020 ACS 5-year estimates."
-
 Location,Industry,TimeFrame,DataFormat,Data,Fips
 Battery Park/Tribeca,Construction and Manufacturing,2010,Number,2017.60393,101
 Greenwich Village,Construction and Manufacturing,2010,Number,2978.39607,102

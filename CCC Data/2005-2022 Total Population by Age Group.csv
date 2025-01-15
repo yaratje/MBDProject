@@ -1,12 +1,3 @@
-"Name","Total Population by Age Group"
-"Description","Total population by age group.<br />"
-"Source Notes","U.S. Census Bureau, American Community Survey 1-Year Estimates, Table B01003 (2005-2019); Table&nbsp;B01001 (2021), Table DP05 (2022) retrieved from&nbsp;<a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a><a href=""http://factfinder2.census.gov/"" target=""_blank""></a>.&nbsp;<br />
-<strong>ZCTA Data</strong>: U.S. Census Bureau, American Community Survey 5-Year Estimates (2011-2018)<br />
-<strong>UHF Data</strong>: NYC DOHMH population estimates, modified from US Census Bureau interpolated intercensal population estimates, 2010-2018. Updated August 2019."
-"Notes","Percents refer to the percent of the total population.<br />
-<br />
-<span style=""background-color: #ffffff; border: 0px; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 12pt; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"">Please note, we do not report 2020 American Community Survey 1-year estimates. Due to disruptions and biases in data collection during 2020, the Census Bureau released the &ldquo;experimental&rdquo; 1-year estimates for 2020 and advises against comparing against estimates from prior or future years.<span style=""font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; border: 0px; margin: 0px; padding: 0px; vertical-align: baseline; color: inherit;"">&nbsp;</span></span>"
-
 Location,Age Group,TimeFrame,DataFormat,Data,Fips
 Battery Park/Tribeca,Adults 25 Years and Older,2005,Number,42296.18297,101
 Battery Park/Tribeca,Adults 25 Years and Older,2005,Percent,0.8269,101

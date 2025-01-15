@@ -1,12 +1,3 @@
-"Name","Total Population"
-"Description",""
-"Source Notes","U.S. Census Bureau, American Community Survey 1-Year Estimates, Table B01003 (2005-2019); Table&nbsp;B01001, Table DP05 (2022)&nbsp; retrieved from <a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a><a href=""http://factfinder2.census.gov/"" target=""_blank""></a>.&nbsp;<br />
-<strong>ZCTA Data</strong>: U.S. Census Bureau, American Community Survey 5-Year Estimates (2011-2018)<br />
-<strong>UHF Data</strong>: NYC DOHMH population estimates, modified from US Census Bureau interpolated intercensal population estimates, 2010-2018. Updated August 2019.<br />"
-"Notes","Please note, we do not report 2020 American Community Survey 1-year estimates. Due to disruptions and biases in data collection during 2020, the Census Bureau released the &ldquo;experimental&rdquo; 1-year estimates for 2020 and advises against comparing against estimates from prior or future years. <br />
-<br />
-Zip Code level data from Census Bureau products represent data by Zip Coda Tabulation Area (ZCTA). ZCTAs are Census statistical areas that are designed to approximate USPS ZIP codes, through the aggregation of census blocks where a majority of addresses have the same zip code. For more information on ZCTAs, see this U.S. Census Bureau <a href=""https://www.census.gov/programs-surveys/geography/guidance/geo-areas/zctas.html"" target=""_blank"">link</a>."
-
 Location,TimeFrame,DataFormat,Data,Fips
 Battery Park/Tribeca,2005,Number,51150.45963,101
 Greenwich Village,2005,Number,75508.54037,102
