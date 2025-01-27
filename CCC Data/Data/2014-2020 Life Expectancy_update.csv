@@ -1,0 +1,435 @@
+Location;TimeFrame;DataFormat;Data;Fips
+Astoria;2014;Years;82,9;401
+Astoria;2015;Years;83,4;401
+Astoria;2016;Years;83,5;401
+Astoria;2017;Years;83,6;401
+Astoria;2018;Years;83,7;401
+Astoria;2019;Years;84,1;401
+Astoria;2020;Years;84,2;401
+Battery Park/Tribeca;2014;Years;85,9;101
+Battery Park/Tribeca;2015;Years;85,8;101
+Battery Park/Tribeca;2016;Years;85,9;101
+Battery Park/Tribeca;2017;Years;85,9;101
+Battery Park/Tribeca;2018;Years;86,2;101
+Battery Park/Tribeca;2019;Years;86,3;101
+Battery Park/Tribeca;2020;Years;86,8;101
+Bay Ridge;2014;Years;82,6;310
+Bay Ridge;2015;Years;83,1;310
+Bay Ridge;2016;Years;83,3;310
+Bay Ridge;2017;Years;83,7;310
+Bay Ridge;2018;Years;84;310
+Bay Ridge;2019;Years;84,2;310
+Bay Ridge;2020;Years;84,4;310
+Bayside;2014;Years;84,3;411
+Bayside;2015;Years;84,7;411
+Bayside;2016;Years;84,7;411
+Bayside;2017;Years;84,9;411
+Bayside;2018;Years;84,8;411
+Bayside;2019;Years;84,9;411
+Bayside;2020;Years;85;411
+Bedford Park;2014;Years;79;207
+Bedford Park;2015;Years;79,4;207
+Bedford Park;2016;Years;79,7;207
+Bedford Park;2017;Years;79,9;207
+Bedford Park;2018;Years;80;207
+Bedford Park;2019;Years;80,2;207
+Bedford Park;2020;Years;79,9;207
+Bedford Stuyvesant;2014;Years;75,6;303
+Bedford Stuyvesant;2015;Years;76,8;303
+Bedford Stuyvesant;2016;Years;77,3;303
+Bedford Stuyvesant;2017;Years;78;303
+Bedford Stuyvesant;2018;Years;78,7;303
+Bedford Stuyvesant;2019;Years;79,2;303
+Bedford Stuyvesant;2020;Years;79,4;303
+Bensonhurst;2014;Years;83,2;311
+Bensonhurst;2015;Years;83,8;311
+Bensonhurst;2016;Years;84;311
+Bensonhurst;2017;Years;84,2;311
+Bensonhurst;2018;Years;84,5;311
+Bensonhurst;2019;Years;84,7;311
+Bensonhurst;2020;Years;84,9;311
+Borough Park;2014;Years;83,8;312
+Borough Park;2015;Years;84,2;312
+Borough Park;2016;Years;84,3;312
+Borough Park;2017;Years;84,4;312
+Borough Park;2018;Years;84,7;312
+Borough Park;2019;Years;84,9;312
+Borough Park;2020;Years;84,7;312
+Brownsville;2014;Years;74,4;316
+Brownsville;2015;Years;75,1;316
+Brownsville;2016;Years;75,3;316
+Brownsville;2017;Years;75,6;316
+Brownsville;2018;Years;75,8;316
+Brownsville;2019;Years;76;316
+Brownsville;2020;Years;75,6;316
+Bushwick;2014;Years;79,1;304
+Bushwick;2015;Years;80,4;304
+Bushwick;2016;Years;80,8;304
+Bushwick;2017;Years;81,1;304
+Bushwick;2018;Years;81,7;304
+Bushwick;2019;Years;81,8;304
+Bushwick;2020;Years;81,6;304
+Canarsie;2014;Years;81,7;318
+Canarsie;2015;Years;82;318
+Canarsie;2016;Years;82;318
+Canarsie;2017;Years;82,1;318
+Canarsie;2018;Years;82,2;318
+Canarsie;2019;Years;82,1;318
+Canarsie;2020;Years;81,7;318
+Central Harlem;2014;Years;75,6;110
+Central Harlem;2015;Years;76,2;110
+Central Harlem;2016;Years;76,7;110
+Central Harlem;2017;Years;76,9;110
+Central Harlem;2018;Years;77,1;110
+Central Harlem;2019;Years;77,2;110
+Central Harlem;2020;Years;77;110
+Chelsea/Clinton;2014;Years;82,3;104
+Chelsea/Clinton;2015;Years;83,1;104
+Chelsea/Clinton;2016;Years;83,5;104
+Chelsea/Clinton;2017;Years;84,1;104
+Chelsea/Clinton;2018;Years;84,8;104
+Chelsea/Clinton;2019;Years;85,5;104
+Chelsea/Clinton;2020;Years;89,1;104
+Concourse/Highbridge;2014;Years;77,5;204
+Concourse/Highbridge;2015;Years;78,6;204
+Concourse/Highbridge;2016;Years;79,1;204
+Concourse/Highbridge;2017;Years;79,6;204
+Concourse/Highbridge;2018;Years;80;204
+Concourse/Highbridge;2019;Years;80,4;204
+Concourse/Highbridge;2020;Years;80;204
+Coney Island;2014;Years;80,2;313
+Coney Island;2015;Years;80,4;313
+Coney Island;2016;Years;80,5;313
+Coney Island;2017;Years;80,6;313
+Coney Island;2018;Years;80,6;313
+Coney Island;2019;Years;80,7;313
+Coney Island;2020;Years;80,7;313
+Crown Heights North;2014;Years;78,2;308
+Crown Heights North;2015;Years;79,3;308
+Crown Heights North;2016;Years;79,8;308
+Crown Heights North;2017;Years;80,2;308
+Crown Heights North;2018;Years;80,6;308
+Crown Heights North;2019;Years;80,9;308
+Crown Heights North;2020;Years;81;308
+Crown Heights South;2014;Years;80,3;309
+Crown Heights South;2015;Years;81,2;309
+Crown Heights South;2016;Years;81,6;309
+Crown Heights South;2017;Years;82;309
+Crown Heights South;2018;Years;82,3;309
+Crown Heights South;2019;Years;82,3;309
+Crown Heights South;2020;Years;82;309
+East Flatbush;2014;Years;82,4;317
+East Flatbush;2015;Years;82,6;317
+East Flatbush;2016;Years;82,6;317
+East Flatbush;2017;Years;82,8;317
+East Flatbush;2018;Years;82,8;317
+East Flatbush;2019;Years;82,8;317
+East Flatbush;2020;Years;82,2;317
+East Harlem;2014;Years;76,6;111
+East Harlem;2015;Years;77,3;111
+East Harlem;2016;Years;77,5;111
+East Harlem;2017;Years;77,9;111
+East Harlem;2018;Years;78,2;111
+East Harlem;2019;Years;78,5;111
+East Harlem;2020;Years;78,3;111
+East New York;2014;Years;78;305
+East New York;2015;Years;78,6;305
+East New York;2016;Years;78,9;305
+East New York;2017;Years;79,1;305
+East New York;2018;Years;79,2;305
+East New York;2019;Years;79,2;305
+East New York;2020;Years;78,4;305
+East Tremont;2014;Years;77;206
+East Tremont;2015;Years;77,7;206
+East Tremont;2016;Years;77,8;206
+East Tremont;2017;Years;78;206
+East Tremont;2018;Years;77,9;206
+East Tremont;2019;Years;78,2;206
+East Tremont;2020;Years;77,8;206
+Elmhurst/Corona;2014;Years;84,9;404
+Elmhurst/Corona;2015;Years;85,6;404
+Elmhurst/Corona;2016;Years;86;404
+Elmhurst/Corona;2017;Years;86,3;404
+Elmhurst/Corona;2018;Years;86,6;404
+Elmhurst/Corona;2019;Years;86,9;404
+Elmhurst/Corona;2020;Years;86,2;404
+Flatbush/Midwood;2014;Years;81,9;314
+Flatbush/Midwood;2015;Years;82,4;314
+Flatbush/Midwood;2016;Years;82,5;314
+Flatbush/Midwood;2017;Years;82,6;314
+Flatbush/Midwood;2018;Years;82,7;314
+Flatbush/Midwood;2019;Years;82,7;314
+Flatbush/Midwood;2020;Years;82,4;314
+Flushing;2014;Years;83,8;407
+Flushing;2015;Years;84,3;407
+Flushing;2016;Years;84,4;407
+Flushing;2017;Years;84,7;407
+Flushing;2018;Years;85;407
+Flushing;2019;Years;85,2;407
+Flushing;2020;Years;85,2;407
+Fort Greene/Brooklyn Hts;2014;Years;79,8;302
+Fort Greene/Brooklyn Hts;2015;Years;80,6;302
+Fort Greene/Brooklyn Hts;2016;Years;81,2;302
+Fort Greene/Brooklyn Hts;2017;Years;81,6;302
+Fort Greene/Brooklyn Hts;2018;Years;82,3;302
+Fort Greene/Brooklyn Hts;2019;Years;83;302
+Fort Greene/Brooklyn Hts;2020;Years;85,7;302
+Fresh Meadows/Briarwood;2014;Years;83,5;408
+Fresh Meadows/Briarwood;2015;Years;83,9;408
+Fresh Meadows/Briarwood;2016;Years;84,1;408
+Fresh Meadows/Briarwood;2017;Years;84,4;408
+Fresh Meadows/Briarwood;2018;Years;84,7;408
+Fresh Meadows/Briarwood;2019;Years;84,9;408
+Fresh Meadows/Briarwood;2020;Years;84,9;408
+Greenwich Village;2014;Years;85;102
+Greenwich Village;2015;Years;85,8;102
+Greenwich Village;2016;Years;86,2;102
+Greenwich Village;2017;Years;86,7;102
+Greenwich Village;2018;Years;87,2;102
+Greenwich Village;2019;Years;87,7;102
+Greenwich Village;2020;Years;88,4;102
+Howard Beach;2014;Years;81,4;410
+Howard Beach;2015;Years;81,7;410
+Howard Beach;2016;Years;81,7;410
+Howard Beach;2017;Years;81,9;410
+Howard Beach;2018;Years;82;410
+Howard Beach;2019;Years;81,9;410
+Howard Beach;2020;Years;81,7;410
+Hunts Point;2014;Years;78,3;202
+Hunts Point;2015;Years;78,9;202
+Hunts Point;2016;Years;79,4;202
+Hunts Point;2017;Years;79,8;202
+Hunts Point;2018;Years;80,1;202
+Hunts Point;2019;Years;80,5;202
+Hunts Point;2020;Years;80,1;202
+Jackson Heights;2014;Years;84,1;403
+Jackson Heights;2015;Years;84,7;403
+Jackson Heights;2016;Years;85,2;403
+Jackson Heights;2017;Years;85,7;403
+Jackson Heights;2018;Years;85,9;403
+Jackson Heights;2019;Years;86,1;403
+Jackson Heights;2020;Years;85,4;403
+Jamaica/St. Albans;2014;Years;79,7;412
+Jamaica/St. Albans;2015;Years;80,5;412
+Jamaica/St. Albans;2016;Years;80,8;412
+Jamaica/St. Albans;2017;Years;81,1;412
+Jamaica/St. Albans;2018;Years;81,3;412
+Jamaica/St. Albans;2019;Years;81,4;412
+Jamaica/St. Albans;2020;Years;81;412
+Lower East Side;2014;Years;81,4;103
+Lower East Side;2015;Years;82,2;103
+Lower East Side;2016;Years;82,7;103
+Lower East Side;2017;Years;83,2;103
+Lower East Side;2018;Years;83,8;103
+Lower East Side;2019;Years;84,1;103
+Lower East Side;2020;Years;84,3;103
+Manhattanville;2014;Years;80,7;109
+Manhattanville;2015;Years;81,4;109
+Manhattanville;2016;Years;81,7;109
+Manhattanville;2017;Years;82,1;109
+Manhattanville;2018;Years;82,4;109
+Manhattanville;2019;Years;82,6;109
+Manhattanville;2020;Years;82,4;109
+Midtown Business District;2014;Years;83,9;105
+Midtown Business District;2015;Years;84,8;105
+Midtown Business District;2016;Years;85,2;105
+Midtown Business District;2017;Years;85,6;105
+Midtown Business District;2018;Years;86,2;105
+Midtown Business District;2019;Years;86,7;105
+Midtown Business District;2020;Years;89,1;105
+Morrisania;2014;Years;75,6;203
+Morrisania;2015;Years;76,2;203
+Morrisania;2016;Years;76,6;203
+Morrisania;2017;Years;76,8;203
+Morrisania;2018;Years;77,2;203
+Morrisania;2019;Years;77,5;203
+Morrisania;2020;Years;77,7;203
+Mott Haven;2014;Years;76,7;201
+Mott Haven;2015;Years;77,6;201
+Mott Haven;2016;Years;77,8;201
+Mott Haven;2017;Years;78;201
+Mott Haven;2018;Years;78,3;201
+Mott Haven;2019;Years;78,4;201
+Mott Haven;2020;Years;78,1;201
+Murray Hill/Stuyvesant;2014;Years;85,6;106
+Murray Hill/Stuyvesant;2015;Years;85,9;106
+Murray Hill/Stuyvesant;2016;Years;86,2;106
+Murray Hill/Stuyvesant;2017;Years;86,3;106
+Murray Hill/Stuyvesant;2018;Years;86,6;106
+Murray Hill/Stuyvesant;2019;Years;87;106
+Murray Hill/Stuyvesant;2020;Years;87,4;106
+Park Slope;2014;Years;80,6;306
+Park Slope;2015;Years;81,4;306
+Park Slope;2016;Years;81,8;306
+Park Slope;2017;Years;82;306
+Park Slope;2018;Years;82,5;306
+Park Slope;2019;Years;82,9;306
+Park Slope;2020;Years;83,1;306
+Pelham Parkway;2014;Years;79,5;211
+Pelham Parkway;2015;Years;79,9;211
+Pelham Parkway;2016;Years;80;211
+Pelham Parkway;2017;Years;80,3;211
+Pelham Parkway;2018;Years;80,4;211
+Pelham Parkway;2019;Years;80,6;211
+Pelham Parkway;2020;Years;80,5;211
+Queens Village;2014;Years;82,5;413
+Queens Village;2015;Years;82,9;413
+Queens Village;2016;Years;83;413
+Queens Village;2017;Years;83,1;413
+Queens Village;2018;Years;83,2;413
+Queens Village;2019;Years;83,2;413
+Queens Village;2020;Years;83;413
+Rego Park/Forest Hills;2014;Years;84,2;406
+Rego Park/Forest Hills;2015;Years;84,4;406
+Rego Park/Forest Hills;2016;Years;84,6;406
+Rego Park/Forest Hills;2017;Years;84,9;406
+Rego Park/Forest Hills;2018;Years;85,2;406
+Rego Park/Forest Hills;2019;Years;85,2;406
+Rego Park/Forest Hills;2020;Years;85,3;406
+Ridgewood/Glendale;2014;Years;81,1;405
+Ridgewood/Glendale;2015;Years;81,4;405
+Ridgewood/Glendale;2016;Years;81,6;405
+Ridgewood/Glendale;2017;Years;81,7;405
+Ridgewood/Glendale;2018;Years;81,9;405
+Ridgewood/Glendale;2019;Years;81,9;405
+Ridgewood/Glendale;2020;Years;81,9;405
+Riverdale;2014;Years;80,7;208
+Riverdale;2015;Years;80,9;208
+Riverdale;2016;Years;81;208
+Riverdale;2017;Years;81,3;208
+Riverdale;2018;Years;81,6;208
+Riverdale;2019;Years;81,8;208
+Riverdale;2020;Years;81,7;208
+Sheepshead Bay;2014;Years;83,4;315
+Sheepshead Bay;2015;Years;83,7;315
+Sheepshead Bay;2016;Years;83,7;315
+Sheepshead Bay;2017;Years;83,9;315
+Sheepshead Bay;2018;Years;83,9;315
+Sheepshead Bay;2019;Years;84;315
+Sheepshead Bay;2020;Years;84,1;315
+South Beach;2014;Years;80,7;502
+South Beach;2015;Years;81,2;502
+South Beach;2016;Years;81,5;502
+South Beach;2017;Years;81,6;502
+South Beach;2018;Years;81,9;502
+South Beach;2019;Years;82;502
+South Beach;2020;Years;82,2;502
+St. George;2014;Years;78,5;501
+St. George;2015;Years;79;501
+St. George;2016;Years;79,2;501
+St. George;2017;Years;79,4;501
+St. George;2018;Years;79,7;501
+St. George;2019;Years;80;501
+St. George;2020;Years;80;501
+Sunnyside/Woodside;2014;Years;84,5;402
+Sunnyside/Woodside;2015;Years;85,4;402
+Sunnyside/Woodside;2016;Years;85,7;402
+Sunnyside/Woodside;2017;Years;86,3;402
+Sunnyside/Woodside;2018;Years;86,9;402
+Sunnyside/Woodside;2019;Years;87,4;402
+Sunnyside/Woodside;2020;Years;89,7;402
+Sunset Park;2014;Years;81,9;307
+Sunset Park;2015;Years;82,6;307
+Sunset Park;2016;Years;83;307
+Sunset Park;2017;Years;83,3;307
+Sunset Park;2018;Years;83,7;307
+Sunset Park;2019;Years;84,1;307
+Sunset Park;2020;Years;84,1;307
+The Rockaways;2014;Years;76,1;414
+The Rockaways;2015;Years;76,5;414
+The Rockaways;2016;Years;76,7;414
+The Rockaways;2017;Years;76,9;414
+The Rockaways;2018;Years;76,9;414
+The Rockaways;2019;Years;77;414
+The Rockaways;2020;Years;76,6;414
+Throgs Neck;2014;Years;80,7;210
+Throgs Neck;2015;Years;81,1;210
+Throgs Neck;2016;Years;81,2;210
+Throgs Neck;2017;Years;81,4;210
+Throgs Neck;2018;Years;81,6;210
+Throgs Neck;2019;Years;81,8;210
+Throgs Neck;2020;Years;81,7;210
+Tottenville;2014;Years;81,2;503
+Tottenville;2015;Years;81,3;503
+Tottenville;2016;Years;81,4;503
+Tottenville;2017;Years;81,3;503
+Tottenville;2018;Years;81,4;503
+Tottenville;2019;Years;81,4;503
+Tottenville;2020;Years;81,5;503
+Unionport/Soundview;2014;Years;79,1;209
+Unionport/Soundview;2015;Years;79,7;209
+Unionport/Soundview;2016;Years;80,1;209
+Unionport/Soundview;2017;Years;80,4;209
+Unionport/Soundview;2018;Years;80,7;209
+Unionport/Soundview;2019;Years;81;209
+Unionport/Soundview;2020;Years;80,8;209
+University Heights;2014;Years;79,3;205
+University Heights;2015;Years;79,9;205
+University Heights;2016;Years;80,2;205
+University Heights;2017;Years;80,3;205
+University Heights;2018;Years;80,5;205
+University Heights;2019;Years;80,6;205
+University Heights;2020;Years;80,1;205
+Upper East Side;2014;Years;85,4;108
+Upper East Side;2015;Years;85,9;108
+Upper East Side;2016;Years;86,1;108
+Upper East Side;2017;Years;86,4;108
+Upper East Side;2018;Years;86,6;108
+Upper East Side;2019;Years;86,9;108
+Upper East Side;2020;Years;87,3;108
+Upper West Side;2014;Years;84,2;107
+Upper West Side;2015;Years;84,7;107
+Upper West Side;2016;Years;85;107
+Upper West Side;2017;Years;85,2;107
+Upper West Side;2018;Years;85,5;107
+Upper West Side;2019;Years;85,7;107
+Upper West Side;2020;Years;85,8;107
+Washington Heights;2014;Years;83,5;112
+Washington Heights;2015;Years;84;112
+Washington Heights;2016;Years;84,2;112
+Washington Heights;2017;Years;84,4;112
+Washington Heights;2018;Years;84,7;112
+Washington Heights;2019;Years;85;112
+Washington Heights;2020;Years;84,6;112
+Williamsbridge;2014;Years;80,5;212
+Williamsbridge;2015;Years;81;212
+Williamsbridge;2016;Years;81,3;212
+Williamsbridge;2017;Years;81,4;212
+Williamsbridge;2018;Years;81,6;212
+Williamsbridge;2019;Years;81,7;212
+Williamsbridge;2020;Years;81,4;212
+Williamsburg/Greenpoint;2014;Years;80,3;301
+Williamsburg/Greenpoint;2015;Years;81,1;301
+Williamsburg/Greenpoint;2016;Years;81,6;301
+Williamsburg/Greenpoint;2017;Years;82,2;301
+Williamsburg/Greenpoint;2018;Years;82,7;301
+Williamsburg/Greenpoint;2019;Years;83,1;301
+Williamsburg/Greenpoint;2020;Years;84,1;301
+Woodhaven;2014;Years;82,4;409
+Woodhaven;2015;Years;82,9;409
+Woodhaven;2016;Years;83,1;409
+Woodhaven;2017;Years;83,4;409
+Woodhaven;2018;Years;83,4;409
+Woodhaven;2019;Years;83,5;409
+Woodhaven;2020;Years;83,2;409
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;

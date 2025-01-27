@@ -1,0 +1,3439 @@
+Location;Means of Transportation;TimeFrame;DataFormat;Data;Fips
+Astoria;Work at Home;2012;Percent;0,03064;401
+Astoria;Walking;2012;Percent;0,06768;401
+Astoria;Public Transit;2012;Percent;0,69676;401
+Astoria;Driving Alone;2012;Percent;0,15037;401
+Astoria;Carpool, Taxi, Other;2012;Percent;0,04389;401
+Astoria;Bicycle;2012;Percent;0,01065;401
+Battery Park/Tribeca;Bicycle;2012;Percent;0,01297;101
+Battery Park/Tribeca;Carpool, Taxi, Other;2012;Percent;0,05742;101
+Battery Park/Tribeca;Driving Alone;2012;Percent;0,04659;101
+Battery Park/Tribeca;Public Transit;2012;Percent;0,55983;101
+Battery Park/Tribeca;Walking;2012;Percent;0,24684;101
+Battery Park/Tribeca;Work at Home;2012;Percent;0,07636;101
+Bay Ridge;Work at Home;2012;Percent;0,0321;310
+Bay Ridge;Walking;2012;Percent;0,08849;310
+Bay Ridge;Public Transit;2012;Percent;0,53725;310
+Bay Ridge;Driving Alone;2012;Percent;0,26756;310
+Bay Ridge;Carpool, Taxi, Other;2012;Percent;0,06692;310
+Bay Ridge;Bicycle;2012;Percent;0,00769;310
+Bayside;Work at Home;2012;Percent;0,04393;411
+Bayside;Walking;2012;Percent;0,03328;411
+Bayside;Public Transit;2012;Percent;0,26122;411
+Bayside;Driving Alone;2012;Percent;0,54344;411
+Bayside;Carpool, Taxi, Other;2012;Percent;0,11766;411
+Bayside;Bicycle;2012;Percent;0,00047;411
+Bedford Park;Work at Home;2012;Percent;0,03743;207
+Bedford Park;Walking;2012;Percent;0,07194;207
+Bedford Park;Public Transit;2012;Percent;0,68364;207
+Bedford Park;Driving Alone;2012;Percent;0,13328;207
+Bedford Park;Carpool, Taxi, Other;2012;Percent;0,07076;207
+Bedford Park;Bicycle;2012;Percent;0,00295;207
+Bedford Stuyvesant;Bicycle;2012;Percent;0,03727;303
+Bedford Stuyvesant;Carpool, Taxi, Other;2012;Percent;0,03745;303
+Bedford Stuyvesant;Driving Alone;2012;Percent;0,14991;303
+Bedford Stuyvesant;Public Transit;2012;Percent;0,64884;303
+Bedford Stuyvesant;Walking;2012;Percent;0,08652;303
+Bedford Stuyvesant;Work at Home;2012;Percent;0,04001;303
+Bensonhurst;Bicycle;2012;Percent;0,00328;311
+Bensonhurst;Carpool, Taxi, Other;2012;Percent;0,05589;311
+Bensonhurst;Driving Alone;2012;Percent;0,21993;311
+Bensonhurst;Public Transit;2012;Percent;0,63064;311
+Bensonhurst;Walking;2012;Percent;0,06667;311
+Bensonhurst;Work at Home;2012;Percent;0,02359;311
+Borough Park;Work at Home;2012;Percent;0,04039;312
+Borough Park;Walking;2012;Percent;0,18571;312
+Borough Park;Public Transit;2012;Percent;0,4398;312
+Borough Park;Driving Alone;2012;Percent;0,2383;312
+Borough Park;Carpool, Taxi, Other;2012;Percent;0,07859;312
+Borough Park;Bicycle;2012;Percent;0,01721;312
+Brownsville;Work at Home;2012;Percent;0,03538;316
+Brownsville;Walking;2012;Percent;0,06482;316
+Brownsville;Public Transit;2012;Percent;0,66689;316
+Brownsville;Driving Alone;2012;Percent;0,17649;316
+Brownsville;Carpool, Taxi, Other;2012;Percent;0,04879;316
+Brownsville;Bicycle;2012;Percent;0,00763;316
+Bushwick;Work at Home;2012;Percent;0,02554;304
+Bushwick;Walking;2012;Percent;0,0999;304
+Bushwick;Public Transit;2012;Percent;0,70172;304
+Bushwick;Driving Alone;2012;Percent;0,11348;304
+Bushwick;Carpool, Taxi, Other;2012;Percent;0,02835;304
+Bushwick;Bicycle;2012;Percent;0,03101;304
+Canarsie;Work at Home;2012;Percent;0,01665;318
+Canarsie;Walking;2012;Percent;0,03174;318
+Canarsie;Public Transit;2012;Percent;0,48179;318
+Canarsie;Driving Alone;2012;Percent;0,38738;318
+Canarsie;Carpool, Taxi, Other;2012;Percent;0,08005;318
+Canarsie;Bicycle;2012;Percent;0,0024;318
+Central Harlem;Work at Home;2012;Percent;0,08965;110
+Central Harlem;Walking;2012;Percent;0,05872;110
+Central Harlem;Public Transit;2012;Percent;0,73743;110
+Central Harlem;Driving Alone;2012;Percent;0,07156;110
+Central Harlem;Carpool, Taxi, Other;2012;Percent;0,03434;110
+Central Harlem;Bicycle;2012;Percent;0,00829;110
+Chelsea/Clinton;Work at Home;2012;Percent;0,07419;104
+Chelsea/Clinton;Walking;2012;Percent;0,3436;104
+Chelsea/Clinton;Public Transit;2012;Percent;0,45812;104
+Chelsea/Clinton;Driving Alone;2012;Percent;0,04852;104
+Chelsea/Clinton;Carpool, Taxi, Other;2012;Percent;0,06207;104
+Chelsea/Clinton;Bicycle;2012;Percent;0,0135;104
+Concourse/Highbridge;Bicycle;2012;Percent;0,00352;204
+Concourse/Highbridge;Carpool, Taxi, Other;2012;Percent;0,07088;204
+Concourse/Highbridge;Driving Alone;2012;Percent;0,18284;204
+Concourse/Highbridge;Public Transit;2012;Percent;0,64187;204
+Concourse/Highbridge;Walking;2012;Percent;0,05831;204
+Concourse/Highbridge;Work at Home;2012;Percent;0,04258;204
+Coney Island;Bicycle;2012;Percent;0,00635;313
+Coney Island;Carpool, Taxi, Other;2012;Percent;0,08416;313
+Coney Island;Driving Alone;2012;Percent;0,25206;313
+Coney Island;Public Transit;2012;Percent;0,53058;313
+Coney Island;Walking;2012;Percent;0,10601;313
+Coney Island;Work at Home;2012;Percent;0,02085;313
+Crown Heights North;Work at Home;2012;Percent;0,04467;308
+Crown Heights North;Walking;2012;Percent;0,05671;308
+Crown Heights North;Public Transit;2012;Percent;0,69827;308
+Crown Heights North;Driving Alone;2012;Percent;0,14452;308
+Crown Heights North;Carpool, Taxi, Other;2012;Percent;0,02993;308
+Crown Heights North;Bicycle;2012;Percent;0,0259;308
+Crown Heights South;Bicycle;2012;Percent;0,00311;309
+Crown Heights South;Carpool, Taxi, Other;2012;Percent;0,04122;309
+Crown Heights South;Driving Alone;2012;Percent;0,11355;309
+Crown Heights South;Public Transit;2012;Percent;0,70115;309
+Crown Heights South;Walking;2012;Percent;0,09635;309
+Crown Heights South;Work at Home;2012;Percent;0,04462;309
+East Flatbush;Bicycle;2012;Percent;0,0017;317
+East Flatbush;Carpool, Taxi, Other;2012;Percent;0,04443;317
+East Flatbush;Driving Alone;2012;Percent;0,24836;317
+East Flatbush;Public Transit;2012;Percent;0,64949;317
+East Flatbush;Walking;2012;Percent;0,0415;317
+East Flatbush;Work at Home;2012;Percent;0,01453;317
+East Harlem;Bicycle;2012;Percent;0,01899;111
+East Harlem;Carpool, Taxi, Other;2012;Percent;0,04002;111
+East Harlem;Driving Alone;2012;Percent;0,05972;111
+East Harlem;Public Transit;2012;Percent;0,71943;111
+East Harlem;Walking;2012;Percent;0,12517;111
+East Harlem;Work at Home;2012;Percent;0,03666;111
+East New York;Bicycle;2012;Percent;0,00097;305
+East New York;Carpool, Taxi, Other;2012;Percent;0,05568;305
+East New York;Driving Alone;2012;Percent;0,21383;305
+East New York;Public Transit;2012;Percent;0,67113;305
+East New York;Walking;2012;Percent;0,03568;305
+East New York;Work at Home;2012;Percent;0,02271;305
+East Tremont;Bicycle;2012;Percent;0,01019;206
+East Tremont;Carpool, Taxi, Other;2012;Percent;0,04356;206
+East Tremont;Driving Alone;2012;Percent;0,16208;206
+East Tremont;Public Transit;2012;Percent;0,65197;206
+East Tremont;Walking;2012;Percent;0,1039;206
+East Tremont;Work at Home;2012;Percent;0,02831;206
+Elmhurst/Corona;Bicycle;2012;Percent;0,01937;404
+Elmhurst/Corona;Carpool, Taxi, Other;2012;Percent;0,04852;404
+Elmhurst/Corona;Driving Alone;2012;Percent;0,14213;404
+Elmhurst/Corona;Public Transit;2012;Percent;0,70553;404
+Elmhurst/Corona;Walking;2012;Percent;0,07157;404
+Elmhurst/Corona;Work at Home;2012;Percent;0,01287;404
+Flatbush/Midwood;Work at Home;2012;Percent;0,03314;314
+Flatbush/Midwood;Walking;2012;Percent;0,0707;314
+Flatbush/Midwood;Public Transit;2012;Percent;0,59311;314
+Flatbush/Midwood;Driving Alone;2012;Percent;0,24317;314
+Flatbush/Midwood;Carpool, Taxi, Other;2012;Percent;0,05555;314
+Flatbush/Midwood;Bicycle;2012;Percent;0,00433;314
+Flushing;Work at Home;2012;Percent;0,02618;407
+Flushing;Walking;2012;Percent;0,09754;407
+Flushing;Public Transit;2012;Percent;0,37539;407
+Flushing;Driving Alone;2012;Percent;0,34086;407
+Flushing;Carpool, Taxi, Other;2012;Percent;0,15639;407
+Flushing;Bicycle;2012;Percent;0,00363;407
+Fort Greene/Brooklyn Hts;Work at Home;2012;Percent;0,07155;302
+Fort Greene/Brooklyn Hts;Walking;2012;Percent;0,10582;302
+Fort Greene/Brooklyn Hts;Public Transit;2012;Percent;0,67921;302
+Fort Greene/Brooklyn Hts;Driving Alone;2012;Percent;0,08387;302
+Fort Greene/Brooklyn Hts;Carpool, Taxi, Other;2012;Percent;0,02648;302
+Fort Greene/Brooklyn Hts;Bicycle;2012;Percent;0,03308;302
+Fresh Meadows/Briarwood;Bicycle;2012;Percent;0,00031;408
+Fresh Meadows/Briarwood;Carpool, Taxi, Other;2012;Percent;0,06613;408
+Fresh Meadows/Briarwood;Driving Alone;2012;Percent;0,40985;408
+Fresh Meadows/Briarwood;Public Transit;2012;Percent;0,47231;408
+Fresh Meadows/Briarwood;Walking;2012;Percent;0,03776;408
+Fresh Meadows/Briarwood;Work at Home;2012;Percent;0,01364;408
+Greenwich Village;Work at Home;2012;Percent;0,07636;102
+Greenwich Village;Walking;2012;Percent;0,24684;102
+Greenwich Village;Public Transit;2012;Percent;0,55983;102
+Greenwich Village;Driving Alone;2012;Percent;0,04659;102
+Greenwich Village;Carpool, Taxi, Other;2012;Percent;0,05742;102
+Greenwich Village;Bicycle;2012;Percent;0,01297;102
+Howard Beach;Bicycle;2012;Percent;0,00223;410
+Howard Beach;Carpool, Taxi, Other;2012;Percent;0,07501;410
+Howard Beach;Driving Alone;2012;Percent;0,42753;410
+Howard Beach;Public Transit;2012;Percent;0,44358;410
+Howard Beach;Walking;2012;Percent;0,02995;410
+Howard Beach;Work at Home;2012;Percent;0,0217;410
+Hunts Point;Bicycle;2012;Percent;0,00336;202
+Hunts Point;Carpool, Taxi, Other;2012;Percent;0,05076;202
+Hunts Point;Driving Alone;2012;Percent;0,11313;202
+Hunts Point;Public Transit;2012;Percent;0,674;202
+Hunts Point;Walking;2012;Percent;0,13084;202
+Hunts Point;Work at Home;2012;Percent;0,02791;202
+Jackson Heights;Work at Home;2012;Percent;0,01283;403
+Jackson Heights;Walking;2012;Percent;0,0747;403
+Jackson Heights;Public Transit;2012;Percent;0,66055;403
+Jackson Heights;Driving Alone;2012;Percent;0,17089;403
+Jackson Heights;Carpool, Taxi, Other;2012;Percent;0,06952;403
+Jackson Heights;Bicycle;2012;Percent;0,01151;403
+Jamaica/St. Albans;Bicycle;2012;Percent;0,00219;412
+Jamaica/St. Albans;Carpool, Taxi, Other;2012;Percent;0,06133;412
+Jamaica/St. Albans;Driving Alone;2012;Percent;0,35177;412
+Jamaica/St. Albans;Public Transit;2012;Percent;0,5201;412
+Jamaica/St. Albans;Walking;2012;Percent;0,03519;412
+Jamaica/St. Albans;Work at Home;2012;Percent;0,02943;412
+Lower East Side;Bicycle;2012;Percent;0,04046;103
+Lower East Side;Carpool, Taxi, Other;2012;Percent;0,03689;103
+Lower East Side;Driving Alone;2012;Percent;0,04158;103
+Lower East Side;Public Transit;2012;Percent;0,60433;103
+Lower East Side;Walking;2012;Percent;0,22859;103
+Lower East Side;Work at Home;2012;Percent;0,04816;103
+Manhattanville;Bicycle;2012;Percent;0,02115;109
+Manhattanville;Carpool, Taxi, Other;2012;Percent;0,02457;109
+Manhattanville;Driving Alone;2012;Percent;0,09718;109
+Manhattanville;Public Transit;2012;Percent;0,64753;109
+Manhattanville;Walking;2012;Percent;0,13554;109
+Manhattanville;Work at Home;2012;Percent;0,07403;109
+Midtown Business District;Bicycle;2012;Percent;0,0135;105
+Midtown Business District;Carpool, Taxi, Other;2012;Percent;0,06207;105
+Midtown Business District;Driving Alone;2012;Percent;0,04852;105
+Midtown Business District;Public Transit;2012;Percent;0,45812;105
+Midtown Business District;Walking;2012;Percent;0,3436;105
+Midtown Business District;Work at Home;2012;Percent;0,07419;105
+Morrisania;Work at Home;2012;Percent;0,02831;203
+Morrisania;Walking;2012;Percent;0,1039;203
+Morrisania;Public Transit;2012;Percent;0,65197;203
+Morrisania;Driving Alone;2012;Percent;0,16208;203
+Morrisania;Carpool, Taxi, Other;2012;Percent;0,04356;203
+Morrisania;Bicycle;2012;Percent;0,01019;203
+Mott Haven;Work at Home;2012;Percent;0,02791;201
+Mott Haven;Walking;2012;Percent;0,13084;201
+Mott Haven;Public Transit;2012;Percent;0,674;201
+Mott Haven;Driving Alone;2012;Percent;0,11313;201
+Mott Haven;Carpool, Taxi, Other;2012;Percent;0,05076;201
+Mott Haven;Bicycle;2012;Percent;0,00336;201
+Murray Hill/Stuyvesant;Work at Home;2012;Percent;0,11221;106
+Murray Hill/Stuyvesant;Walking;2012;Percent;0,31969;106
+Murray Hill/Stuyvesant;Public Transit;2012;Percent;0,42021;106
+Murray Hill/Stuyvesant;Driving Alone;2012;Percent;0,07122;106
+Murray Hill/Stuyvesant;Carpool, Taxi, Other;2012;Percent;0,06658;106
+Murray Hill/Stuyvesant;Bicycle;2012;Percent;0,01009;106
+Park Slope;Work at Home;2012;Percent;0,09268;306
+Park Slope;Walking;2012;Percent;0,09557;306
+Park Slope;Public Transit;2012;Percent;0,66046;306
+Park Slope;Driving Alone;2012;Percent;0,0808;306
+Park Slope;Carpool, Taxi, Other;2012;Percent;0,03705;306
+Park Slope;Bicycle;2012;Percent;0,03345;306
+Pelham Parkway;Work at Home;2012;Percent;0,0213;211
+Pelham Parkway;Walking;2012;Percent;0,07935;211
+Pelham Parkway;Public Transit;2012;Percent;0,50783;211
+Pelham Parkway;Driving Alone;2012;Percent;0,29644;211
+Pelham Parkway;Carpool, Taxi, Other;2012;Percent;0,09508;211
+Pelham Parkway;Bicycle;2012;Percent;0;211
+Queens Village;Work at Home;2012;Percent;0,02985;413
+Queens Village;Walking;2012;Percent;0,01528;413
+Queens Village;Public Transit;2012;Percent;0,35067;413
+Queens Village;Driving Alone;2012;Percent;0,53477;413
+Queens Village;Carpool, Taxi, Other;2012;Percent;0,06869;413
+Queens Village;Bicycle;2012;Percent;0,00074;413
+Rego Park/Forest Hills;Bicycle;2012;Percent;0,0067;406
+Rego Park/Forest Hills;Carpool, Taxi, Other;2012;Percent;0,05017;406
+Rego Park/Forest Hills;Driving Alone;2012;Percent;0,21299;406
+Rego Park/Forest Hills;Public Transit;2012;Percent;0,61512;406
+Rego Park/Forest Hills;Walking;2012;Percent;0,07336;406
+Rego Park/Forest Hills;Work at Home;2012;Percent;0,04167;406
+Ridgewood/Glendale;Work at Home;2012;Percent;0,01848;405
+Ridgewood/Glendale;Walking;2012;Percent;0,06275;405
+Ridgewood/Glendale;Public Transit;2012;Percent;0,54719;405
+Ridgewood/Glendale;Driving Alone;2012;Percent;0,31043;405
+Ridgewood/Glendale;Carpool, Taxi, Other;2012;Percent;0,05592;405
+Ridgewood/Glendale;Bicycle;2012;Percent;0,00523;405
+Riverdale;Bicycle;2012;Percent;0,00324;208
+Riverdale;Carpool, Taxi, Other;2012;Percent;0,06791;208
+Riverdale;Driving Alone;2012;Percent;0,25284;208
+Riverdale;Public Transit;2012;Percent;0,54058;208
+Riverdale;Walking;2012;Percent;0,08835;208
+Riverdale;Work at Home;2012;Percent;0,04709;208
+Sheepshead Bay;Bicycle;2012;Percent;0,00373;315
+Sheepshead Bay;Carpool, Taxi, Other;2012;Percent;0,08433;315
+Sheepshead Bay;Driving Alone;2012;Percent;0,30676;315
+Sheepshead Bay;Public Transit;2012;Percent;0,4923;315
+Sheepshead Bay;Walking;2012;Percent;0,06912;315
+Sheepshead Bay;Work at Home;2012;Percent;0,04377;315
+South Beach;Work at Home;2012;Percent;0,01792;502
+South Beach;Walking;2012;Percent;0,02935;502
+South Beach;Public Transit;2012;Percent;0,27842;502
+South Beach;Driving Alone;2012;Percent;0,58811;502
+South Beach;Carpool, Taxi, Other;2012;Percent;0,08621;502
+South Beach;Bicycle;2012;Percent;0;502
+St. George;Bicycle;2012;Percent;0,00205;501
+St. George;Carpool, Taxi, Other;2012;Percent;0,08095;501
+St. George;Driving Alone;2012;Percent;0,48135;501
+St. George;Public Transit;2012;Percent;0,37977;501
+St. George;Walking;2012;Percent;0,04082;501
+St. George;Work at Home;2012;Percent;0,01506;501
+Sunnyside/Woodside;Bicycle;2012;Percent;0,01002;402
+Sunnyside/Woodside;Carpool, Taxi, Other;2012;Percent;0,04553;402
+Sunnyside/Woodside;Driving Alone;2012;Percent;0,15426;402
+Sunnyside/Woodside;Public Transit;2012;Percent;0,69565;402
+Sunnyside/Woodside;Walking;2012;Percent;0,0829;402
+Sunnyside/Woodside;Work at Home;2012;Percent;0,01164;402
+Sunset Park;Bicycle;2012;Percent;0,02559;307
+Sunset Park;Carpool, Taxi, Other;2012;Percent;0,06091;307
+Sunset Park;Driving Alone;2012;Percent;0,10965;307
+Sunset Park;Public Transit;2012;Percent;0,61854;307
+Sunset Park;Walking;2012;Percent;0,16086;307
+Sunset Park;Work at Home;2012;Percent;0,02444;307
+The Rockaways;Bicycle;2012;Percent;0,01169;414
+The Rockaways;Carpool, Taxi, Other;2012;Percent;0,07647;414
+The Rockaways;Driving Alone;2012;Percent;0,45381;414
+The Rockaways;Public Transit;2012;Percent;0,34766;414
+The Rockaways;Walking;2012;Percent;0,1025;414
+The Rockaways;Work at Home;2012;Percent;0,00787;414
+Throgs Neck;Bicycle;2012;Percent;0,00122;210
+Throgs Neck;Carpool, Taxi, Other;2012;Percent;0,07048;210
+Throgs Neck;Driving Alone;2012;Percent;0,39563;210
+Throgs Neck;Public Transit;2012;Percent;0,44249;210
+Throgs Neck;Walking;2012;Percent;0,07068;210
+Throgs Neck;Work at Home;2012;Percent;0,0195;210
+Tottenville;Bicycle;2012;Percent;0,00093;503
+Tottenville;Carpool, Taxi, Other;2012;Percent;0,10187;503
+Tottenville;Driving Alone;2012;Percent;0,64308;503
+Tottenville;Public Transit;2012;Percent;0,21444;503
+Tottenville;Walking;2012;Percent;0,01361;503
+Tottenville;Work at Home;2012;Percent;0,02607;503
+Unionport/Soundview;Work at Home;2012;Percent;0,02092;209
+Unionport/Soundview;Walking;2012;Percent;0,05106;209
+Unionport/Soundview;Public Transit;2012;Percent;0,66074;209
+Unionport/Soundview;Driving Alone;2012;Percent;0,20487;209
+Unionport/Soundview;Carpool, Taxi, Other;2012;Percent;0,05856;209
+Unionport/Soundview;Bicycle;2012;Percent;0,00384;209
+University Heights;Work at Home;2012;Percent;0,0368;205
+University Heights;Walking;2012;Percent;0,09297;205
+University Heights;Public Transit;2012;Percent;0,67454;205
+University Heights;Driving Alone;2012;Percent;0,13425;205
+University Heights;Carpool, Taxi, Other;2012;Percent;0,05907;205
+University Heights;Bicycle;2012;Percent;0,00237;205
+Upper East Side;Work at Home;2012;Percent;0,0893;108
+Upper East Side;Walking;2012;Percent;0,20486;108
+Upper East Side;Public Transit;2012;Percent;0,53707;108
+Upper East Side;Driving Alone;2012;Percent;0,07266;108
+Upper East Side;Carpool, Taxi, Other;2012;Percent;0,09403;108
+Upper East Side;Bicycle;2012;Percent;0,00208;108
+Upper West Side;Bicycle;2012;Percent;0,00966;107
+Upper West Side;Carpool, Taxi, Other;2012;Percent;0,04794;107
+Upper West Side;Driving Alone;2012;Percent;0,05951;107
+Upper West Side;Public Transit;2012;Percent;0,67617;107
+Upper West Side;Walking;2012;Percent;0,12393;107
+Upper West Side;Work at Home;2012;Percent;0,08278;107
+Washington Heights;Work at Home;2012;Percent;0,04251;112
+Washington Heights;Walking;2012;Percent;0,12372;112
+Washington Heights;Public Transit;2012;Percent;0,6503;112
+Washington Heights;Driving Alone;2012;Percent;0,10525;112
+Washington Heights;Carpool, Taxi, Other;2012;Percent;0,07161;112
+Washington Heights;Bicycle;2012;Percent;0,00661;112
+Williamsbridge;Bicycle;2012;Percent;0,00168;212
+Williamsbridge;Carpool, Taxi, Other;2012;Percent;0,057;212
+Williamsbridge;Driving Alone;2012;Percent;0,34935;212
+Williamsbridge;Public Transit;2012;Percent;0,51985;212
+Williamsbridge;Walking;2012;Percent;0,0394;212
+Williamsbridge;Work at Home;2012;Percent;0,03272;212
+Williamsburg/Greenpoint;Bicycle;2012;Percent;0,02534;301
+Williamsburg/Greenpoint;Carpool, Taxi, Other;2012;Percent;0,04125;301
+Williamsburg/Greenpoint;Driving Alone;2012;Percent;0,10233;301
+Williamsburg/Greenpoint;Public Transit;2012;Percent;0,60896;301
+Williamsburg/Greenpoint;Walking;2012;Percent;0,14832;301
+Williamsburg/Greenpoint;Work at Home;2012;Percent;0,0738;301
+Woodhaven;Work at Home;2012;Percent;0,02855;409
+Woodhaven;Walking;2012;Percent;0,05191;409
+Woodhaven;Public Transit;2012;Percent;0,52181;409
+Woodhaven;Driving Alone;2012;Percent;0,32349;409
+Woodhaven;Carpool, Taxi, Other;2012;Percent;0,0693;409
+Woodhaven;Bicycle;2012;Percent;0,00494;409
+Astoria;Work at Home;2013;Percent;0,04872;401
+Astoria;Walking;2013;Percent;0,06869;401
+Astoria;Public Transit;2013;Percent;0,67171;401
+Astoria;Driving Alone;2013;Percent;0,15333;401
+Astoria;Carpool, Taxi, Other;2013;Percent;0,04336;401
+Astoria;Bicycle;2013;Percent;0,01418;401
+Battery Park/Tribeca;Bicycle;2013;Percent;0,02337;101
+Battery Park/Tribeca;Carpool, Taxi, Other;2013;Percent;0,05827;101
+Battery Park/Tribeca;Driving Alone;2013;Percent;0,03495;101
+Battery Park/Tribeca;Public Transit;2013;Percent;0,57231;101
+Battery Park/Tribeca;Walking;2013;Percent;0,2394;101
+Battery Park/Tribeca;Work at Home;2013;Percent;0,07171;101
+Bay Ridge;Work at Home;2013;Percent;0,02543;310
+Bay Ridge;Walking;2013;Percent;0,09624;310
+Bay Ridge;Public Transit;2013;Percent;0,56678;310
+Bay Ridge;Driving Alone;2013;Percent;0,24205;310
+Bay Ridge;Carpool, Taxi, Other;2013;Percent;0,06627;310
+Bay Ridge;Bicycle;2013;Percent;0,00322;310
+Bayside;Work at Home;2013;Percent;0,0473;411
+Bayside;Walking;2013;Percent;0,01706;411
+Bayside;Public Transit;2013;Percent;0,3003;411
+Bayside;Driving Alone;2013;Percent;0,53266;411
+Bayside;Carpool, Taxi, Other;2013;Percent;0,10114;411
+Bayside;Bicycle;2013;Percent;0,00154;411
+Bedford Park;Work at Home;2013;Percent;0,03625;207
+Bedford Park;Walking;2013;Percent;0,09383;207
+Bedford Park;Public Transit;2013;Percent;0,65973;207
+Bedford Park;Driving Alone;2013;Percent;0,12738;207
+Bedford Park;Carpool, Taxi, Other;2013;Percent;0,08282;207
+Bedford Park;Bicycle;2013;Percent;0;207
+Bedford Stuyvesant;Bicycle;2013;Percent;0,02821;303
+Bedford Stuyvesant;Carpool, Taxi, Other;2013;Percent;0,03775;303
+Bedford Stuyvesant;Driving Alone;2013;Percent;0,14435;303
+Bedford Stuyvesant;Public Transit;2013;Percent;0,64775;303
+Bedford Stuyvesant;Walking;2013;Percent;0,10194;303
+Bedford Stuyvesant;Work at Home;2013;Percent;0,04001;303
+Bensonhurst;Bicycle;2013;Percent;0,00885;311
+Bensonhurst;Carpool, Taxi, Other;2013;Percent;0,09348;311
+Bensonhurst;Driving Alone;2013;Percent;0,194;311
+Bensonhurst;Public Transit;2013;Percent;0,61871;311
+Bensonhurst;Walking;2013;Percent;0,07237;311
+Bensonhurst;Work at Home;2013;Percent;0,01258;311
+Borough Park;Work at Home;2013;Percent;0,0583;312
+Borough Park;Walking;2013;Percent;0,18938;312
+Borough Park;Public Transit;2013;Percent;0,47257;312
+Borough Park;Driving Alone;2013;Percent;0,19728;312
+Borough Park;Carpool, Taxi, Other;2013;Percent;0,07049;312
+Borough Park;Bicycle;2013;Percent;0,01198;312
+Brownsville;Work at Home;2013;Percent;0,01794;316
+Brownsville;Walking;2013;Percent;0,07397;316
+Brownsville;Public Transit;2013;Percent;0,68369;316
+Brownsville;Driving Alone;2013;Percent;0,17897;316
+Brownsville;Carpool, Taxi, Other;2013;Percent;0,04204;316
+Brownsville;Bicycle;2013;Percent;0,00339;316
+Bushwick;Work at Home;2013;Percent;0,0195;304
+Bushwick;Walking;2013;Percent;0,06395;304
+Bushwick;Public Transit;2013;Percent;0,7631;304
+Bushwick;Driving Alone;2013;Percent;0,09969;304
+Bushwick;Carpool, Taxi, Other;2013;Percent;0,02677;304
+Bushwick;Bicycle;2013;Percent;0,02699;304
+Canarsie;Work at Home;2013;Percent;0,02416;318
+Canarsie;Walking;2013;Percent;0,0449;318
+Canarsie;Public Transit;2013;Percent;0,48073;318
+Canarsie;Driving Alone;2013;Percent;0,37819;318
+Canarsie;Carpool, Taxi, Other;2013;Percent;0,06963;318
+Canarsie;Bicycle;2013;Percent;0,00239;318
+Central Harlem;Work at Home;2013;Percent;0,0672;110
+Central Harlem;Walking;2013;Percent;0,09538;110
+Central Harlem;Public Transit;2013;Percent;0,71864;110
+Central Harlem;Driving Alone;2013;Percent;0,06148;110
+Central Harlem;Carpool, Taxi, Other;2013;Percent;0,04242;110
+Central Harlem;Bicycle;2013;Percent;0,01488;110
+Chelsea/Clinton;Work at Home;2013;Percent;0,07672;104
+Chelsea/Clinton;Walking;2013;Percent;0,33082;104
+Chelsea/Clinton;Public Transit;2013;Percent;0,46205;104
+Chelsea/Clinton;Driving Alone;2013;Percent;0,03356;104
+Chelsea/Clinton;Carpool, Taxi, Other;2013;Percent;0,06319;104
+Chelsea/Clinton;Bicycle;2013;Percent;0,03366;104
+Concourse/Highbridge;Bicycle;2013;Percent;0,00551;204
+Concourse/Highbridge;Carpool, Taxi, Other;2013;Percent;0,046;204
+Concourse/Highbridge;Driving Alone;2013;Percent;0,13018;204
+Concourse/Highbridge;Public Transit;2013;Percent;0,69656;204
+Concourse/Highbridge;Walking;2013;Percent;0,09958;204
+Concourse/Highbridge;Work at Home;2013;Percent;0,02217;204
+Coney Island;Bicycle;2013;Percent;0,00123;313
+Coney Island;Carpool, Taxi, Other;2013;Percent;0,06402;313
+Coney Island;Driving Alone;2013;Percent;0,24658;313
+Coney Island;Public Transit;2013;Percent;0,56301;313
+Coney Island;Walking;2013;Percent;0,1007;313
+Coney Island;Work at Home;2013;Percent;0,02446;313
+Crown Heights North;Work at Home;2013;Percent;0,053;308
+Crown Heights North;Walking;2013;Percent;0,06197;308
+Crown Heights North;Public Transit;2013;Percent;0,70544;308
+Crown Heights North;Driving Alone;2013;Percent;0,10049;308
+Crown Heights North;Carpool, Taxi, Other;2013;Percent;0,04997;308
+Crown Heights North;Bicycle;2013;Percent;0,02913;308
+Crown Heights South;Bicycle;2013;Percent;0,01026;309
+Crown Heights South;Carpool, Taxi, Other;2013;Percent;0,03558;309
+Crown Heights South;Driving Alone;2013;Percent;0,17534;309
+Crown Heights South;Public Transit;2013;Percent;0,66594;309
+Crown Heights South;Walking;2013;Percent;0,07753;309
+Crown Heights South;Work at Home;2013;Percent;0,03536;309
+East Flatbush;Bicycle;2013;Percent;0,00501;317
+East Flatbush;Carpool, Taxi, Other;2013;Percent;0,06934;317
+East Flatbush;Driving Alone;2013;Percent;0,21133;317
+East Flatbush;Public Transit;2013;Percent;0,6602;317
+East Flatbush;Walking;2013;Percent;0,03402;317
+East Flatbush;Work at Home;2013;Percent;0,02009;317
+East New York;Bicycle;2013;Percent;0,00352;305
+East New York;Carpool, Taxi, Other;2013;Percent;0,05528;305
+East New York;Driving Alone;2013;Percent;0,22699;305
+East New York;Public Transit;2013;Percent;0,64522;305
+East New York;Walking;2013;Percent;0,04675;305
+East New York;Work at Home;2013;Percent;0,02225;305
+East Tremont;Bicycle;2013;Percent;0,00372;206
+East Tremont;Carpool, Taxi, Other;2013;Percent;0,06433;206
+East Tremont;Driving Alone;2013;Percent;0,17618;206
+East Tremont;Public Transit;2013;Percent;0,6285;206
+East Tremont;Walking;2013;Percent;0,0947;206
+East Tremont;Work at Home;2013;Percent;0,03256;206
+Elmhurst/Corona;Bicycle;2013;Percent;0,01127;404
+Elmhurst/Corona;Carpool, Taxi, Other;2013;Percent;0,07784;404
+Elmhurst/Corona;Driving Alone;2013;Percent;0,12661;404
+Elmhurst/Corona;Public Transit;2013;Percent;0,66316;404
+Elmhurst/Corona;Walking;2013;Percent;0,09927;404
+Elmhurst/Corona;Work at Home;2013;Percent;0,02185;404
+Flatbush/Midwood;Work at Home;2013;Percent;0,04658;314
+Flatbush/Midwood;Walking;2013;Percent;0,09395;314
+Flatbush/Midwood;Public Transit;2013;Percent;0,60641;314
+Flatbush/Midwood;Driving Alone;2013;Percent;0,19157;314
+Flatbush/Midwood;Carpool, Taxi, Other;2013;Percent;0,04801;314
+Flatbush/Midwood;Bicycle;2013;Percent;0,01349;314
+Flushing;Work at Home;2013;Percent;0,02798;407
+Flushing;Walking;2013;Percent;0,08482;407
+Flushing;Public Transit;2013;Percent;0,37482;407
+Flushing;Driving Alone;2013;Percent;0,36314;407
+Flushing;Carpool, Taxi, Other;2013;Percent;0,14672;407
+Flushing;Bicycle;2013;Percent;0,00253;407
+Fort Greene/Brooklyn Hts;Work at Home;2013;Percent;0,08372;302
+Fort Greene/Brooklyn Hts;Walking;2013;Percent;0,08797;302
+Fort Greene/Brooklyn Hts;Public Transit;2013;Percent;0,70521;302
+Fort Greene/Brooklyn Hts;Driving Alone;2013;Percent;0,06441;302
+Fort Greene/Brooklyn Hts;Carpool, Taxi, Other;2013;Percent;0,03095;302
+Fort Greene/Brooklyn Hts;Bicycle;2013;Percent;0,02774;302
+Fresh Meadows/Briarwood;Bicycle;2013;Percent;0,00143;408
+Fresh Meadows/Briarwood;Carpool, Taxi, Other;2013;Percent;0,10965;408
+Fresh Meadows/Briarwood;Driving Alone;2013;Percent;0,35166;408
+Fresh Meadows/Briarwood;Public Transit;2013;Percent;0,45384;408
+Fresh Meadows/Briarwood;Walking;2013;Percent;0,06184;408
+Fresh Meadows/Briarwood;Work at Home;2013;Percent;0,02158;408
+Greenwich Village;Work at Home;2013;Percent;0,07171;102
+Greenwich Village;Walking;2013;Percent;0,2394;102
+Greenwich Village;Public Transit;2013;Percent;0,57231;102
+Greenwich Village;Driving Alone;2013;Percent;0,03495;102
+Greenwich Village;Carpool, Taxi, Other;2013;Percent;0,05827;102
+Greenwich Village;Bicycle;2013;Percent;0,02337;102
+Howard Beach;Bicycle;2013;Percent;0,00051;410
+Howard Beach;Carpool, Taxi, Other;2013;Percent;0,08393;410
+Howard Beach;Driving Alone;2013;Percent;0,41118;410
+Howard Beach;Public Transit;2013;Percent;0,43813;410
+Howard Beach;Walking;2013;Percent;0,04575;410
+Howard Beach;Work at Home;2013;Percent;0,02049;410
+Hunts Point;Bicycle;2013;Percent;0,00952;202
+Hunts Point;Carpool, Taxi, Other;2013;Percent;0,03167;202
+Hunts Point;Driving Alone;2013;Percent;0,10524;202
+Hunts Point;Public Transit;2013;Percent;0,6996;202
+Hunts Point;Walking;2013;Percent;0,10524;202
+Hunts Point;Work at Home;2013;Percent;0,04873;202
+Jackson Heights;Work at Home;2013;Percent;0,00873;403
+Jackson Heights;Walking;2013;Percent;0,07362;403
+Jackson Heights;Public Transit;2013;Percent;0,65411;403
+Jackson Heights;Driving Alone;2013;Percent;0,19023;403
+Jackson Heights;Carpool, Taxi, Other;2013;Percent;0,05312;403
+Jackson Heights;Bicycle;2013;Percent;0,02019;403
+Jamaica/St. Albans;Bicycle;2013;Percent;0;412
+Jamaica/St. Albans;Carpool, Taxi, Other;2013;Percent;0,06434;412
+Jamaica/St. Albans;Driving Alone;2013;Percent;0,36409;412
+Jamaica/St. Albans;Public Transit;2013;Percent;0,51325;412
+Jamaica/St. Albans;Walking;2013;Percent;0,03258;412
+Jamaica/St. Albans;Work at Home;2013;Percent;0,02574;412
+Lower East Side;Bicycle;2013;Percent;0,03632;103
+Lower East Side;Carpool, Taxi, Other;2013;Percent;0,04853;103
+Lower East Side;Driving Alone;2013;Percent;0,0635;103
+Lower East Side;Public Transit;2013;Percent;0,49447;103
+Lower East Side;Walking;2013;Percent;0,29179;103
+Lower East Side;Work at Home;2013;Percent;0,06538;103
+Manhattanville;Bicycle;2013;Percent;0,01195;109
+Manhattanville;Carpool, Taxi, Other;2013;Percent;0,0302;109
+Manhattanville;Driving Alone;2013;Percent;0,03657;109
+Manhattanville;Public Transit;2013;Percent;0,70989;109
+Manhattanville;Walking;2013;Percent;0,13537;109
+Manhattanville;Work at Home;2013;Percent;0,07602;109
+Midtown Business District;Bicycle;2013;Percent;0,03366;105
+Midtown Business District;Carpool, Taxi, Other;2013;Percent;0,06319;105
+Midtown Business District;Driving Alone;2013;Percent;0,03356;105
+Midtown Business District;Public Transit;2013;Percent;0,46205;105
+Midtown Business District;Walking;2013;Percent;0,33082;105
+Midtown Business District;Work at Home;2013;Percent;0,07672;105
+Morrisania;Work at Home;2013;Percent;0,03256;203
+Morrisania;Walking;2013;Percent;0,0947;203
+Morrisania;Public Transit;2013;Percent;0,6285;203
+Morrisania;Driving Alone;2013;Percent;0,17618;203
+Morrisania;Carpool, Taxi, Other;2013;Percent;0,06433;203
+Morrisania;Bicycle;2013;Percent;0,00372;203
+Mott Haven;Work at Home;2013;Percent;0,04873;201
+Mott Haven;Walking;2013;Percent;0,10524;201
+Mott Haven;Public Transit;2013;Percent;0,6996;201
+Mott Haven;Driving Alone;2013;Percent;0,10524;201
+Mott Haven;Carpool, Taxi, Other;2013;Percent;0,03167;201
+Mott Haven;Bicycle;2013;Percent;0,00952;201
+Murray Hill/Stuyvesant;Work at Home;2013;Percent;0,04129;106
+Murray Hill/Stuyvesant;Walking;2013;Percent;0,31557;106
+Murray Hill/Stuyvesant;Public Transit;2013;Percent;0,48531;106
+Murray Hill/Stuyvesant;Driving Alone;2013;Percent;0,04618;106
+Murray Hill/Stuyvesant;Carpool, Taxi, Other;2013;Percent;0,07271;106
+Murray Hill/Stuyvesant;Bicycle;2013;Percent;0,03893;106
+Park Slope;Work at Home;2013;Percent;0,10684;306
+Park Slope;Walking;2013;Percent;0,06685;306
+Park Slope;Public Transit;2013;Percent;0,65913;306
+Park Slope;Driving Alone;2013;Percent;0,08641;306
+Park Slope;Carpool, Taxi, Other;2013;Percent;0,04858;306
+Park Slope;Bicycle;2013;Percent;0,0322;306
+Pelham Parkway;Work at Home;2013;Percent;0,03379;211
+Pelham Parkway;Walking;2013;Percent;0,10103;211
+Pelham Parkway;Public Transit;2013;Percent;0,52258;211
+Pelham Parkway;Driving Alone;2013;Percent;0,26446;211
+Pelham Parkway;Carpool, Taxi, Other;2013;Percent;0,07072;211
+Pelham Parkway;Bicycle;2013;Percent;0,00743;211
+Queens Village;Work at Home;2013;Percent;0,02534;413
+Queens Village;Walking;2013;Percent;0,01803;413
+Queens Village;Public Transit;2013;Percent;0,38903;413
+Queens Village;Driving Alone;2013;Percent;0,46623;413
+Queens Village;Carpool, Taxi, Other;2013;Percent;0,10137;413
+Queens Village;Bicycle;2013;Percent;0;413
+Rego Park/Forest Hills;Bicycle;2013;Percent;0,0006;406
+Rego Park/Forest Hills;Carpool, Taxi, Other;2013;Percent;0,05771;406
+Rego Park/Forest Hills;Driving Alone;2013;Percent;0,22104;406
+Rego Park/Forest Hills;Public Transit;2013;Percent;0,58748;406
+Rego Park/Forest Hills;Walking;2013;Percent;0,0926;406
+Rego Park/Forest Hills;Work at Home;2013;Percent;0,04055;406
+Ridgewood/Glendale;Work at Home;2013;Percent;0,03057;405
+Ridgewood/Glendale;Walking;2013;Percent;0,04909;405
+Ridgewood/Glendale;Public Transit;2013;Percent;0,52962;405
+Ridgewood/Glendale;Driving Alone;2013;Percent;0,30518;405
+Ridgewood/Glendale;Carpool, Taxi, Other;2013;Percent;0,07167;405
+Ridgewood/Glendale;Bicycle;2013;Percent;0,01387;405
+Riverdale;Bicycle;2013;Percent;0,01254;208
+Riverdale;Carpool, Taxi, Other;2013;Percent;0,04692;208
+Riverdale;Driving Alone;2013;Percent;0,26277;208
+Riverdale;Public Transit;2013;Percent;0,56186;208
+Riverdale;Walking;2013;Percent;0,08595;208
+Riverdale;Work at Home;2013;Percent;0,02996;208
+Sheepshead Bay;Bicycle;2013;Percent;0,01202;315
+Sheepshead Bay;Carpool, Taxi, Other;2013;Percent;0,07686;315
+Sheepshead Bay;Driving Alone;2013;Percent;0,27964;315
+Sheepshead Bay;Public Transit;2013;Percent;0,50922;315
+Sheepshead Bay;Walking;2013;Percent;0,08929;315
+Sheepshead Bay;Work at Home;2013;Percent;0,03296;315
+South Beach;Work at Home;2013;Percent;0,03457;502
+South Beach;Walking;2013;Percent;0,02868;502
+South Beach;Public Transit;2013;Percent;0,28772;502
+South Beach;Driving Alone;2013;Percent;0,55809;502
+South Beach;Carpool, Taxi, Other;2013;Percent;0,08928;502
+South Beach;Bicycle;2013;Percent;0,00166;502
+St. George;Bicycle;2013;Percent;0,00323;501
+St. George;Carpool, Taxi, Other;2013;Percent;0,088;501
+St. George;Driving Alone;2013;Percent;0,49874;501
+St. George;Public Transit;2013;Percent;0,35583;501
+St. George;Walking;2013;Percent;0,02537;501
+St. George;Work at Home;2013;Percent;0,02883;501
+Sunnyside/Woodside;Bicycle;2013;Percent;0,01332;402
+Sunnyside/Woodside;Carpool, Taxi, Other;2013;Percent;0,05379;402
+Sunnyside/Woodside;Driving Alone;2013;Percent;0,14593;402
+Sunnyside/Woodside;Public Transit;2013;Percent;0,71924;402
+Sunnyside/Woodside;Walking;2013;Percent;0,04557;402
+Sunnyside/Woodside;Work at Home;2013;Percent;0,02215;402
+Sunset Park;Bicycle;2013;Percent;0,02047;307
+Sunset Park;Carpool, Taxi, Other;2013;Percent;0,07004;307
+Sunset Park;Driving Alone;2013;Percent;0,10259;307
+Sunset Park;Public Transit;2013;Percent;0,65039;307
+Sunset Park;Walking;2013;Percent;0,12857;307
+Sunset Park;Work at Home;2013;Percent;0,02795;307
+The Rockaways;Bicycle;2013;Percent;0,02;414
+The Rockaways;Carpool, Taxi, Other;2013;Percent;0,05037;414
+The Rockaways;Driving Alone;2013;Percent;0,43459;414
+The Rockaways;Public Transit;2013;Percent;0,40424;414
+The Rockaways;Walking;2013;Percent;0,05129;414
+The Rockaways;Work at Home;2013;Percent;0,03951;414
+Tottenville;Bicycle;2013;Percent;0;503
+Tottenville;Carpool, Taxi, Other;2013;Percent;0,09567;503
+Tottenville;Driving Alone;2013;Percent;0,60219;503
+Tottenville;Public Transit;2013;Percent;0,27675;503
+Tottenville;Walking;2013;Percent;0,01208;503
+Tottenville;Work at Home;2013;Percent;0,01331;503
+Unionport/Soundview;Work at Home;2013;Percent;0,01475;209
+Unionport/Soundview;Walking;2013;Percent;0,08613;209
+Unionport/Soundview;Public Transit;2013;Percent;0,5817;209
+Unionport/Soundview;Driving Alone;2013;Percent;0,22561;209
+Unionport/Soundview;Carpool, Taxi, Other;2013;Percent;0,09105;209
+Unionport/Soundview;Bicycle;2013;Percent;0,00076;209
+University Heights;Work at Home;2013;Percent;0,05699;205
+University Heights;Walking;2013;Percent;0,103;205
+University Heights;Public Transit;2013;Percent;0,64587;205
+University Heights;Driving Alone;2013;Percent;0,13993;205
+University Heights;Carpool, Taxi, Other;2013;Percent;0,05334;205
+University Heights;Bicycle;2013;Percent;0,00086;205
+Upper East Side;Work at Home;2013;Percent;0,09229;108
+Upper East Side;Walking;2013;Percent;0,16871;108
+Upper East Side;Public Transit;2013;Percent;0,56874;108
+Upper East Side;Driving Alone;2013;Percent;0,07972;108
+Upper East Side;Carpool, Taxi, Other;2013;Percent;0,08601;108
+Upper East Side;Bicycle;2013;Percent;0,00452;108
+Upper West Side;Bicycle;2013;Percent;0,01429;107
+Upper West Side;Carpool, Taxi, Other;2013;Percent;0,04799;107
+Upper West Side;Driving Alone;2013;Percent;0,0418;107
+Upper West Side;Public Transit;2013;Percent;0,72088;107
+Upper West Side;Walking;2013;Percent;0,12017;107
+Upper West Side;Work at Home;2013;Percent;0,05487;107
+Washington Heights;Work at Home;2013;Percent;0,07495;112
+Washington Heights;Walking;2013;Percent;0,13502;112
+Washington Heights;Public Transit;2013;Percent;0,66025;112
+Washington Heights;Driving Alone;2013;Percent;0,07689;112
+Washington Heights;Carpool, Taxi, Other;2013;Percent;0,04506;112
+Washington Heights;Bicycle;2013;Percent;0,00783;112
+Williamsbridge;Bicycle;2013;Percent;0,00352;212
+Williamsbridge;Carpool, Taxi, Other;2013;Percent;0,06797;212
+Williamsbridge;Driving Alone;2013;Percent;0,34861;212
+Williamsbridge;Public Transit;2013;Percent;0,51443;212
+Williamsbridge;Walking;2013;Percent;0,04588;212
+Williamsbridge;Work at Home;2013;Percent;0,0196;212
+Williamsburg/Greenpoint;Bicycle;2013;Percent;0,04126;301
+Williamsburg/Greenpoint;Carpool, Taxi, Other;2013;Percent;0,04334;301
+Williamsburg/Greenpoint;Driving Alone;2013;Percent;0,08699;301
+Williamsburg/Greenpoint;Public Transit;2013;Percent;0,64134;301
+Williamsburg/Greenpoint;Walking;2013;Percent;0,10774;301
+Williamsburg/Greenpoint;Work at Home;2013;Percent;0,07934;301
+Woodhaven;Work at Home;2013;Percent;0,02224;409
+Woodhaven;Walking;2013;Percent;0,05449;409
+Woodhaven;Public Transit;2013;Percent;0,5353;409
+Woodhaven;Driving Alone;2013;Percent;0,30518;409
+Woodhaven;Carpool, Taxi, Other;2013;Percent;0,08213;409
+Woodhaven;Bicycle;2013;Percent;0,00066;409
+Astoria;Work at Home;2014;Percent;0,03621;401
+Astoria;Walking;2014;Percent;0,07333;401
+Astoria;Public Transit;2014;Percent;0,69055;401
+Astoria;Driving Alone;2014;Percent;0,14911;401
+Astoria;Carpool, Taxi, Other;2014;Percent;0,04152;401
+Astoria;Bicycle;2014;Percent;0,00928;401
+Battery Park/Tribeca;Bicycle;2014;Percent;0,04243;101
+Battery Park/Tribeca;Carpool, Taxi, Other;2014;Percent;0,05886;101
+Battery Park/Tribeca;Driving Alone;2014;Percent;0,04108;101
+Battery Park/Tribeca;Public Transit;2014;Percent;0,52937;101
+Battery Park/Tribeca;Walking;2014;Percent;0,25336;101
+Battery Park/Tribeca;Work at Home;2014;Percent;0,07491;101
+Bay Ridge;Work at Home;2014;Percent;0,03845;310
+Bay Ridge;Walking;2014;Percent;0,09271;310
+Bay Ridge;Public Transit;2014;Percent;0,52913;310
+Bay Ridge;Driving Alone;2014;Percent;0,24818;310
+Bay Ridge;Carpool, Taxi, Other;2014;Percent;0,08558;310
+Bay Ridge;Bicycle;2014;Percent;0,00594;310
+Bayside;Work at Home;2014;Percent;0,03738;411
+Bayside;Walking;2014;Percent;0,02009;411
+Bayside;Public Transit;2014;Percent;0,31473;411
+Bayside;Driving Alone;2014;Percent;0,52705;411
+Bayside;Carpool, Taxi, Other;2014;Percent;0,09884;411
+Bayside;Bicycle;2014;Percent;0,00191;411
+Bedford Park;Work at Home;2014;Percent;0,04025;207
+Bedford Park;Walking;2014;Percent;0,10583;207
+Bedford Park;Public Transit;2014;Percent;0,66941;207
+Bedford Park;Driving Alone;2014;Percent;0,14659;207
+Bedford Park;Carpool, Taxi, Other;2014;Percent;0,03173;207
+Bedford Park;Bicycle;2014;Percent;0,00619;207
+Bedford Stuyvesant;Bicycle;2014;Percent;0,0265;303
+Bedford Stuyvesant;Carpool, Taxi, Other;2014;Percent;0,03724;303
+Bedford Stuyvesant;Driving Alone;2014;Percent;0,11708;303
+Bedford Stuyvesant;Public Transit;2014;Percent;0,68747;303
+Bedford Stuyvesant;Walking;2014;Percent;0,08601;303
+Bedford Stuyvesant;Work at Home;2014;Percent;0,04569;303
+Bensonhurst;Bicycle;2014;Percent;0,01363;311
+Bensonhurst;Carpool, Taxi, Other;2014;Percent;0,08934;311
+Bensonhurst;Driving Alone;2014;Percent;0,19815;311
+Bensonhurst;Public Transit;2014;Percent;0,60848;311
+Bensonhurst;Walking;2014;Percent;0,06876;311
+Bensonhurst;Work at Home;2014;Percent;0,02163;311
+Borough Park;Work at Home;2014;Percent;0,03709;312
+Borough Park;Walking;2014;Percent;0,20647;312
+Borough Park;Public Transit;2014;Percent;0,45342;312
+Borough Park;Driving Alone;2014;Percent;0,19011;312
+Borough Park;Carpool, Taxi, Other;2014;Percent;0,09477;312
+Borough Park;Bicycle;2014;Percent;0,01814;312
+Brownsville;Work at Home;2014;Percent;0,02654;316
+Brownsville;Walking;2014;Percent;0,04541;316
+Brownsville;Public Transit;2014;Percent;0,69394;316
+Brownsville;Driving Alone;2014;Percent;0,20541;316
+Brownsville;Carpool, Taxi, Other;2014;Percent;0,0287;316
+Brownsville;Bicycle;2014;Percent;0;316
+Bushwick;Work at Home;2014;Percent;0,04565;304
+Bushwick;Walking;2014;Percent;0,0834;304
+Bushwick;Public Transit;2014;Percent;0,70284;304
+Bushwick;Driving Alone;2014;Percent;0,1122;304
+Bushwick;Carpool, Taxi, Other;2014;Percent;0,03235;304
+Bushwick;Bicycle;2014;Percent;0,02356;304
+Canarsie;Work at Home;2014;Percent;0,02401;318
+Canarsie;Walking;2014;Percent;0,04333;318
+Canarsie;Public Transit;2014;Percent;0,49607;318
+Canarsie;Driving Alone;2014;Percent;0,36461;318
+Canarsie;Carpool, Taxi, Other;2014;Percent;0,07147;318
+Canarsie;Bicycle;2014;Percent;0,0005;318
+Central Harlem;Work at Home;2014;Percent;0,03809;110
+Central Harlem;Walking;2014;Percent;0,08267;110
+Central Harlem;Public Transit;2014;Percent;0,7551;110
+Central Harlem;Driving Alone;2014;Percent;0,09232;110
+Central Harlem;Carpool, Taxi, Other;2014;Percent;0,02182;110
+Central Harlem;Bicycle;2014;Percent;0,01;110
+Chelsea/Clinton;Work at Home;2014;Percent;0,07516;104
+Chelsea/Clinton;Walking;2014;Percent;0,31795;104
+Chelsea/Clinton;Public Transit;2014;Percent;0,48871;104
+Chelsea/Clinton;Driving Alone;2014;Percent;0,04397;104
+Chelsea/Clinton;Carpool, Taxi, Other;2014;Percent;0,05194;104
+Chelsea/Clinton;Bicycle;2014;Percent;0,02228;104
+Concourse/Highbridge;Bicycle;2014;Percent;0;204
+Concourse/Highbridge;Carpool, Taxi, Other;2014;Percent;0,06823;204
+Concourse/Highbridge;Driving Alone;2014;Percent;0,11935;204
+Concourse/Highbridge;Public Transit;2014;Percent;0,7052;204
+Concourse/Highbridge;Walking;2014;Percent;0,06233;204
+Concourse/Highbridge;Work at Home;2014;Percent;0,04489;204
+Coney Island;Bicycle;2014;Percent;0,00196;313
+Coney Island;Carpool, Taxi, Other;2014;Percent;0,07206;313
+Coney Island;Driving Alone;2014;Percent;0,25435;313
+Coney Island;Public Transit;2014;Percent;0,54371;313
+Coney Island;Walking;2014;Percent;0,11672;313
+Coney Island;Work at Home;2014;Percent;0,0112;313
+Crown Heights North;Work at Home;2014;Percent;0,03261;308
+Crown Heights North;Walking;2014;Percent;0,05625;308
+Crown Heights North;Public Transit;2014;Percent;0,70891;308
+Crown Heights North;Driving Alone;2014;Percent;0,13963;308
+Crown Heights North;Carpool, Taxi, Other;2014;Percent;0,02515;308
+Crown Heights North;Bicycle;2014;Percent;0,03744;308
+Crown Heights South;Bicycle;2014;Percent;0,01481;309
+Crown Heights South;Carpool, Taxi, Other;2014;Percent;0,03927;309
+Crown Heights South;Driving Alone;2014;Percent;0,11606;309
+Crown Heights South;Public Transit;2014;Percent;0,70897;309
+Crown Heights South;Walking;2014;Percent;0,08309;309
+Crown Heights South;Work at Home;2014;Percent;0,0378;309
+East Flatbush;Bicycle;2014;Percent;0,00451;317
+East Flatbush;Carpool, Taxi, Other;2014;Percent;0,04575;317
+East Flatbush;Driving Alone;2014;Percent;0,22042;317
+East Flatbush;Public Transit;2014;Percent;0,66181;317
+East Flatbush;Walking;2014;Percent;0,04002;317
+East Flatbush;Work at Home;2014;Percent;0,02748;317
+East Harlem;Bicycle;2014;Percent;0,0072;111
+East Harlem;Carpool, Taxi, Other;2014;Percent;0,0213;111
+East Harlem;Driving Alone;2014;Percent;0,06603;111
+East Harlem;Public Transit;2014;Percent;0,73914;111
+East Harlem;Walking;2014;Percent;0,13642;111
+East Harlem;Work at Home;2014;Percent;0,0299;111
+East New York;Bicycle;2014;Percent;0,00208;305
+East New York;Carpool, Taxi, Other;2014;Percent;0,03416;305
+East New York;Driving Alone;2014;Percent;0,21591;305
+East New York;Public Transit;2014;Percent;0,69178;305
+East New York;Walking;2014;Percent;0,04129;305
+East New York;Work at Home;2014;Percent;0,01477;305
+East Tremont;Bicycle;2014;Percent;0,00168;206
+East Tremont;Carpool, Taxi, Other;2014;Percent;0,0277;206
+East Tremont;Driving Alone;2014;Percent;0,16453;206
+East Tremont;Public Transit;2014;Percent;0,68546;206
+East Tremont;Walking;2014;Percent;0,07808;206
+East Tremont;Work at Home;2014;Percent;0,04255;206
+Elmhurst/Corona;Bicycle;2014;Percent;0,00816;404
+Elmhurst/Corona;Carpool, Taxi, Other;2014;Percent;0,081;404
+Elmhurst/Corona;Driving Alone;2014;Percent;0,13252;404
+Elmhurst/Corona;Public Transit;2014;Percent;0,69162;404
+Elmhurst/Corona;Walking;2014;Percent;0,07429;404
+Elmhurst/Corona;Work at Home;2014;Percent;0,01241;404
+Flatbush/Midwood;Work at Home;2014;Percent;0,02551;314
+Flatbush/Midwood;Walking;2014;Percent;0,06709;314
+Flatbush/Midwood;Public Transit;2014;Percent;0,63007;314
+Flatbush/Midwood;Driving Alone;2014;Percent;0,21183;314
+Flatbush/Midwood;Carpool, Taxi, Other;2014;Percent;0,04217;314
+Flatbush/Midwood;Bicycle;2014;Percent;0,02332;314
+Flushing;Work at Home;2014;Percent;0,0228;407
+Flushing;Walking;2014;Percent;0,1054;407
+Flushing;Public Transit;2014;Percent;0,36525;407
+Flushing;Driving Alone;2014;Percent;0,36992;407
+Flushing;Carpool, Taxi, Other;2014;Percent;0,13454;407
+Flushing;Bicycle;2014;Percent;0,0021;407
+Fort Greene/Brooklyn Hts;Work at Home;2014;Percent;0,08079;302
+Fort Greene/Brooklyn Hts;Walking;2014;Percent;0,08059;302
+Fort Greene/Brooklyn Hts;Public Transit;2014;Percent;0,68249;302
+Fort Greene/Brooklyn Hts;Driving Alone;2014;Percent;0,08769;302
+Fort Greene/Brooklyn Hts;Carpool, Taxi, Other;2014;Percent;0,03172;302
+Fort Greene/Brooklyn Hts;Bicycle;2014;Percent;0,03672;302
+Fresh Meadows/Briarwood;Bicycle;2014;Percent;0,00222;408
+Fresh Meadows/Briarwood;Carpool, Taxi, Other;2014;Percent;0,06587;408
+Fresh Meadows/Briarwood;Driving Alone;2014;Percent;0,37029;408
+Fresh Meadows/Briarwood;Public Transit;2014;Percent;0,45938;408
+Fresh Meadows/Briarwood;Walking;2014;Percent;0,07022;408
+Fresh Meadows/Briarwood;Work at Home;2014;Percent;0,03203;408
+Greenwich Village;Work at Home;2014;Percent;0,07491;102
+Greenwich Village;Walking;2014;Percent;0,25336;102
+Greenwich Village;Public Transit;2014;Percent;0,52937;102
+Greenwich Village;Driving Alone;2014;Percent;0,04108;102
+Greenwich Village;Carpool, Taxi, Other;2014;Percent;0,05886;102
+Greenwich Village;Bicycle;2014;Percent;0,04243;102
+Howard Beach;Bicycle;2014;Percent;0,00247;410
+Howard Beach;Carpool, Taxi, Other;2014;Percent;0,10768;410
+Howard Beach;Driving Alone;2014;Percent;0,43835;410
+Howard Beach;Public Transit;2014;Percent;0,40266;410
+Howard Beach;Walking;2014;Percent;0,03832;410
+Howard Beach;Work at Home;2014;Percent;0,01053;410
+Hunts Point;Bicycle;2014;Percent;0,00103;202
+Hunts Point;Carpool, Taxi, Other;2014;Percent;0,04293;202
+Hunts Point;Driving Alone;2014;Percent;0,09578;202
+Hunts Point;Public Transit;2014;Percent;0,72551;202
+Hunts Point;Walking;2014;Percent;0,10032;202
+Hunts Point;Work at Home;2014;Percent;0,03443;202
+Jackson Heights;Work at Home;2014;Percent;0,00896;403
+Jackson Heights;Walking;2014;Percent;0,06099;403
+Jackson Heights;Public Transit;2014;Percent;0,6637;403
+Jackson Heights;Driving Alone;2014;Percent;0,19417;403
+Jackson Heights;Carpool, Taxi, Other;2014;Percent;0,05962;403
+Jackson Heights;Bicycle;2014;Percent;0,01256;403
+Jamaica/St. Albans;Bicycle;2014;Percent;0,00148;412
+Jamaica/St. Albans;Carpool, Taxi, Other;2014;Percent;0,05531;412
+Jamaica/St. Albans;Driving Alone;2014;Percent;0,36271;412
+Jamaica/St. Albans;Public Transit;2014;Percent;0,52635;412
+Jamaica/St. Albans;Walking;2014;Percent;0,03923;412
+Jamaica/St. Albans;Work at Home;2014;Percent;0,01492;412
+Lower East Side;Bicycle;2014;Percent;0,0604;103
+Lower East Side;Carpool, Taxi, Other;2014;Percent;0,03326;103
+Lower East Side;Driving Alone;2014;Percent;0,04691;103
+Lower East Side;Public Transit;2014;Percent;0,51952;103
+Lower East Side;Walking;2014;Percent;0,29283;103
+Lower East Side;Work at Home;2014;Percent;0,04708;103
+Manhattanville;Bicycle;2014;Percent;0,00925;109
+Manhattanville;Carpool, Taxi, Other;2014;Percent;0,02362;109
+Manhattanville;Driving Alone;2014;Percent;0,07035;109
+Manhattanville;Public Transit;2014;Percent;0,70693;109
+Manhattanville;Walking;2014;Percent;0,14145;109
+Manhattanville;Work at Home;2014;Percent;0,04841;109
+Midtown Business District;Bicycle;2014;Percent;0,02228;105
+Midtown Business District;Carpool, Taxi, Other;2014;Percent;0,05194;105
+Midtown Business District;Driving Alone;2014;Percent;0,04397;105
+Midtown Business District;Public Transit;2014;Percent;0,48871;105
+Midtown Business District;Walking;2014;Percent;0,31795;105
+Midtown Business District;Work at Home;2014;Percent;0,07516;105
+Morrisania;Work at Home;2014;Percent;0,04255;203
+Morrisania;Walking;2014;Percent;0,07808;203
+Morrisania;Public Transit;2014;Percent;0,68546;203
+Morrisania;Driving Alone;2014;Percent;0,16453;203
+Morrisania;Carpool, Taxi, Other;2014;Percent;0,0277;203
+Morrisania;Bicycle;2014;Percent;0,00168;203
+Mott Haven;Work at Home;2014;Percent;0,03443;201
+Mott Haven;Walking;2014;Percent;0,10032;201
+Mott Haven;Public Transit;2014;Percent;0,72551;201
+Mott Haven;Driving Alone;2014;Percent;0,09578;201
+Mott Haven;Carpool, Taxi, Other;2014;Percent;0,04293;201
+Mott Haven;Bicycle;2014;Percent;0,00103;201
+Murray Hill/Stuyvesant;Work at Home;2014;Percent;0,07965;106
+Murray Hill/Stuyvesant;Walking;2014;Percent;0,34044;106
+Murray Hill/Stuyvesant;Public Transit;2014;Percent;0,48314;106
+Murray Hill/Stuyvesant;Driving Alone;2014;Percent;0,03389;106
+Murray Hill/Stuyvesant;Carpool, Taxi, Other;2014;Percent;0,04328;106
+Murray Hill/Stuyvesant;Bicycle;2014;Percent;0,01961;106
+Park Slope;Work at Home;2014;Percent;0,09265;306
+Park Slope;Walking;2014;Percent;0,10406;306
+Park Slope;Public Transit;2014;Percent;0,65335;306
+Park Slope;Driving Alone;2014;Percent;0,09082;306
+Park Slope;Carpool, Taxi, Other;2014;Percent;0,02642;306
+Park Slope;Bicycle;2014;Percent;0,0327;306
+Pelham Parkway;Work at Home;2014;Percent;0,02913;211
+Pelham Parkway;Walking;2014;Percent;0,09507;211
+Pelham Parkway;Public Transit;2014;Percent;0,51071;211
+Pelham Parkway;Driving Alone;2014;Percent;0,31716;211
+Pelham Parkway;Carpool, Taxi, Other;2014;Percent;0,04701;211
+Pelham Parkway;Bicycle;2014;Percent;0,00091;211
+Queens Village;Work at Home;2014;Percent;0,02533;413
+Queens Village;Walking;2014;Percent;0,00982;413
+Queens Village;Public Transit;2014;Percent;0,33215;413
+Queens Village;Driving Alone;2014;Percent;0,56286;413
+Queens Village;Carpool, Taxi, Other;2014;Percent;0,06819;413
+Queens Village;Bicycle;2014;Percent;0,00166;413
+Rego Park/Forest Hills;Bicycle;2014;Percent;0,0009;406
+Rego Park/Forest Hills;Carpool, Taxi, Other;2014;Percent;0,05584;406
+Rego Park/Forest Hills;Driving Alone;2014;Percent;0,23511;406
+Rego Park/Forest Hills;Public Transit;2014;Percent;0,6054;406
+Rego Park/Forest Hills;Walking;2014;Percent;0,05444;406
+Rego Park/Forest Hills;Work at Home;2014;Percent;0,04831;406
+Ridgewood/Glendale;Work at Home;2014;Percent;0,02356;405
+Ridgewood/Glendale;Walking;2014;Percent;0,05132;405
+Ridgewood/Glendale;Public Transit;2014;Percent;0,56151;405
+Ridgewood/Glendale;Driving Alone;2014;Percent;0,3017;405
+Ridgewood/Glendale;Carpool, Taxi, Other;2014;Percent;0,05359;405
+Ridgewood/Glendale;Bicycle;2014;Percent;0,00832;405
+Riverdale;Bicycle;2014;Percent;0,00427;208
+Riverdale;Carpool, Taxi, Other;2014;Percent;0,08166;208
+Riverdale;Driving Alone;2014;Percent;0,23121;208
+Riverdale;Public Transit;2014;Percent;0,54757;208
+Riverdale;Walking;2014;Percent;0,08321;208
+Riverdale;Work at Home;2014;Percent;0,05209;208
+Sheepshead Bay;Bicycle;2014;Percent;0,00581;315
+Sheepshead Bay;Carpool, Taxi, Other;2014;Percent;0,08365;315
+Sheepshead Bay;Driving Alone;2014;Percent;0,25468;315
+Sheepshead Bay;Public Transit;2014;Percent;0,53201;315
+Sheepshead Bay;Walking;2014;Percent;0,08761;315
+Sheepshead Bay;Work at Home;2014;Percent;0,03624;315
+South Beach;Work at Home;2014;Percent;0,04526;502
+South Beach;Walking;2014;Percent;0,02245;502
+South Beach;Public Transit;2014;Percent;0,29218;502
+South Beach;Driving Alone;2014;Percent;0,54314;502
+South Beach;Carpool, Taxi, Other;2014;Percent;0,09696;502
+South Beach;Bicycle;2014;Percent;0;502
+St. George;Bicycle;2014;Percent;0,00325;501
+St. George;Carpool, Taxi, Other;2014;Percent;0,06778;501
+St. George;Driving Alone;2014;Percent;0,51268;501
+St. George;Public Transit;2014;Percent;0,36486;501
+St. George;Walking;2014;Percent;0,03645;501
+St. George;Work at Home;2014;Percent;0,01498;501
+Sunnyside/Woodside;Bicycle;2014;Percent;0,00596;402
+Sunnyside/Woodside;Carpool, Taxi, Other;2014;Percent;0,05065;402
+Sunnyside/Woodside;Driving Alone;2014;Percent;0,17534;402
+Sunnyside/Woodside;Public Transit;2014;Percent;0,69745;402
+Sunnyside/Woodside;Walking;2014;Percent;0,04664;402
+Sunnyside/Woodside;Work at Home;2014;Percent;0,02397;402
+Sunset Park;Bicycle;2014;Percent;0,01253;307
+Sunset Park;Carpool, Taxi, Other;2014;Percent;0,06692;307
+Sunset Park;Driving Alone;2014;Percent;0,10597;307
+Sunset Park;Public Transit;2014;Percent;0,65895;307
+Sunset Park;Walking;2014;Percent;0,12531;307
+Sunset Park;Work at Home;2014;Percent;0,03032;307
+The Rockaways;Bicycle;2014;Percent;0,00307;414
+The Rockaways;Carpool, Taxi, Other;2014;Percent;0,11958;414
+The Rockaways;Driving Alone;2014;Percent;0,42453;414
+The Rockaways;Public Transit;2014;Percent;0,3916;414
+The Rockaways;Walking;2014;Percent;0,03888;414
+The Rockaways;Work at Home;2014;Percent;0,02235;414
+Throgs Neck;Bicycle;2014;Percent;0,00401;210
+Throgs Neck;Carpool, Taxi, Other;2014;Percent;0,08244;210
+Throgs Neck;Driving Alone;2014;Percent;0,43154;210
+Throgs Neck;Public Transit;2014;Percent;0,41628;210
+Throgs Neck;Walking;2014;Percent;0,04379;210
+Throgs Neck;Work at Home;2014;Percent;0,02195;210
+Tottenville;Bicycle;2014;Percent;0;503
+Tottenville;Carpool, Taxi, Other;2014;Percent;0,08073;503
+Tottenville;Driving Alone;2014;Percent;0,65937;503
+Tottenville;Public Transit;2014;Percent;0,22014;503
+Tottenville;Walking;2014;Percent;0,01729;503
+Tottenville;Work at Home;2014;Percent;0,02247;503
+Unionport/Soundview;Work at Home;2014;Percent;0,02108;209
+Unionport/Soundview;Walking;2014;Percent;0,0488;209
+Unionport/Soundview;Public Transit;2014;Percent;0,61706;209
+Unionport/Soundview;Driving Alone;2014;Percent;0,2588;209
+Unionport/Soundview;Carpool, Taxi, Other;2014;Percent;0,05191;209
+Unionport/Soundview;Bicycle;2014;Percent;0,00236;209
+University Heights;Work at Home;2014;Percent;0,05357;205
+University Heights;Walking;2014;Percent;0,08201;205
+University Heights;Public Transit;2014;Percent;0,66785;205
+University Heights;Driving Alone;2014;Percent;0,13709;205
+University Heights;Carpool, Taxi, Other;2014;Percent;0,05948;205
+University Heights;Bicycle;2014;Percent;0;205
+Upper East Side;Work at Home;2014;Percent;0,06628;108
+Upper East Side;Walking;2014;Percent;0,20453;108
+Upper East Side;Public Transit;2014;Percent;0,57399;108
+Upper East Side;Driving Alone;2014;Percent;0,05636;108
+Upper East Side;Carpool, Taxi, Other;2014;Percent;0,09105;108
+Upper East Side;Bicycle;2014;Percent;0,00779;108
+Upper West Side;Bicycle;2014;Percent;0,01172;107
+Upper West Side;Carpool, Taxi, Other;2014;Percent;0,06223;107
+Upper West Side;Driving Alone;2014;Percent;0,06266;107
+Upper West Side;Public Transit;2014;Percent;0,68859;107
+Upper West Side;Walking;2014;Percent;0,10092;107
+Upper West Side;Work at Home;2014;Percent;0,07387;107
+Washington Heights;Work at Home;2014;Percent;0,04981;112
+Washington Heights;Walking;2014;Percent;0,11899;112
+Washington Heights;Public Transit;2014;Percent;0,69494;112
+Washington Heights;Driving Alone;2014;Percent;0,09082;112
+Washington Heights;Carpool, Taxi, Other;2014;Percent;0,04391;112
+Washington Heights;Bicycle;2014;Percent;0,00152;112
+Williamsbridge;Bicycle;2014;Percent;0,00306;212
+Williamsbridge;Carpool, Taxi, Other;2014;Percent;0,05718;212
+Williamsbridge;Driving Alone;2014;Percent;0,34724;212
+Williamsbridge;Public Transit;2014;Percent;0,52246;212
+Williamsbridge;Walking;2014;Percent;0,04932;212
+Williamsbridge;Work at Home;2014;Percent;0,02073;212
+Williamsburg/Greenpoint;Bicycle;2014;Percent;0,02733;301
+Williamsburg/Greenpoint;Carpool, Taxi, Other;2014;Percent;0,02914;301
+Williamsburg/Greenpoint;Driving Alone;2014;Percent;0,15139;301
+Williamsburg/Greenpoint;Public Transit;2014;Percent;0,62334;301
+Williamsburg/Greenpoint;Walking;2014;Percent;0,11152;301
+Williamsburg/Greenpoint;Work at Home;2014;Percent;0,05727;301
+Woodhaven;Work at Home;2014;Percent;0,03724;409
+Woodhaven;Walking;2014;Percent;0,06569;409
+Woodhaven;Public Transit;2014;Percent;0,5509;409
+Woodhaven;Driving Alone;2014;Percent;0,28453;409
+Woodhaven;Carpool, Taxi, Other;2014;Percent;0,06042;409
+Woodhaven;Bicycle;2014;Percent;0,00123;409
+Astoria;Work at Home;2015;Percent;0,03266;401
+Astoria;Walking;2015;Percent;0,06271;401
+Astoria;Public Transit;2015;Percent;0,71578;401
+Astoria;Driving Alone;2015;Percent;0,13971;401
+Astoria;Carpool, Taxi, Other;2015;Percent;0,0338;401
+Astoria;Bicycle;2015;Percent;0,01533;401
+Battery Park/Tribeca;Bicycle;2015;Percent;0,0377;101
+Battery Park/Tribeca;Carpool, Taxi, Other;2015;Percent;0,04347;101
+Battery Park/Tribeca;Driving Alone;2015;Percent;0,05509;101
+Battery Park/Tribeca;Public Transit;2015;Percent;0,48623;101
+Battery Park/Tribeca;Walking;2015;Percent;0,28963;101
+Battery Park/Tribeca;Work at Home;2015;Percent;0,08788;101
+Bay Ridge;Work at Home;2015;Percent;0,03924;310
+Bay Ridge;Walking;2015;Percent;0,08562;310
+Bay Ridge;Public Transit;2015;Percent;0,52407;310
+Bay Ridge;Driving Alone;2015;Percent;0,27278;310
+Bay Ridge;Carpool, Taxi, Other;2015;Percent;0,06867;310
+Bay Ridge;Bicycle;2015;Percent;0,00962;310
+Bayside;Work at Home;2015;Percent;0,0262;411
+Bayside;Walking;2015;Percent;0,01986;411
+Bayside;Public Transit;2015;Percent;0,27779;411
+Bayside;Driving Alone;2015;Percent;0,56207;411
+Bayside;Carpool, Taxi, Other;2015;Percent;0,11359;411
+Bayside;Bicycle;2015;Percent;0,00048;411
+Bedford Park;Work at Home;2015;Percent;0,02959;207
+Bedford Park;Walking;2015;Percent;0,0969;207
+Bedford Park;Public Transit;2015;Percent;0,66777;207
+Bedford Park;Driving Alone;2015;Percent;0,15705;207
+Bedford Park;Carpool, Taxi, Other;2015;Percent;0,04703;207
+Bedford Park;Bicycle;2015;Percent;0,00166;207
+Bedford Stuyvesant;Bicycle;2015;Percent;0,02704;303
+Bedford Stuyvesant;Carpool, Taxi, Other;2015;Percent;0,03019;303
+Bedford Stuyvesant;Driving Alone;2015;Percent;0,13483;303
+Bedford Stuyvesant;Public Transit;2015;Percent;0,65763;303
+Bedford Stuyvesant;Walking;2015;Percent;0,11028;303
+Bedford Stuyvesant;Work at Home;2015;Percent;0,04004;303
+Bensonhurst;Bicycle;2015;Percent;0,00662;311
+Bensonhurst;Carpool, Taxi, Other;2015;Percent;0,0742;311
+Bensonhurst;Driving Alone;2015;Percent;0,22136;311
+Bensonhurst;Public Transit;2015;Percent;0,5821;311
+Bensonhurst;Walking;2015;Percent;0,09446;311
+Bensonhurst;Work at Home;2015;Percent;0,02127;311
+Borough Park;Work at Home;2015;Percent;0,04317;312
+Borough Park;Walking;2015;Percent;0,21082;312
+Borough Park;Public Transit;2015;Percent;0,40276;312
+Borough Park;Driving Alone;2015;Percent;0,23623;312
+Borough Park;Carpool, Taxi, Other;2015;Percent;0,09522;312
+Borough Park;Bicycle;2015;Percent;0,0118;312
+Bushwick;Work at Home;2015;Percent;0,04615;304
+Bushwick;Walking;2015;Percent;0,07951;304
+Bushwick;Public Transit;2015;Percent;0,71357;304
+Bushwick;Driving Alone;2015;Percent;0,10224;304
+Bushwick;Carpool, Taxi, Other;2015;Percent;0,01993;304
+Bushwick;Bicycle;2015;Percent;0,03861;304
+Canarsie;Work at Home;2015;Percent;0,0178;318
+Canarsie;Walking;2015;Percent;0,03211;318
+Canarsie;Public Transit;2015;Percent;0,49387;318
+Canarsie;Driving Alone;2015;Percent;0,38486;318
+Canarsie;Carpool, Taxi, Other;2015;Percent;0,06647;318
+Canarsie;Bicycle;2015;Percent;0,00489;318
+Central Harlem;Work at Home;2015;Percent;0,04962;110
+Central Harlem;Walking;2015;Percent;0,07617;110
+Central Harlem;Public Transit;2015;Percent;0,75717;110
+Central Harlem;Driving Alone;2015;Percent;0,07774;110
+Central Harlem;Carpool, Taxi, Other;2015;Percent;0,03176;110
+Central Harlem;Bicycle;2015;Percent;0,00755;110
+Chelsea/Clinton;Work at Home;2015;Percent;0,05625;104
+Chelsea/Clinton;Walking;2015;Percent;0,33985;104
+Chelsea/Clinton;Public Transit;2015;Percent;0,49818;104
+Chelsea/Clinton;Driving Alone;2015;Percent;0,03076;104
+Chelsea/Clinton;Carpool, Taxi, Other;2015;Percent;0,04903;104
+Chelsea/Clinton;Bicycle;2015;Percent;0,02593;104
+Concourse/Highbridge;Bicycle;2015;Percent;0;204
+Concourse/Highbridge;Carpool, Taxi, Other;2015;Percent;0,03843;204
+Concourse/Highbridge;Driving Alone;2015;Percent;0,12747;204
+Concourse/Highbridge;Public Transit;2015;Percent;0,71023;204
+Concourse/Highbridge;Walking;2015;Percent;0,10599;204
+Concourse/Highbridge;Work at Home;2015;Percent;0,01789;204
+Coney Island;Bicycle;2015;Percent;0,01021;313
+Coney Island;Carpool, Taxi, Other;2015;Percent;0,06785;313
+Coney Island;Driving Alone;2015;Percent;0,23622;313
+Coney Island;Public Transit;2015;Percent;0,5529;313
+Coney Island;Walking;2015;Percent;0,10918;313
+Coney Island;Work at Home;2015;Percent;0,02364;313
+Crown Heights North;Work at Home;2015;Percent;0,04672;308
+Crown Heights North;Walking;2015;Percent;0,06161;308
+Crown Heights North;Public Transit;2015;Percent;0,72741;308
+Crown Heights North;Driving Alone;2015;Percent;0,11128;308
+Crown Heights North;Carpool, Taxi, Other;2015;Percent;0,03399;308
+Crown Heights North;Bicycle;2015;Percent;0,01899;308
+Crown Heights South;Bicycle;2015;Percent;0,01302;309
+Crown Heights South;Carpool, Taxi, Other;2015;Percent;0,03061;309
+Crown Heights South;Driving Alone;2015;Percent;0,1094;309
+Crown Heights South;Public Transit;2015;Percent;0,72923;309
+Crown Heights South;Walking;2015;Percent;0,07667;309
+Crown Heights South;Work at Home;2015;Percent;0,04107;309
+East Flatbush;Bicycle;2015;Percent;0,00176;317
+East Flatbush;Carpool, Taxi, Other;2015;Percent;0,0531;317
+East Flatbush;Driving Alone;2015;Percent;0,2269;317
+East Flatbush;Public Transit;2015;Percent;0,63848;317
+East Flatbush;Walking;2015;Percent;0,05133;317
+East Flatbush;Work at Home;2015;Percent;0,02842;317
+East New York;Bicycle;2015;Percent;0,00164;305
+East New York;Carpool, Taxi, Other;2015;Percent;0,04376;305
+East New York;Driving Alone;2015;Percent;0,22416;305
+East New York;Public Transit;2015;Percent;0,65017;305
+East New York;Walking;2015;Percent;0,04949;305
+East New York;Work at Home;2015;Percent;0,03078;305
+East Tremont;Bicycle;2015;Percent;0,00224;206
+East Tremont;Carpool, Taxi, Other;2015;Percent;0,06583;206
+East Tremont;Driving Alone;2015;Percent;0,17726;206
+East Tremont;Public Transit;2015;Percent;0,62945;206
+East Tremont;Walking;2015;Percent;0,09656;206
+East Tremont;Work at Home;2015;Percent;0,02865;206
+Elmhurst/Corona;Bicycle;2015;Percent;0,01255;404
+Elmhurst/Corona;Carpool, Taxi, Other;2015;Percent;0,05803;404
+Elmhurst/Corona;Driving Alone;2015;Percent;0,15526;404
+Elmhurst/Corona;Public Transit;2015;Percent;0,68176;404
+Elmhurst/Corona;Walking;2015;Percent;0,08402;404
+Elmhurst/Corona;Work at Home;2015;Percent;0,00838;404
+Flatbush/Midwood;Work at Home;2015;Percent;0,04359;314
+Flatbush/Midwood;Walking;2015;Percent;0,08677;314
+Flatbush/Midwood;Public Transit;2015;Percent;0,59479;314
+Flatbush/Midwood;Driving Alone;2015;Percent;0,19842;314
+Flatbush/Midwood;Carpool, Taxi, Other;2015;Percent;0,06483;314
+Flatbush/Midwood;Bicycle;2015;Percent;0,01161;314
+Flushing;Work at Home;2015;Percent;0,01516;407
+Flushing;Walking;2015;Percent;0,10351;407
+Flushing;Public Transit;2015;Percent;0,37201;407
+Flushing;Driving Alone;2015;Percent;0,36909;407
+Flushing;Carpool, Taxi, Other;2015;Percent;0,14022;407
+Flushing;Bicycle;2015;Percent;0;407
+Fort Greene/Brooklyn Hts;Work at Home;2015;Percent;0,081;302
+Fort Greene/Brooklyn Hts;Walking;2015;Percent;0,10498;302
+Fort Greene/Brooklyn Hts;Public Transit;2015;Percent;0,66518;302
+Fort Greene/Brooklyn Hts;Driving Alone;2015;Percent;0,07309;302
+Fort Greene/Brooklyn Hts;Carpool, Taxi, Other;2015;Percent;0,03103;302
+Fort Greene/Brooklyn Hts;Bicycle;2015;Percent;0,04472;302
+Fresh Meadows/Briarwood;Bicycle;2015;Percent;0;408
+Fresh Meadows/Briarwood;Carpool, Taxi, Other;2015;Percent;0,07819;408
+Fresh Meadows/Briarwood;Driving Alone;2015;Percent;0,35191;408
+Fresh Meadows/Briarwood;Public Transit;2015;Percent;0,47873;408
+Fresh Meadows/Briarwood;Walking;2015;Percent;0,05867;408
+Fresh Meadows/Briarwood;Work at Home;2015;Percent;0,0325;408
+Greenwich Village;Work at Home;2015;Percent;0,08788;102
+Greenwich Village;Walking;2015;Percent;0,28963;102
+Greenwich Village;Public Transit;2015;Percent;0,48623;102
+Greenwich Village;Driving Alone;2015;Percent;0,05509;102
+Greenwich Village;Carpool, Taxi, Other;2015;Percent;0,04347;102
+Greenwich Village;Bicycle;2015;Percent;0,0377;102
+Howard Beach;Bicycle;2015;Percent;0,00122;410
+Howard Beach;Carpool, Taxi, Other;2015;Percent;0,09704;410
+Howard Beach;Driving Alone;2015;Percent;0,40557;410
+Howard Beach;Public Transit;2015;Percent;0,44227;410
+Howard Beach;Walking;2015;Percent;0,0304;410
+Howard Beach;Work at Home;2015;Percent;0,0235;410
+Hunts Point;Bicycle;2015;Percent;0,0018;202
+Hunts Point;Carpool, Taxi, Other;2015;Percent;0,03244;202
+Hunts Point;Driving Alone;2015;Percent;0,148;202
+Hunts Point;Public Transit;2015;Percent;0,68499;202
+Hunts Point;Walking;2015;Percent;0,08926;202
+Hunts Point;Work at Home;2015;Percent;0,04351;202
+Jackson Heights;Work at Home;2015;Percent;0,01592;403
+Jackson Heights;Walking;2015;Percent;0,07409;403
+Jackson Heights;Public Transit;2015;Percent;0,62968;403
+Jackson Heights;Driving Alone;2015;Percent;0,20203;403
+Jackson Heights;Carpool, Taxi, Other;2015;Percent;0,07278;403
+Jackson Heights;Bicycle;2015;Percent;0,00551;403
+Jamaica/St. Albans;Bicycle;2015;Percent;0,00289;412
+Jamaica/St. Albans;Carpool, Taxi, Other;2015;Percent;0,04789;412
+Jamaica/St. Albans;Driving Alone;2015;Percent;0,37025;412
+Jamaica/St. Albans;Public Transit;2015;Percent;0,51648;412
+Jamaica/St. Albans;Walking;2015;Percent;0,04282;412
+Jamaica/St. Albans;Work at Home;2015;Percent;0,01967;412
+Lower East Side;Bicycle;2015;Percent;0,0421;103
+Lower East Side;Carpool, Taxi, Other;2015;Percent;0,0299;103
+Lower East Side;Driving Alone;2015;Percent;0,0537;103
+Lower East Side;Public Transit;2015;Percent;0,5772;103
+Lower East Side;Walking;2015;Percent;0,25793;103
+Lower East Side;Work at Home;2015;Percent;0,03916;103
+Manhattanville;Bicycle;2015;Percent;0,01443;109
+Manhattanville;Carpool, Taxi, Other;2015;Percent;0,03605;109
+Manhattanville;Driving Alone;2015;Percent;0,06709;109
+Manhattanville;Public Transit;2015;Percent;0,71489;109
+Manhattanville;Walking;2015;Percent;0,11056;109
+Manhattanville;Work at Home;2015;Percent;0,05698;109
+Midtown Business District;Bicycle;2015;Percent;0,02593;105
+Midtown Business District;Carpool, Taxi, Other;2015;Percent;0,04903;105
+Midtown Business District;Driving Alone;2015;Percent;0,03076;105
+Midtown Business District;Public Transit;2015;Percent;0,49818;105
+Midtown Business District;Walking;2015;Percent;0,33985;105
+Midtown Business District;Work at Home;2015;Percent;0,05625;105
+Morrisania;Work at Home;2015;Percent;0,02865;203
+Morrisania;Walking;2015;Percent;0,09656;203
+Morrisania;Public Transit;2015;Percent;0,62945;203
+Morrisania;Driving Alone;2015;Percent;0,17726;203
+Morrisania;Carpool, Taxi, Other;2015;Percent;0,06583;203
+Morrisania;Bicycle;2015;Percent;0,00224;203
+Mott Haven;Work at Home;2015;Percent;0,04351;201
+Mott Haven;Walking;2015;Percent;0,08926;201
+Mott Haven;Public Transit;2015;Percent;0,68499;201
+Mott Haven;Driving Alone;2015;Percent;0,148;201
+Mott Haven;Carpool, Taxi, Other;2015;Percent;0,03244;201
+Mott Haven;Bicycle;2015;Percent;0,0018;201
+Murray Hill/Stuyvesant;Work at Home;2015;Percent;0,08544;106
+Murray Hill/Stuyvesant;Walking;2015;Percent;0,35428;106
+Murray Hill/Stuyvesant;Public Transit;2015;Percent;0,47315;106
+Murray Hill/Stuyvesant;Driving Alone;2015;Percent;0,02527;106
+Murray Hill/Stuyvesant;Carpool, Taxi, Other;2015;Percent;0,04852;106
+Murray Hill/Stuyvesant;Bicycle;2015;Percent;0,01334;106
+Park Slope;Work at Home;2015;Percent;0,09337;306
+Park Slope;Walking;2015;Percent;0,08949;306
+Park Slope;Public Transit;2015;Percent;0,68615;306
+Park Slope;Driving Alone;2015;Percent;0,08025;306
+Park Slope;Carpool, Taxi, Other;2015;Percent;0,02513;306
+Park Slope;Bicycle;2015;Percent;0,02562;306
+Pelham Parkway;Work at Home;2015;Percent;0,03514;211
+Pelham Parkway;Walking;2015;Percent;0,06681;211
+Pelham Parkway;Public Transit;2015;Percent;0,57815;211
+Pelham Parkway;Driving Alone;2015;Percent;0,25425;211
+Pelham Parkway;Carpool, Taxi, Other;2015;Percent;0,05993;211
+Pelham Parkway;Bicycle;2015;Percent;0,00572;211
+Queens Village;Work at Home;2015;Percent;0,02041;413
+Queens Village;Walking;2015;Percent;0,02046;413
+Queens Village;Public Transit;2015;Percent;0,39019;413
+Queens Village;Driving Alone;2015;Percent;0,50528;413
+Queens Village;Carpool, Taxi, Other;2015;Percent;0,06064;413
+Queens Village;Bicycle;2015;Percent;0,00302;413
+Rego Park/Forest Hills;Bicycle;2015;Percent;0,00429;406
+Rego Park/Forest Hills;Carpool, Taxi, Other;2015;Percent;0,0461;406
+Rego Park/Forest Hills;Driving Alone;2015;Percent;0,2239;406
+Rego Park/Forest Hills;Public Transit;2015;Percent;0,6177;406
+Rego Park/Forest Hills;Walking;2015;Percent;0,07235;406
+Rego Park/Forest Hills;Work at Home;2015;Percent;0,03567;406
+Ridgewood/Glendale;Work at Home;2015;Percent;0,0263;405
+Ridgewood/Glendale;Walking;2015;Percent;0,06842;405
+Ridgewood/Glendale;Public Transit;2015;Percent;0,52585;405
+Ridgewood/Glendale;Driving Alone;2015;Percent;0,30471;405
+Ridgewood/Glendale;Carpool, Taxi, Other;2015;Percent;0,06893;405
+Ridgewood/Glendale;Bicycle;2015;Percent;0,00579;405
+Riverdale;Bicycle;2015;Percent;0,0043;208
+Riverdale;Carpool, Taxi, Other;2015;Percent;0,051;208
+Riverdale;Driving Alone;2015;Percent;0,23663;208
+Riverdale;Public Transit;2015;Percent;0,5681;208
+Riverdale;Walking;2015;Percent;0,07442;208
+Riverdale;Work at Home;2015;Percent;0,06555;208
+Sheepshead Bay;Bicycle;2015;Percent;0,00651;315
+Sheepshead Bay;Carpool, Taxi, Other;2015;Percent;0,07499;315
+Sheepshead Bay;Driving Alone;2015;Percent;0,27859;315
+Sheepshead Bay;Public Transit;2015;Percent;0,52127;315
+Sheepshead Bay;Walking;2015;Percent;0,08596;315
+Sheepshead Bay;Work at Home;2015;Percent;0,0327;315
+South Beach;Work at Home;2015;Percent;0,02705;502
+South Beach;Walking;2015;Percent;0,01858;502
+South Beach;Public Transit;2015;Percent;0,27827;502
+South Beach;Driving Alone;2015;Percent;0,5673;502
+South Beach;Carpool, Taxi, Other;2015;Percent;0,10614;502
+South Beach;Bicycle;2015;Percent;0,00265;502
+St. George;Bicycle;2015;Percent;0,00229;501
+St. George;Carpool, Taxi, Other;2015;Percent;0,07802;501
+St. George;Driving Alone;2015;Percent;0,45965;501
+St. George;Public Transit;2015;Percent;0,39524;501
+St. George;Walking;2015;Percent;0,04087;501
+St. George;Work at Home;2015;Percent;0,02393;501
+Sunnyside/Woodside;Bicycle;2015;Percent;0,00918;402
+Sunnyside/Woodside;Carpool, Taxi, Other;2015;Percent;0,05623;402
+Sunnyside/Woodside;Driving Alone;2015;Percent;0,17101;402
+Sunnyside/Woodside;Public Transit;2015;Percent;0,68875;402
+Sunnyside/Woodside;Walking;2015;Percent;0,04572;402
+Sunnyside/Woodside;Work at Home;2015;Percent;0,02911;402
+Sunset Park;Bicycle;2015;Percent;0,01829;307
+Sunset Park;Carpool, Taxi, Other;2015;Percent;0,06418;307
+Sunset Park;Driving Alone;2015;Percent;0,0952;307
+Sunset Park;Public Transit;2015;Percent;0,64503;307
+Sunset Park;Walking;2015;Percent;0,14166;307
+Sunset Park;Work at Home;2015;Percent;0,03563;307
+The Rockaways;Bicycle;2015;Percent;0,00423;414
+The Rockaways;Carpool, Taxi, Other;2015;Percent;0,08741;414
+The Rockaways;Driving Alone;2015;Percent;0,46287;414
+The Rockaways;Public Transit;2015;Percent;0,37587;414
+The Rockaways;Walking;2015;Percent;0,04623;414
+The Rockaways;Work at Home;2015;Percent;0,02339;414
+Throgs Neck;Bicycle;2015;Percent;0;210
+Throgs Neck;Carpool, Taxi, Other;2015;Percent;0,07579;210
+Throgs Neck;Driving Alone;2015;Percent;0,40842;210
+Throgs Neck;Public Transit;2015;Percent;0,44548;210
+Throgs Neck;Walking;2015;Percent;0,04645;210
+Throgs Neck;Work at Home;2015;Percent;0,02386;210
+Tottenville;Bicycle;2015;Percent;0;503
+Tottenville;Carpool, Taxi, Other;2015;Percent;0,06579;503
+Tottenville;Driving Alone;2015;Percent;0,6544;503
+Tottenville;Public Transit;2015;Percent;0,24844;503
+Tottenville;Walking;2015;Percent;0,01133;503
+Tottenville;Work at Home;2015;Percent;0,02004;503
+Unionport/Soundview;Work at Home;2015;Percent;0,02069;209
+Unionport/Soundview;Walking;2015;Percent;0,05151;209
+Unionport/Soundview;Public Transit;2015;Percent;0,63084;209
+Unionport/Soundview;Driving Alone;2015;Percent;0,23234;209
+Unionport/Soundview;Carpool, Taxi, Other;2015;Percent;0,05745;209
+Unionport/Soundview;Bicycle;2015;Percent;0,00716;209
+University Heights;Work at Home;2015;Percent;0,03283;205
+University Heights;Walking;2015;Percent;0,07104;205
+University Heights;Public Transit;2015;Percent;0,69751;205
+University Heights;Driving Alone;2015;Percent;0,14563;205
+University Heights;Carpool, Taxi, Other;2015;Percent;0,05041;205
+University Heights;Bicycle;2015;Percent;0,00259;205
+Upper East Side;Work at Home;2015;Percent;0,07428;108
+Upper East Side;Walking;2015;Percent;0,19867;108
+Upper East Side;Public Transit;2015;Percent;0,55044;108
+Upper East Side;Driving Alone;2015;Percent;0,07493;108
+Upper East Side;Carpool, Taxi, Other;2015;Percent;0,08361;108
+Upper East Side;Bicycle;2015;Percent;0,01808;108
+Upper West Side;Bicycle;2015;Percent;0,02393;107
+Upper West Side;Carpool, Taxi, Other;2015;Percent;0,07009;107
+Upper West Side;Driving Alone;2015;Percent;0,05079;107
+Upper West Side;Public Transit;2015;Percent;0,64507;107
+Upper West Side;Walking;2015;Percent;0,11056;107
+Upper West Side;Work at Home;2015;Percent;0,09956;107
+Washington Heights;Work at Home;2015;Percent;0,06383;112
+Washington Heights;Walking;2015;Percent;0,10162;112
+Washington Heights;Public Transit;2015;Percent;0,67461;112
+Washington Heights;Driving Alone;2015;Percent;0,07876;112
+Washington Heights;Carpool, Taxi, Other;2015;Percent;0,06462;112
+Washington Heights;Bicycle;2015;Percent;0,01656;112
+Williamsbridge;Bicycle;2015;Percent;0,00242;212
+Williamsbridge;Carpool, Taxi, Other;2015;Percent;0,08218;212
+Williamsbridge;Driving Alone;2015;Percent;0,30104;212
+Williamsbridge;Public Transit;2015;Percent;0,53307;212
+Williamsbridge;Walking;2015;Percent;0,0634;212
+Williamsbridge;Work at Home;2015;Percent;0,01789;212
+Williamsburg/Greenpoint;Bicycle;2015;Percent;0,03286;301
+Williamsburg/Greenpoint;Carpool, Taxi, Other;2015;Percent;0,0304;301
+Williamsburg/Greenpoint;Driving Alone;2015;Percent;0,09475;301
+Williamsburg/Greenpoint;Public Transit;2015;Percent;0,67152;301
+Williamsburg/Greenpoint;Walking;2015;Percent;0,12505;301
+Williamsburg/Greenpoint;Work at Home;2015;Percent;0,04542;301
+Woodhaven;Work at Home;2015;Percent;0,01745;409
+Woodhaven;Walking;2015;Percent;0,05541;409
+Woodhaven;Public Transit;2015;Percent;0,54809;409
+Woodhaven;Driving Alone;2015;Percent;0,30294;409
+Woodhaven;Carpool, Taxi, Other;2015;Percent;0,07256;409
+Woodhaven;Bicycle;2015;Percent;0,00354;409
+Astoria;Work at Home;2016;Percent;0,0315;401
+Astoria;Walking;2016;Percent;0,08275;401
+Astoria;Public Transit;2016;Percent;0,7056;401
+Astoria;Driving Alone;2016;Percent;0,1269;401
+Astoria;Carpool, Taxi, Other;2016;Percent;0,04203;401
+Astoria;Bicycle;2016;Percent;0,01121;401
+Battery Park/Tribeca;Bicycle;2016;Percent;0,0193;101
+Battery Park/Tribeca;Carpool, Taxi, Other;2016;Percent;0,05293;101
+Battery Park/Tribeca;Driving Alone;2016;Percent;0,04996;101
+Battery Park/Tribeca;Public Transit;2016;Percent;0,49825;101
+Battery Park/Tribeca;Walking;2016;Percent;0,28455;101
+Battery Park/Tribeca;Work at Home;2016;Percent;0,09501;101
+Bay Ridge;Work at Home;2016;Percent;0,0391;310
+Bay Ridge;Walking;2016;Percent;0,10048;310
+Bay Ridge;Public Transit;2016;Percent;0,56472;310
+Bay Ridge;Driving Alone;2016;Percent;0,21571;310
+Bay Ridge;Carpool, Taxi, Other;2016;Percent;0,07073;310
+Bay Ridge;Bicycle;2016;Percent;0,00926;310
+Bayside;Work at Home;2016;Percent;0,03411;411
+Bayside;Walking;2016;Percent;0,03572;411
+Bayside;Public Transit;2016;Percent;0,36508;411
+Bayside;Driving Alone;2016;Percent;0,45167;411
+Bayside;Carpool, Taxi, Other;2016;Percent;0,11187;411
+Bayside;Bicycle;2016;Percent;0,00155;411
+Bedford Park;Work at Home;2016;Percent;0,03785;207
+Bedford Park;Walking;2016;Percent;0,10366;207
+Bedford Park;Public Transit;2016;Percent;0,67522;207
+Bedford Park;Driving Alone;2016;Percent;0,13939;207
+Bedford Park;Carpool, Taxi, Other;2016;Percent;0,04076;207
+Bedford Park;Bicycle;2016;Percent;0,00311;207
+Bedford Stuyvesant;Bicycle;2016;Percent;0,02726;303
+Bedford Stuyvesant;Carpool, Taxi, Other;2016;Percent;0,02506;303
+Bedford Stuyvesant;Driving Alone;2016;Percent;0,11416;303
+Bedford Stuyvesant;Public Transit;2016;Percent;0,71792;303
+Bedford Stuyvesant;Walking;2016;Percent;0,07024;303
+Bedford Stuyvesant;Work at Home;2016;Percent;0,04535;303
+Bensonhurst;Bicycle;2016;Percent;0,00643;311
+Bensonhurst;Carpool, Taxi, Other;2016;Percent;0,05985;311
+Bensonhurst;Driving Alone;2016;Percent;0,23397;311
+Bensonhurst;Public Transit;2016;Percent;0,58545;311
+Bensonhurst;Walking;2016;Percent;0,07369;311
+Bensonhurst;Work at Home;2016;Percent;0,0406;311
+Borough Park;Work at Home;2016;Percent;0,04552;312
+Borough Park;Walking;2016;Percent;0,19522;312
+Borough Park;Public Transit;2016;Percent;0,45427;312
+Borough Park;Driving Alone;2016;Percent;0,19809;312
+Borough Park;Carpool, Taxi, Other;2016;Percent;0,09612;312
+Borough Park;Bicycle;2016;Percent;0,01078;312
+Brownsville;Work at Home;2016;Percent;0,02139;316
+Brownsville;Walking;2016;Percent;0,04427;316
+Brownsville;Public Transit;2016;Percent;0,6944;316
+Brownsville;Driving Alone;2016;Percent;0,18409;316
+Brownsville;Carpool, Taxi, Other;2016;Percent;0,04884;316
+Brownsville;Bicycle;2016;Percent;0,00701;316
+Bushwick;Work at Home;2016;Percent;0,04383;304
+Bushwick;Walking;2016;Percent;0,07034;304
+Bushwick;Public Transit;2016;Percent;0,70143;304
+Bushwick;Driving Alone;2016;Percent;0,11092;304
+Bushwick;Carpool, Taxi, Other;2016;Percent;0,03788;304
+Bushwick;Bicycle;2016;Percent;0,03559;304
+Canarsie;Work at Home;2016;Percent;0,02553;318
+Canarsie;Walking;2016;Percent;0,03259;318
+Canarsie;Public Transit;2016;Percent;0,4841;318
+Canarsie;Driving Alone;2016;Percent;0,38598;318
+Canarsie;Carpool, Taxi, Other;2016;Percent;0,06673;318
+Canarsie;Bicycle;2016;Percent;0,00507;318
+Central Harlem;Work at Home;2016;Percent;0,06625;110
+Central Harlem;Walking;2016;Percent;0,05259;110
+Central Harlem;Public Transit;2016;Percent;0,76978;110
+Central Harlem;Driving Alone;2016;Percent;0,05886;110
+Central Harlem;Carpool, Taxi, Other;2016;Percent;0,03557;110
+Central Harlem;Bicycle;2016;Percent;0,01695;110
+Chelsea/Clinton;Work at Home;2016;Percent;0,06724;104
+Chelsea/Clinton;Walking;2016;Percent;0,34731;104
+Chelsea/Clinton;Public Transit;2016;Percent;0,46383;104
+Chelsea/Clinton;Driving Alone;2016;Percent;0,0477;104
+Chelsea/Clinton;Carpool, Taxi, Other;2016;Percent;0,03961;104
+Chelsea/Clinton;Bicycle;2016;Percent;0,03432;104
+Concourse/Highbridge;Bicycle;2016;Percent;0,00059;204
+Concourse/Highbridge;Carpool, Taxi, Other;2016;Percent;0,06997;204
+Concourse/Highbridge;Driving Alone;2016;Percent;0,12772;204
+Concourse/Highbridge;Public Transit;2016;Percent;0,68832;204
+Concourse/Highbridge;Walking;2016;Percent;0,07723;204
+Concourse/Highbridge;Work at Home;2016;Percent;0,03617;204
+Coney Island;Bicycle;2016;Percent;0,00343;313
+Coney Island;Carpool, Taxi, Other;2016;Percent;0,06154;313
+Coney Island;Driving Alone;2016;Percent;0,26544;313
+Coney Island;Public Transit;2016;Percent;0,52534;313
+Coney Island;Walking;2016;Percent;0,07445;313
+Coney Island;Work at Home;2016;Percent;0,0698;313
+Crown Heights North;Work at Home;2016;Percent;0,06031;308
+Crown Heights North;Walking;2016;Percent;0,06508;308
+Crown Heights North;Public Transit;2016;Percent;0,70959;308
+Crown Heights North;Driving Alone;2016;Percent;0,10364;308
+Crown Heights North;Carpool, Taxi, Other;2016;Percent;0,03377;308
+Crown Heights North;Bicycle;2016;Percent;0,02761;308
+Crown Heights South;Bicycle;2016;Percent;0,02635;309
+Crown Heights South;Carpool, Taxi, Other;2016;Percent;0,03972;309
+Crown Heights South;Driving Alone;2016;Percent;0,14193;309
+Crown Heights South;Public Transit;2016;Percent;0,6866;309
+Crown Heights South;Walking;2016;Percent;0,05585;309
+Crown Heights South;Work at Home;2016;Percent;0,04955;309
+East Flatbush;Bicycle;2016;Percent;0,00135;317
+East Flatbush;Carpool, Taxi, Other;2016;Percent;0,04947;317
+East Flatbush;Driving Alone;2016;Percent;0,2339;317
+East Flatbush;Public Transit;2016;Percent;0,63372;317
+East Flatbush;Walking;2016;Percent;0,05904;317
+East Flatbush;Work at Home;2016;Percent;0,02252;317
+East Harlem;Bicycle;2016;Percent;0,0056;111
+East Harlem;Carpool, Taxi, Other;2016;Percent;0,02203;111
+East Harlem;Driving Alone;2016;Percent;0,08661;111
+East Harlem;Public Transit;2016;Percent;0,65189;111
+East Harlem;Walking;2016;Percent;0,1985;111
+East Harlem;Work at Home;2016;Percent;0,03537;111
+East New York;Bicycle;2016;Percent;0,00113;305
+East New York;Carpool, Taxi, Other;2016;Percent;0,05508;305
+East New York;Driving Alone;2016;Percent;0,24895;305
+East New York;Public Transit;2016;Percent;0,63956;305
+East New York;Walking;2016;Percent;0,03709;305
+East New York;Work at Home;2016;Percent;0,01819;305
+East Tremont;Bicycle;2016;Percent;0,00125;206
+East Tremont;Carpool, Taxi, Other;2016;Percent;0,04335;206
+East Tremont;Driving Alone;2016;Percent;0,16636;206
+East Tremont;Public Transit;2016;Percent;0,64129;206
+East Tremont;Walking;2016;Percent;0,10342;206
+East Tremont;Work at Home;2016;Percent;0,04433;206
+Elmhurst/Corona;Bicycle;2016;Percent;0,00574;404
+Elmhurst/Corona;Carpool, Taxi, Other;2016;Percent;0,06994;404
+Elmhurst/Corona;Driving Alone;2016;Percent;0,12975;404
+Elmhurst/Corona;Public Transit;2016;Percent;0,65747;404
+Elmhurst/Corona;Walking;2016;Percent;0,11449;404
+Elmhurst/Corona;Work at Home;2016;Percent;0,02261;404
+Flatbush/Midwood;Work at Home;2016;Percent;0,04121;314
+Flatbush/Midwood;Walking;2016;Percent;0,10272;314
+Flatbush/Midwood;Public Transit;2016;Percent;0,61974;314
+Flatbush/Midwood;Driving Alone;2016;Percent;0,16717;314
+Flatbush/Midwood;Carpool, Taxi, Other;2016;Percent;0,04962;314
+Flatbush/Midwood;Bicycle;2016;Percent;0,01954;314
+Flushing;Work at Home;2016;Percent;0,01776;407
+Flushing;Walking;2016;Percent;0,09596;407
+Flushing;Public Transit;2016;Percent;0,38638;407
+Flushing;Driving Alone;2016;Percent;0,34421;407
+Flushing;Carpool, Taxi, Other;2016;Percent;0,15051;407
+Flushing;Bicycle;2016;Percent;0,00517;407
+Fort Greene/Brooklyn Hts;Work at Home;2016;Percent;0,0808;302
+Fort Greene/Brooklyn Hts;Walking;2016;Percent;0,10276;302
+Fort Greene/Brooklyn Hts;Public Transit;2016;Percent;0,67273;302
+Fort Greene/Brooklyn Hts;Driving Alone;2016;Percent;0,07445;302
+Fort Greene/Brooklyn Hts;Carpool, Taxi, Other;2016;Percent;0,02957;302
+Fort Greene/Brooklyn Hts;Bicycle;2016;Percent;0,0397;302
+Fresh Meadows/Briarwood;Bicycle;2016;Percent;0,0025;408
+Fresh Meadows/Briarwood;Carpool, Taxi, Other;2016;Percent;0,08557;408
+Fresh Meadows/Briarwood;Driving Alone;2016;Percent;0,4176;408
+Fresh Meadows/Briarwood;Public Transit;2016;Percent;0,40878;408
+Fresh Meadows/Briarwood;Walking;2016;Percent;0,05095;408
+Fresh Meadows/Briarwood;Work at Home;2016;Percent;0,03461;408
+Greenwich Village;Work at Home;2016;Percent;0,09501;102
+Greenwich Village;Walking;2016;Percent;0,28455;102
+Greenwich Village;Public Transit;2016;Percent;0,49825;102
+Greenwich Village;Driving Alone;2016;Percent;0,04996;102
+Greenwich Village;Carpool, Taxi, Other;2016;Percent;0,05293;102
+Greenwich Village;Bicycle;2016;Percent;0,0193;102
+Howard Beach;Bicycle;2016;Percent;0;410
+Howard Beach;Carpool, Taxi, Other;2016;Percent;0,08073;410
+Howard Beach;Driving Alone;2016;Percent;0,44684;410
+Howard Beach;Public Transit;2016;Percent;0,42263;410
+Howard Beach;Walking;2016;Percent;0,03067;410
+Howard Beach;Work at Home;2016;Percent;0,01913;410
+Hunts Point;Bicycle;2016;Percent;0,01361;202
+Hunts Point;Carpool, Taxi, Other;2016;Percent;0,06197;202
+Hunts Point;Driving Alone;2016;Percent;0,14145;202
+Hunts Point;Public Transit;2016;Percent;0,67894;202
+Hunts Point;Walking;2016;Percent;0,08369;202
+Hunts Point;Work at Home;2016;Percent;0,02034;202
+Jackson Heights;Work at Home;2016;Percent;0,01743;403
+Jackson Heights;Walking;2016;Percent;0,06415;403
+Jackson Heights;Public Transit;2016;Percent;0,66476;403
+Jackson Heights;Driving Alone;2016;Percent;0,18394;403
+Jackson Heights;Carpool, Taxi, Other;2016;Percent;0,06725;403
+Jackson Heights;Bicycle;2016;Percent;0,00246;403
+Jamaica/St. Albans;Bicycle;2016;Percent;0,00016;412
+Jamaica/St. Albans;Carpool, Taxi, Other;2016;Percent;0,05801;412
+Jamaica/St. Albans;Driving Alone;2016;Percent;0,37987;412
+Jamaica/St. Albans;Public Transit;2016;Percent;0,50206;412
+Jamaica/St. Albans;Walking;2016;Percent;0,04231;412
+Jamaica/St. Albans;Work at Home;2016;Percent;0,01759;412
+Lower East Side;Bicycle;2016;Percent;0,04208;103
+Lower East Side;Carpool, Taxi, Other;2016;Percent;0,06208;103
+Lower East Side;Driving Alone;2016;Percent;0,06035;103
+Lower East Side;Public Transit;2016;Percent;0,54754;103
+Lower East Side;Walking;2016;Percent;0,23117;103
+Lower East Side;Work at Home;2016;Percent;0,05678;103
+Manhattanville;Bicycle;2016;Percent;0,02982;109
+Manhattanville;Carpool, Taxi, Other;2016;Percent;0,0492;109
+Manhattanville;Driving Alone;2016;Percent;0,0405;109
+Manhattanville;Public Transit;2016;Percent;0,71317;109
+Manhattanville;Walking;2016;Percent;0,09656;109
+Manhattanville;Work at Home;2016;Percent;0,07076;109
+Midtown Business District;Bicycle;2016;Percent;0,03432;105
+Midtown Business District;Carpool, Taxi, Other;2016;Percent;0,03961;105
+Midtown Business District;Driving Alone;2016;Percent;0,0477;105
+Midtown Business District;Public Transit;2016;Percent;0,46383;105
+Midtown Business District;Walking;2016;Percent;0,34731;105
+Midtown Business District;Work at Home;2016;Percent;0,06724;105
+Morrisania;Work at Home;2016;Percent;0,04433;203
+Morrisania;Walking;2016;Percent;0,10342;203
+Morrisania;Public Transit;2016;Percent;0,64129;203
+Morrisania;Driving Alone;2016;Percent;0,16636;203
+Morrisania;Carpool, Taxi, Other;2016;Percent;0,04335;203
+Morrisania;Bicycle;2016;Percent;0,00125;203
+Mott Haven;Work at Home;2016;Percent;0,02034;201
+Mott Haven;Walking;2016;Percent;0,08369;201
+Mott Haven;Public Transit;2016;Percent;0,67894;201
+Mott Haven;Driving Alone;2016;Percent;0,14145;201
+Mott Haven;Carpool, Taxi, Other;2016;Percent;0,06197;201
+Mott Haven;Bicycle;2016;Percent;0,01361;201
+Murray Hill/Stuyvesant;Work at Home;2016;Percent;0,06034;106
+Murray Hill/Stuyvesant;Walking;2016;Percent;0,3598;106
+Murray Hill/Stuyvesant;Public Transit;2016;Percent;0,47941;106
+Murray Hill/Stuyvesant;Driving Alone;2016;Percent;0,03391;106
+Murray Hill/Stuyvesant;Carpool, Taxi, Other;2016;Percent;0,0473;106
+Murray Hill/Stuyvesant;Bicycle;2016;Percent;0,01923;106
+Park Slope;Work at Home;2016;Percent;0,10055;306
+Park Slope;Walking;2016;Percent;0,08346;306
+Park Slope;Public Transit;2016;Percent;0,6977;306
+Park Slope;Driving Alone;2016;Percent;0,06667;306
+Park Slope;Carpool, Taxi, Other;2016;Percent;0,02063;306
+Park Slope;Bicycle;2016;Percent;0,03099;306
+Pelham Parkway;Work at Home;2016;Percent;0,04338;211
+Pelham Parkway;Walking;2016;Percent;0,06384;211
+Pelham Parkway;Public Transit;2016;Percent;0,50317;211
+Pelham Parkway;Driving Alone;2016;Percent;0,29722;211
+Pelham Parkway;Carpool, Taxi, Other;2016;Percent;0,0826;211
+Pelham Parkway;Bicycle;2016;Percent;0,00979;211
+Queens Village;Work at Home;2016;Percent;0,02426;413
+Queens Village;Walking;2016;Percent;0,02141;413
+Queens Village;Public Transit;2016;Percent;0,36639;413
+Queens Village;Driving Alone;2016;Percent;0,49571;413
+Queens Village;Carpool, Taxi, Other;2016;Percent;0,0899;413
+Queens Village;Bicycle;2016;Percent;0,00234;413
+Rego Park/Forest Hills;Bicycle;2016;Percent;0,00193;406
+Rego Park/Forest Hills;Carpool, Taxi, Other;2016;Percent;0,07121;406
+Rego Park/Forest Hills;Driving Alone;2016;Percent;0,22378;406
+Rego Park/Forest Hills;Public Transit;2016;Percent;0,58943;406
+Rego Park/Forest Hills;Walking;2016;Percent;0,05342;406
+Rego Park/Forest Hills;Work at Home;2016;Percent;0,06022;406
+Ridgewood/Glendale;Work at Home;2016;Percent;0,01898;405
+Ridgewood/Glendale;Walking;2016;Percent;0,0745;405
+Ridgewood/Glendale;Public Transit;2016;Percent;0,52863;405
+Ridgewood/Glendale;Driving Alone;2016;Percent;0,31472;405
+Ridgewood/Glendale;Carpool, Taxi, Other;2016;Percent;0,05725;405
+Ridgewood/Glendale;Bicycle;2016;Percent;0,00592;405
+Riverdale;Bicycle;2016;Percent;0,00509;208
+Riverdale;Carpool, Taxi, Other;2016;Percent;0,04653;208
+Riverdale;Driving Alone;2016;Percent;0,27657;208
+Riverdale;Public Transit;2016;Percent;0,55903;208
+Riverdale;Walking;2016;Percent;0,06432;208
+Riverdale;Work at Home;2016;Percent;0,04847;208
+Sheepshead Bay;Bicycle;2016;Percent;0,01579;315
+Sheepshead Bay;Carpool, Taxi, Other;2016;Percent;0,0819;315
+Sheepshead Bay;Driving Alone;2016;Percent;0,28059;315
+Sheepshead Bay;Public Transit;2016;Percent;0,46826;315
+Sheepshead Bay;Walking;2016;Percent;0,0769;315
+Sheepshead Bay;Work at Home;2016;Percent;0,07656;315
+South Beach;Work at Home;2016;Percent;0,03653;502
+South Beach;Walking;2016;Percent;0,03469;502
+South Beach;Public Transit;2016;Percent;0,28819;502
+South Beach;Driving Alone;2016;Percent;0,54685;502
+South Beach;Carpool, Taxi, Other;2016;Percent;0,09296;502
+South Beach;Bicycle;2016;Percent;0,00077;502
+St. George;Bicycle;2016;Percent;0,00031;501
+St. George;Carpool, Taxi, Other;2016;Percent;0,07227;501
+St. George;Driving Alone;2016;Percent;0,47852;501
+St. George;Public Transit;2016;Percent;0,38785;501
+St. George;Walking;2016;Percent;0,03531;501
+St. George;Work at Home;2016;Percent;0,02574;501
+Sunnyside/Woodside;Bicycle;2016;Percent;0,00913;402
+Sunnyside/Woodside;Carpool, Taxi, Other;2016;Percent;0,04159;402
+Sunnyside/Woodside;Driving Alone;2016;Percent;0,14397;402
+Sunnyside/Woodside;Public Transit;2016;Percent;0,7159;402
+Sunnyside/Woodside;Walking;2016;Percent;0,05239;402
+Sunnyside/Woodside;Work at Home;2016;Percent;0,03702;402
+Sunset Park;Bicycle;2016;Percent;0,01763;307
+Sunset Park;Carpool, Taxi, Other;2016;Percent;0,08158;307
+Sunset Park;Driving Alone;2016;Percent;0,10087;307
+Sunset Park;Public Transit;2016;Percent;0,64232;307
+Sunset Park;Walking;2016;Percent;0,13781;307
+Sunset Park;Work at Home;2016;Percent;0,01978;307
+The Rockaways;Bicycle;2016;Percent;0,00192;414
+The Rockaways;Carpool, Taxi, Other;2016;Percent;0,04975;414
+The Rockaways;Driving Alone;2016;Percent;0,47128;414
+The Rockaways;Public Transit;2016;Percent;0,39782;414
+The Rockaways;Walking;2016;Percent;0,05668;414
+The Rockaways;Work at Home;2016;Percent;0,02255;414
+Throgs Neck;Bicycle;2016;Percent;0;210
+Throgs Neck;Carpool, Taxi, Other;2016;Percent;0,06676;210
+Throgs Neck;Driving Alone;2016;Percent;0,45292;210
+Throgs Neck;Public Transit;2016;Percent;0,41494;210
+Throgs Neck;Walking;2016;Percent;0,03809;210
+Throgs Neck;Work at Home;2016;Percent;0,02728;210
+Tottenville;Bicycle;2016;Percent;0;503
+Tottenville;Carpool, Taxi, Other;2016;Percent;0,06422;503
+Tottenville;Driving Alone;2016;Percent;0,67365;503
+Tottenville;Public Transit;2016;Percent;0,22907;503
+Tottenville;Walking;2016;Percent;0,00766;503
+Tottenville;Work at Home;2016;Percent;0,0254;503
+Unionport/Soundview;Work at Home;2016;Percent;0,02148;209
+Unionport/Soundview;Walking;2016;Percent;0,06119;209
+Unionport/Soundview;Public Transit;2016;Percent;0,60946;209
+Unionport/Soundview;Driving Alone;2016;Percent;0,25079;209
+Unionport/Soundview;Carpool, Taxi, Other;2016;Percent;0,05646;209
+Unionport/Soundview;Bicycle;2016;Percent;0,00061;209
+University Heights;Work at Home;2016;Percent;0,03637;205
+University Heights;Walking;2016;Percent;0,09603;205
+University Heights;Public Transit;2016;Percent;0,67458;205
+University Heights;Driving Alone;2016;Percent;0,14469;205
+University Heights;Carpool, Taxi, Other;2016;Percent;0,04174;205
+University Heights;Bicycle;2016;Percent;0,00659;205
+Upper East Side;Work at Home;2016;Percent;0,07859;108
+Upper East Side;Walking;2016;Percent;0,19964;108
+Upper East Side;Public Transit;2016;Percent;0,55363;108
+Upper East Side;Driving Alone;2016;Percent;0,07322;108
+Upper East Side;Carpool, Taxi, Other;2016;Percent;0,08386;108
+Upper East Side;Bicycle;2016;Percent;0,01106;108
+Upper West Side;Bicycle;2016;Percent;0,02848;107
+Upper West Side;Carpool, Taxi, Other;2016;Percent;0,05989;107
+Upper West Side;Driving Alone;2016;Percent;0,04971;107
+Upper West Side;Public Transit;2016;Percent;0,63768;107
+Upper West Side;Walking;2016;Percent;0,12439;107
+Upper West Side;Work at Home;2016;Percent;0,09984;107
+Washington Heights;Work at Home;2016;Percent;0,052;112
+Washington Heights;Walking;2016;Percent;0,09487;112
+Washington Heights;Public Transit;2016;Percent;0,69863;112
+Washington Heights;Driving Alone;2016;Percent;0,09195;112
+Washington Heights;Carpool, Taxi, Other;2016;Percent;0,04948;112
+Washington Heights;Bicycle;2016;Percent;0,01306;112
+Williamsbridge;Bicycle;2016;Percent;0,00269;212
+Williamsbridge;Carpool, Taxi, Other;2016;Percent;0,0628;212
+Williamsbridge;Driving Alone;2016;Percent;0,35702;212
+Williamsbridge;Public Transit;2016;Percent;0,52317;212
+Williamsbridge;Walking;2016;Percent;0,03725;212
+Williamsbridge;Work at Home;2016;Percent;0,01708;212
+Williamsburg/Greenpoint;Bicycle;2016;Percent;0,03076;301
+Williamsburg/Greenpoint;Carpool, Taxi, Other;2016;Percent;0,03617;301
+Williamsburg/Greenpoint;Driving Alone;2016;Percent;0,07484;301
+Williamsburg/Greenpoint;Public Transit;2016;Percent;0,66609;301
+Williamsburg/Greenpoint;Walking;2016;Percent;0,13636;301
+Williamsburg/Greenpoint;Work at Home;2016;Percent;0,05577;301
+Woodhaven;Work at Home;2016;Percent;0,02699;409
+Woodhaven;Walking;2016;Percent;0,04629;409
+Woodhaven;Public Transit;2016;Percent;0,58609;409
+Woodhaven;Driving Alone;2016;Percent;0,26152;409
+Woodhaven;Carpool, Taxi, Other;2016;Percent;0,06697;409
+Woodhaven;Bicycle;2016;Percent;0,01215;409
+Astoria;Walking;2017;Percent;0,0643;401
+Astoria;Work at Home;2017;Percent;0,04841;401
+Astoria;Public Transit;2017;Percent;0,69987;401
+Astoria;Driving Alone;2017;Percent;0,14293;401
+Astoria;Carpool, Taxi, Other;2017;Percent;0,03229;401
+Astoria;Bicycle;2017;Percent;0,01219;401
+Battery Park/Tribeca;Bicycle;2017;Percent;0,03241;101
+Battery Park/Tribeca;Carpool, Taxi, Other;2017;Percent;0,05802;101
+Battery Park/Tribeca;Driving Alone;2017;Percent;0,04922;101
+Battery Park/Tribeca;Public Transit;2017;Percent;0,54083;101
+Battery Park/Tribeca;Walking;2017;Percent;0,2348;101
+Battery Park/Tribeca;Work at Home;2017;Percent;0,08473;101
+Bay Ridge;Work at Home;2017;Percent;0,03348;310
+Bay Ridge;Walking;2017;Percent;0,10065;310
+Bay Ridge;Public Transit;2017;Percent;0,55215;310
+Bay Ridge;Driving Alone;2017;Percent;0,23911;310
+Bay Ridge;Carpool, Taxi, Other;2017;Percent;0,06967;310
+Bay Ridge;Bicycle;2017;Percent;0,00495;310
+Bayside;Walking;2017;Percent;0,03465;411
+Bayside;Work at Home;2017;Percent;0,03334;411
+Bayside;Public Transit;2017;Percent;0,3448;411
+Bayside;Driving Alone;2017;Percent;0,47346;411
+Bayside;Carpool, Taxi, Other;2017;Percent;0,11201;411
+Bayside;Bicycle;2017;Percent;0,00173;411
+Bedford Park;Walking;2017;Percent;0,0911;207
+Bedford Park;Work at Home;2017;Percent;0,02317;207
+Bedford Park;Public Transit;2017;Percent;0,65984;207
+Bedford Park;Driving Alone;2017;Percent;0,17486;207
+Bedford Park;Carpool, Taxi, Other;2017;Percent;0,04751;207
+Bedford Park;Bicycle;2017;Percent;0,00353;207
+Bedford Stuyvesant;Bicycle;2017;Percent;0,03426;303
+Bedford Stuyvesant;Carpool, Taxi, Other;2017;Percent;0,05556;303
+Bedford Stuyvesant;Driving Alone;2017;Percent;0,15321;303
+Bedford Stuyvesant;Public Transit;2017;Percent;0,63803;303
+Bedford Stuyvesant;Walking;2017;Percent;0,07597;303
+Bedford Stuyvesant;Work at Home;2017;Percent;0,04297;303
+Bensonhurst;Bicycle;2017;Percent;0,00933;311
+Bensonhurst;Carpool, Taxi, Other;2017;Percent;0,09147;311
+Bensonhurst;Driving Alone;2017;Percent;0,20733;311
+Bensonhurst;Public Transit;2017;Percent;0,56535;311
+Bensonhurst;Walking;2017;Percent;0,08036;311
+Bensonhurst;Work at Home;2017;Percent;0,04616;311
+Borough Park;Work at Home;2017;Percent;0,04474;312
+Borough Park;Walking;2017;Percent;0,22138;312
+Borough Park;Public Transit;2017;Percent;0,38888;312
+Borough Park;Driving Alone;2017;Percent;0,25103;312
+Borough Park;Carpool, Taxi, Other;2017;Percent;0,07581;312
+Borough Park;Bicycle;2017;Percent;0,01814;312
+Bushwick;Work at Home;2017;Percent;0,04084;304
+Bushwick;Walking;2017;Percent;0,0725;304
+Bushwick;Public Transit;2017;Percent;0,69435;304
+Bushwick;Driving Alone;2017;Percent;0,14385;304
+Bushwick;Carpool, Taxi, Other;2017;Percent;0,02648;304
+Bushwick;Bicycle;2017;Percent;0,02197;304
+Canarsie;Work at Home;2017;Percent;0,02992;318
+Canarsie;Walking;2017;Percent;0,0317;318
+Canarsie;Public Transit;2017;Percent;0,50801;318
+Canarsie;Driving Alone;2017;Percent;0,34285;318
+Canarsie;Carpool, Taxi, Other;2017;Percent;0,0835;318
+Canarsie;Bicycle;2017;Percent;0,00403;318
+Central Harlem;Work at Home;2017;Percent;0,05032;110
+Central Harlem;Walking;2017;Percent;0,09609;110
+Central Harlem;Public Transit;2017;Percent;0,70891;110
+Central Harlem;Driving Alone;2017;Percent;0,09914;110
+Central Harlem;Carpool, Taxi, Other;2017;Percent;0,03757;110
+Central Harlem;Bicycle;2017;Percent;0,00797;110
+Chelsea/Clinton;Work at Home;2017;Percent;0,06159;104
+Chelsea/Clinton;Walking;2017;Percent;0,30854;104
+Chelsea/Clinton;Public Transit;2017;Percent;0,48869;104
+Chelsea/Clinton;Driving Alone;2017;Percent;0,0543;104
+Chelsea/Clinton;Carpool, Taxi, Other;2017;Percent;0,05034;104
+Chelsea/Clinton;Bicycle;2017;Percent;0,03653;104
+Concourse/Highbridge;Bicycle;2017;Percent;0,0171;204
+Concourse/Highbridge;Carpool, Taxi, Other;2017;Percent;0,03359;204
+Concourse/Highbridge;Driving Alone;2017;Percent;0,13599;204
+Concourse/Highbridge;Public Transit;2017;Percent;0,70592;204
+Concourse/Highbridge;Work at Home;2017;Percent;0,03789;204
+Concourse/Highbridge;Walking;2017;Percent;0,06951;204
+Crown Heights North;Work at Home;2017;Percent;0,06442;308
+Crown Heights North;Walking;2017;Percent;0,06399;308
+Crown Heights North;Public Transit;2017;Percent;0,70514;308
+Crown Heights North;Driving Alone;2017;Percent;0,1055;308
+Crown Heights North;Carpool, Taxi, Other;2017;Percent;0,03603;308
+Crown Heights North;Bicycle;2017;Percent;0,02493;308
+Crown Heights South;Bicycle;2017;Percent;0,01865;309
+Crown Heights South;Carpool, Taxi, Other;2017;Percent;0,03438;309
+Crown Heights South;Driving Alone;2017;Percent;0,13056;309
+Crown Heights South;Public Transit;2017;Percent;0,66627;309
+Crown Heights South;Walking;2017;Percent;0,09776;309
+Crown Heights South;Work at Home;2017;Percent;0,05237;309
+East Flatbush;Bicycle;2017;Percent;0,00689;317
+East Flatbush;Carpool, Taxi, Other;2017;Percent;0,0268;317
+East Flatbush;Driving Alone;2017;Percent;0,24283;317
+East Flatbush;Public Transit;2017;Percent;0,65552;317
+East Flatbush;Walking;2017;Percent;0,03593;317
+East Flatbush;Work at Home;2017;Percent;0,03203;317
+East Harlem;Bicycle;2017;Percent;0,00922;111
+East Harlem;Carpool, Taxi, Other;2017;Percent;0,0503;111
+East Harlem;Driving Alone;2017;Percent;0,07806;111
+East Harlem;Public Transit;2017;Percent;0,72538;111
+East Harlem;Walking;2017;Percent;0,10167;111
+East Harlem;Work at Home;2017;Percent;0,03538;111
+East New York;Bicycle;2017;Percent;0,00534;305
+East New York;Carpool, Taxi, Other;2017;Percent;0,03419;305
+East New York;Driving Alone;2017;Percent;0,19369;305
+East New York;Public Transit;2017;Percent;0,69779;305
+East New York;Walking;2017;Percent;0,04296;305
+East New York;Work at Home;2017;Percent;0,02603;305
+East Tremont;Bicycle;2017;Percent;0;206
+East Tremont;Carpool, Taxi, Other;2017;Percent;0,04231;206
+East Tremont;Driving Alone;2017;Percent;0,20327;206
+East Tremont;Public Transit;2017;Percent;0,63767;206
+East Tremont;Work at Home;2017;Percent;0,03923;206
+East Tremont;Walking;2017;Percent;0,07752;206
+Elmhurst/Corona;Bicycle;2017;Percent;0,00662;404
+Elmhurst/Corona;Carpool, Taxi, Other;2017;Percent;0,0547;404
+Elmhurst/Corona;Driving Alone;2017;Percent;0,16681;404
+Elmhurst/Corona;Public Transit;2017;Percent;0,64589;404
+Elmhurst/Corona;Work at Home;2017;Percent;0,01854;404
+Elmhurst/Corona;Walking;2017;Percent;0,10744;404
+Flatbush/Midwood;Work at Home;2017;Percent;0,04432;314
+Flatbush/Midwood;Walking;2017;Percent;0,07468;314
+Flatbush/Midwood;Public Transit;2017;Percent;0,58987;314
+Flatbush/Midwood;Driving Alone;2017;Percent;0,21262;314
+Flatbush/Midwood;Carpool, Taxi, Other;2017;Percent;0,07089;314
+Flatbush/Midwood;Bicycle;2017;Percent;0,00761;314
+Flushing;Walking;2017;Percent;0,1104;407
+Flushing;Work at Home;2017;Percent;0,02239;407
+Flushing;Public Transit;2017;Percent;0,39459;407
+Flushing;Driving Alone;2017;Percent;0,32595;407
+Flushing;Carpool, Taxi, Other;2017;Percent;0,14275;407
+Flushing;Bicycle;2017;Percent;0,00392;407
+Fort Greene/Brooklyn Hts;Work at Home;2017;Percent;0,06705;302
+Fort Greene/Brooklyn Hts;Walking;2017;Percent;0,12071;302
+Fort Greene/Brooklyn Hts;Public Transit;2017;Percent;0,69627;302
+Fort Greene/Brooklyn Hts;Driving Alone;2017;Percent;0,05916;302
+Fort Greene/Brooklyn Hts;Carpool, Taxi, Other;2017;Percent;0,02594;302
+Fort Greene/Brooklyn Hts;Bicycle;2017;Percent;0,03087;302
+Fresh Meadows/Briarwood;Bicycle;2017;Percent;0;408
+Fresh Meadows/Briarwood;Carpool, Taxi, Other;2017;Percent;0,06215;408
+Fresh Meadows/Briarwood;Driving Alone;2017;Percent;0,39142;408
+Fresh Meadows/Briarwood;Public Transit;2017;Percent;0,44181;408
+Fresh Meadows/Briarwood;Work at Home;2017;Percent;0,04153;408
+Fresh Meadows/Briarwood;Walking;2017;Percent;0,06309;408
+Greenwich Village;Work at Home;2017;Percent;0,08473;102
+Greenwich Village;Walking;2017;Percent;0,2348;102
+Greenwich Village;Public Transit;2017;Percent;0,54083;102
+Greenwich Village;Driving Alone;2017;Percent;0,04922;102
+Greenwich Village;Carpool, Taxi, Other;2017;Percent;0,05802;102
+Greenwich Village;Bicycle;2017;Percent;0,03241;102
+Howard Beach;Bicycle;2017;Percent;0;410
+Howard Beach;Carpool, Taxi, Other;2017;Percent;0,08876;410
+Howard Beach;Driving Alone;2017;Percent;0,44561;410
+Howard Beach;Public Transit;2017;Percent;0,41645;410
+Howard Beach;Work at Home;2017;Percent;0,01436;410
+Howard Beach;Walking;2017;Percent;0,03481;410
+Hunts Point;Bicycle;2017;Percent;0,00295;202
+Hunts Point;Carpool, Taxi, Other;2017;Percent;0,05438;202
+Hunts Point;Driving Alone;2017;Percent;0,16593;202
+Hunts Point;Public Transit;2017;Percent;0,6362;202
+Hunts Point;Work at Home;2017;Percent;0,0254;202
+Hunts Point;Walking;2017;Percent;0,11514;202
+Jackson Heights;Walking;2017;Percent;0,11477;403
+Jackson Heights;Work at Home;2017;Percent;0,02478;403
+Jackson Heights;Public Transit;2017;Percent;0,60856;403
+Jackson Heights;Driving Alone;2017;Percent;0,15947;403
+Jackson Heights;Carpool, Taxi, Other;2017;Percent;0,08236;403
+Jackson Heights;Bicycle;2017;Percent;0,01006;403
+Jamaica/St. Albans;Bicycle;2017;Percent;0,00491;412
+Jamaica/St. Albans;Carpool, Taxi, Other;2017;Percent;0,06617;412
+Jamaica/St. Albans;Driving Alone;2017;Percent;0,39741;412
+Jamaica/St. Albans;Public Transit;2017;Percent;0,46672;412
+Jamaica/St. Albans;Work at Home;2017;Percent;0,02434;412
+Jamaica/St. Albans;Walking;2017;Percent;0,04045;412
+Lower East Side;Bicycle;2017;Percent;0,07313;103
+Lower East Side;Carpool, Taxi, Other;2017;Percent;0,05445;103
+Lower East Side;Driving Alone;2017;Percent;0,04743;103
+Lower East Side;Public Transit;2017;Percent;0,50402;103
+Lower East Side;Walking;2017;Percent;0,26253;103
+Lower East Side;Work at Home;2017;Percent;0,05843;103
+Midtown Business District;Bicycle;2017;Percent;0,03653;105
+Midtown Business District;Carpool, Taxi, Other;2017;Percent;0,05034;105
+Midtown Business District;Driving Alone;2017;Percent;0,0543;105
+Midtown Business District;Public Transit;2017;Percent;0,48869;105
+Midtown Business District;Walking;2017;Percent;0,30854;105
+Midtown Business District;Work at Home;2017;Percent;0,06159;105
+Morrisania;Walking;2017;Percent;0,07752;203
+Morrisania;Work at Home;2017;Percent;0,03923;203
+Morrisania;Public Transit;2017;Percent;0,63767;203
+Morrisania;Driving Alone;2017;Percent;0,20327;203
+Morrisania;Carpool, Taxi, Other;2017;Percent;0,04231;203
+Morrisania;Bicycle;2017;Percent;0;203
+Mott Haven;Walking;2017;Percent;0,11514;201
+Mott Haven;Work at Home;2017;Percent;0,0254;201
+Mott Haven;Public Transit;2017;Percent;0,6362;201
+Mott Haven;Driving Alone;2017;Percent;0,16593;201
+Mott Haven;Carpool, Taxi, Other;2017;Percent;0,05438;201
+Mott Haven;Bicycle;2017;Percent;0,00295;201
+Murray Hill/Stuyvesant;Work at Home;2017;Percent;0,08239;106
+Murray Hill/Stuyvesant;Walking;2017;Percent;0,38139;106
+Murray Hill/Stuyvesant;Public Transit;2017;Percent;0,42694;106
+Murray Hill/Stuyvesant;Driving Alone;2017;Percent;0,05275;106
+Murray Hill/Stuyvesant;Carpool, Taxi, Other;2017;Percent;0,03954;106
+Murray Hill/Stuyvesant;Bicycle;2017;Percent;0,017;106
+Park Slope;Work at Home;2017;Percent;0,07568;306
+Park Slope;Walking;2017;Percent;0,08638;306
+Park Slope;Public Transit;2017;Percent;0,66072;306
+Park Slope;Driving Alone;2017;Percent;0,08059;306
+Park Slope;Carpool, Taxi, Other;2017;Percent;0,04563;306
+Park Slope;Bicycle;2017;Percent;0,051;306
+Pelham Parkway;Walking;2017;Percent;0,09514;211
+Pelham Parkway;Work at Home;2017;Percent;0,02433;211
+Pelham Parkway;Public Transit;2017;Percent;0,50815;211
+Pelham Parkway;Driving Alone;2017;Percent;0,31243;211
+Pelham Parkway;Carpool, Taxi, Other;2017;Percent;0,05154;211
+Pelham Parkway;Bicycle;2017;Percent;0,00841;211
+Queens Village;Walking;2017;Percent;0,02103;413
+Queens Village;Work at Home;2017;Percent;0,02052;413
+Queens Village;Public Transit;2017;Percent;0,33692;413
+Queens Village;Driving Alone;2017;Percent;0,52566;413
+Queens Village;Carpool, Taxi, Other;2017;Percent;0,09496;413
+Queens Village;Bicycle;2017;Percent;0,00091;413
+Rego Park/Forest Hills;Bicycle;2017;Percent;0,00351;406
+Rego Park/Forest Hills;Carpool, Taxi, Other;2017;Percent;0,05317;406
+Rego Park/Forest Hills;Driving Alone;2017;Percent;0,20662;406
+Rego Park/Forest Hills;Public Transit;2017;Percent;0,63155;406
+Rego Park/Forest Hills;Work at Home;2017;Percent;0,03784;406
+Rego Park/Forest Hills;Walking;2017;Percent;0,06731;406
+Ridgewood/Glendale;Walking;2017;Percent;0,06833;405
+Ridgewood/Glendale;Work at Home;2017;Percent;0,02556;405
+Ridgewood/Glendale;Public Transit;2017;Percent;0,54258;405
+Ridgewood/Glendale;Driving Alone;2017;Percent;0,31063;405
+Ridgewood/Glendale;Carpool, Taxi, Other;2017;Percent;0,04611;405
+Ridgewood/Glendale;Bicycle;2017;Percent;0,0068;405
+Riverdale;Bicycle;2017;Percent;0,00929;208
+Riverdale;Carpool, Taxi, Other;2017;Percent;0,05878;208
+Riverdale;Driving Alone;2017;Percent;0,24356;208
+Riverdale;Public Transit;2017;Percent;0,58984;208
+Riverdale;Work at Home;2017;Percent;0,0373;208
+Riverdale;Walking;2017;Percent;0,06124;208
+Sheepshead Bay;Bicycle;2017;Percent;0,00557;315
+Sheepshead Bay;Carpool, Taxi, Other;2017;Percent;0,08428;315
+Sheepshead Bay;Driving Alone;2017;Percent;0,31298;315
+Sheepshead Bay;Public Transit;2017;Percent;0,47759;315
+Sheepshead Bay;Walking;2017;Percent;0,06802;315
+Sheepshead Bay;Work at Home;2017;Percent;0,05157;315
+South Beach;Work at Home;2017;Percent;0,0213;502
+South Beach;Walking;2017;Percent;0,02656;502
+South Beach;Public Transit;2017;Percent;0,28576;502
+South Beach;Driving Alone;2017;Percent;0,53046;502
+South Beach;Carpool, Taxi, Other;2017;Percent;0,13392;502
+South Beach;Bicycle;2017;Percent;0,00199;502
+St. George;Bicycle;2017;Percent;0,0054;501
+St. George;Carpool, Taxi, Other;2017;Percent;0,07501;501
+St. George;Driving Alone;2017;Percent;0,50363;501
+St. George;Public Transit;2017;Percent;0,3443;501
+St. George;Walking;2017;Percent;0,0466;501
+St. George;Work at Home;2017;Percent;0,02506;501
+Sunnyside/Woodside;Bicycle;2017;Percent;0,01068;402
+Sunnyside/Woodside;Carpool, Taxi, Other;2017;Percent;0,06039;402
+Sunnyside/Woodside;Driving Alone;2017;Percent;0,18478;402
+Sunnyside/Woodside;Public Transit;2017;Percent;0,66231;402
+Sunnyside/Woodside;Work at Home;2017;Percent;0,03245;402
+Sunnyside/Woodside;Walking;2017;Percent;0,04939;402
+Sunset Park;Bicycle;2017;Percent;0,01138;307
+Sunset Park;Carpool, Taxi, Other;2017;Percent;0,08134;307
+Sunset Park;Driving Alone;2017;Percent;0,114;307
+Sunset Park;Public Transit;2017;Percent;0,60506;307
+Sunset Park;Walking;2017;Percent;0,15697;307
+Sunset Park;Work at Home;2017;Percent;0,03125;307
+The Rockaways;Bicycle;2017;Percent;0,00118;414
+The Rockaways;Carpool, Taxi, Other;2017;Percent;0,06201;414
+The Rockaways;Driving Alone;2017;Percent;0,46683;414
+The Rockaways;Public Transit;2017;Percent;0,37296;414
+The Rockaways;Work at Home;2017;Percent;0,03518;414
+The Rockaways;Walking;2017;Percent;0,06185;414
+Throgs Neck;Bicycle;2017;Percent;0;210
+Throgs Neck;Carpool, Taxi, Other;2017;Percent;0,08039;210
+Throgs Neck;Driving Alone;2017;Percent;0,40344;210
+Throgs Neck;Public Transit;2017;Percent;0,45737;210
+Throgs Neck;Work at Home;2017;Percent;0,03174;210
+Throgs Neck;Walking;2017;Percent;0,02706;210
+Tottenville;Bicycle;2017;Percent;0,00326;503
+Tottenville;Carpool, Taxi, Other;2017;Percent;0,10086;503
+Tottenville;Driving Alone;2017;Percent;0,61705;503
+Tottenville;Public Transit;2017;Percent;0,23501;503
+Tottenville;Walking;2017;Percent;0,02024;503
+Tottenville;Work at Home;2017;Percent;0,02358;503
+Unionport/Soundview;Walking;2017;Percent;0,08159;209
+Unionport/Soundview;Work at Home;2017;Percent;0,01819;209
+Unionport/Soundview;Public Transit;2017;Percent;0,59722;209
+Unionport/Soundview;Driving Alone;2017;Percent;0,23966;209
+Unionport/Soundview;Carpool, Taxi, Other;2017;Percent;0,06109;209
+Unionport/Soundview;Bicycle;2017;Percent;0,00225;209
+University Heights;Walking;2017;Percent;0,07605;205
+University Heights;Work at Home;2017;Percent;0,04226;205
+University Heights;Public Transit;2017;Percent;0,68043;205
+University Heights;Driving Alone;2017;Percent;0,15294;205
+University Heights;Carpool, Taxi, Other;2017;Percent;0,0384;205
+University Heights;Bicycle;2017;Percent;0,00992;205
+Upper East Side;Work at Home;2017;Percent;0,06867;108
+Upper East Side;Walking;2017;Percent;0,17706;108
+Upper East Side;Public Transit;2017;Percent;0,58441;108
+Upper East Side;Driving Alone;2017;Percent;0,07505;108
+Upper East Side;Carpool, Taxi, Other;2017;Percent;0,08104;108
+Upper East Side;Bicycle;2017;Percent;0,01378;108
+Upper West Side;Bicycle;2017;Percent;0,02399;107
+Upper West Side;Carpool, Taxi, Other;2017;Percent;0,06377;107
+Upper West Side;Driving Alone;2017;Percent;0,0645;107
+Upper West Side;Public Transit;2017;Percent;0,60934;107
+Upper West Side;Walking;2017;Percent;0,12452;107
+Upper West Side;Work at Home;2017;Percent;0,11388;107
+Washington Heights;Work at Home;2017;Percent;0,03601;112
+Washington Heights;Walking;2017;Percent;0,15124;112
+Washington Heights;Public Transit;2017;Percent;0,68803;112
+Washington Heights;Driving Alone;2017;Percent;0,06501;112
+Washington Heights;Carpool, Taxi, Other;2017;Percent;0,05367;112
+Washington Heights;Bicycle;2017;Percent;0,00603;112
+Williamsbridge;Bicycle;2017;Percent;0,00702;212
+Williamsbridge;Carpool, Taxi, Other;2017;Percent;0,08693;212
+Williamsbridge;Driving Alone;2017;Percent;0,3633;212
+Williamsbridge;Public Transit;2017;Percent;0,49913;212
+Williamsbridge;Work at Home;2017;Percent;0,00846;212
+Williamsbridge;Walking;2017;Percent;0,03515;212
+Williamsburg/Greenpoint;Bicycle;2017;Percent;0,04235;301
+Williamsburg/Greenpoint;Carpool, Taxi, Other;2017;Percent;0,04447;301
+Williamsburg/Greenpoint;Driving Alone;2017;Percent;0,09915;301
+Williamsburg/Greenpoint;Public Transit;2017;Percent;0,6241;301
+Williamsburg/Greenpoint;Walking;2017;Percent;0,11126;301
+Williamsburg/Greenpoint;Work at Home;2017;Percent;0,07867;301
+Woodhaven;Walking;2017;Percent;0,05685;409
+Woodhaven;Work at Home;2017;Percent;0,03273;409
+Woodhaven;Public Transit;2017;Percent;0,56402;409
+Woodhaven;Driving Alone;2017;Percent;0,2877;409
+Woodhaven;Carpool, Taxi, Other;2017;Percent;0,05551;409
+Woodhaven;Bicycle;2017;Percent;0,0032;409
+Astoria;Walking;2018;Percent;0,06628;401
+Astoria;Work at Home;2018;Percent;0,03977;401
+Astoria;Public Transit;2018;Percent;0,6982;401
+Astoria;Driving Alone;2018;Percent;0,13904;401
+Astoria;Carpool, Taxi, Other;2018;Percent;0,04506;401
+Astoria;Bicycle;2018;Percent;0,01166;401
+Battery Park/Tribeca;Bicycle;2018;Percent;0,03117;101
+Battery Park/Tribeca;Carpool, Taxi, Other;2018;Percent;0,04604;101
+Battery Park/Tribeca;Driving Alone;2018;Percent;0,03762;101
+Battery Park/Tribeca;Public Transit;2018;Percent;0,54597;101
+Battery Park/Tribeca;Walking;2018;Percent;0,25413;101
+Battery Park/Tribeca;Work at Home;2018;Percent;0,08507;101
+Bay Ridge;Work at Home;2018;Percent;0,04753;310
+Bay Ridge;Walking;2018;Percent;0,09358;310
+Bay Ridge;Public Transit;2018;Percent;0,56499;310
+Bay Ridge;Driving Alone;2018;Percent;0,22742;310
+Bay Ridge;Carpool, Taxi, Other;2018;Percent;0,05585;310
+Bay Ridge;Bicycle;2018;Percent;0,01064;310
+Bayside;Walking;2018;Percent;0,02727;411
+Bayside;Work at Home;2018;Percent;0,02293;411
+Bayside;Public Transit;2018;Percent;0,33324;411
+Bayside;Driving Alone;2018;Percent;0,51253;411
+Bayside;Carpool, Taxi, Other;2018;Percent;0,10403;411
+Bayside;Bicycle;2018;Percent;0;411
+Bedford Park;Walking;2018;Percent;0,07918;207
+Bedford Park;Work at Home;2018;Percent;0,04588;207
+Bedford Park;Public Transit;2018;Percent;0,67378;207
+Bedford Park;Driving Alone;2018;Percent;0,14396;207
+Bedford Park;Carpool, Taxi, Other;2018;Percent;0,04978;207
+Bedford Park;Bicycle;2018;Percent;0,00743;207
+Bedford Stuyvesant;Bicycle;2018;Percent;0,04001;303
+Bedford Stuyvesant;Carpool, Taxi, Other;2018;Percent;0,04318;303
+Bedford Stuyvesant;Driving Alone;2018;Percent;0,13693;303
+Bedford Stuyvesant;Public Transit;2018;Percent;0,62987;303
+Bedford Stuyvesant;Walking;2018;Percent;0,07358;303
+Bedford Stuyvesant;Work at Home;2018;Percent;0,07643;303
+Bensonhurst;Bicycle;2018;Percent;0,00902;311
+Bensonhurst;Carpool, Taxi, Other;2018;Percent;0,0732;311
+Bensonhurst;Driving Alone;2018;Percent;0,22033;311
+Bensonhurst;Public Transit;2018;Percent;0,5935;311
+Bensonhurst;Walking;2018;Percent;0,07431;311
+Bensonhurst;Work at Home;2018;Percent;0,02964;311
+Borough Park;Work at Home;2018;Percent;0,03298;312
+Borough Park;Walking;2018;Percent;0,25023;312
+Borough Park;Public Transit;2018;Percent;0,41728;312
+Borough Park;Driving Alone;2018;Percent;0,21053;312
+Borough Park;Carpool, Taxi, Other;2018;Percent;0,08522;312
+Borough Park;Bicycle;2018;Percent;0,00375;312
+Bushwick;Work at Home;2018;Percent;0,04662;304
+Bushwick;Walking;2018;Percent;0,06018;304
+Bushwick;Public Transit;2018;Percent;0,69695;304
+Bushwick;Driving Alone;2018;Percent;0,10717;304
+Bushwick;Carpool, Taxi, Other;2018;Percent;0,05281;304
+Bushwick;Bicycle;2018;Percent;0,03627;304
+Canarsie;Work at Home;2018;Percent;0,02315;318
+Canarsie;Walking;2018;Percent;0,03215;318
+Canarsie;Public Transit;2018;Percent;0,47084;318
+Canarsie;Driving Alone;2018;Percent;0,37727;318
+Canarsie;Carpool, Taxi, Other;2018;Percent;0,08958;318
+Canarsie;Bicycle;2018;Percent;0,007;318
+Central Harlem;Work at Home;2018;Percent;0,06122;110
+Central Harlem;Walking;2018;Percent;0,06737;110
+Central Harlem;Public Transit;2018;Percent;0,74365;110
+Central Harlem;Driving Alone;2018;Percent;0,08089;110
+Central Harlem;Carpool, Taxi, Other;2018;Percent;0,04178;110
+Central Harlem;Bicycle;2018;Percent;0,00508;110
+Chelsea/Clinton;Work at Home;2018;Percent;0,07777;104
+Chelsea/Clinton;Walking;2018;Percent;0,30612;104
+Chelsea/Clinton;Public Transit;2018;Percent;0,49882;104
+Chelsea/Clinton;Driving Alone;2018;Percent;0,04573;104
+Chelsea/Clinton;Carpool, Taxi, Other;2018;Percent;0,04986;104
+Chelsea/Clinton;Bicycle;2018;Percent;0,02169;104
+Concourse/Highbridge;Bicycle;2018;Percent;0,00234;204
+Concourse/Highbridge;Carpool, Taxi, Other;2018;Percent;0,04132;204
+Concourse/Highbridge;Driving Alone;2018;Percent;0,14429;204
+Concourse/Highbridge;Public Transit;2018;Percent;0,68953;204
+Concourse/Highbridge;Work at Home;2018;Percent;0,02896;204
+Concourse/Highbridge;Walking;2018;Percent;0,09356;204
+Coney Island;Bicycle;2018;Percent;0,00223;313
+Coney Island;Carpool, Taxi, Other;2018;Percent;0,04711;313
+Coney Island;Driving Alone;2018;Percent;0,26846;313
+Coney Island;Public Transit;2018;Percent;0,53054;313
+Coney Island;Walking;2018;Percent;0,10633;313
+Coney Island;Work at Home;2018;Percent;0,04534;313
+Crown Heights North;Work at Home;2018;Percent;0,05403;308
+Crown Heights North;Walking;2018;Percent;0,04768;308
+Crown Heights North;Public Transit;2018;Percent;0,71089;308
+Crown Heights North;Driving Alone;2018;Percent;0,11901;308
+Crown Heights North;Carpool, Taxi, Other;2018;Percent;0,03056;308
+Crown Heights North;Bicycle;2018;Percent;0,03783;308
+Crown Heights South;Bicycle;2018;Percent;0,0062;309
+Crown Heights South;Carpool, Taxi, Other;2018;Percent;0,04958;309
+Crown Heights South;Driving Alone;2018;Percent;0,13923;309
+Crown Heights South;Public Transit;2018;Percent;0,69223;309
+Crown Heights South;Walking;2018;Percent;0,06489;309
+Crown Heights South;Work at Home;2018;Percent;0,04787;309
+East Flatbush;Bicycle;2018;Percent;0,00551;317
+East Flatbush;Carpool, Taxi, Other;2018;Percent;0,04225;317
+East Flatbush;Driving Alone;2018;Percent;0,25689;317
+East Flatbush;Public Transit;2018;Percent;0,62778;317
+East Flatbush;Walking;2018;Percent;0,03838;317
+East Flatbush;Work at Home;2018;Percent;0,02919;317
+East Harlem;Bicycle;2018;Percent;0,03702;111
+East Harlem;Carpool, Taxi, Other;2018;Percent;0,02991;111
+East Harlem;Driving Alone;2018;Percent;0,04865;111
+East Harlem;Public Transit;2018;Percent;0,70889;111
+East Harlem;Walking;2018;Percent;0,11618;111
+East Harlem;Work at Home;2018;Percent;0,05935;111
+East New York;Bicycle;2018;Percent;0,00045;305
+East New York;Carpool, Taxi, Other;2018;Percent;0,06132;305
+East New York;Driving Alone;2018;Percent;0,25808;305
+East New York;Public Transit;2018;Percent;0,60237;305
+East New York;Walking;2018;Percent;0,05135;305
+East New York;Work at Home;2018;Percent;0,02643;305
+East Tremont;Bicycle;2018;Percent;0,00113;206
+East Tremont;Carpool, Taxi, Other;2018;Percent;0,07419;206
+East Tremont;Driving Alone;2018;Percent;0,16901;206
+East Tremont;Public Transit;2018;Percent;0,62244;206
+East Tremont;Work at Home;2018;Percent;0,02929;206
+East Tremont;Walking;2018;Percent;0,10394;206
+Elmhurst/Corona;Bicycle;2018;Percent;0,00269;404
+Elmhurst/Corona;Carpool, Taxi, Other;2018;Percent;0,03881;404
+Elmhurst/Corona;Driving Alone;2018;Percent;0,19275;404
+Elmhurst/Corona;Public Transit;2018;Percent;0,67938;404
+Elmhurst/Corona;Work at Home;2018;Percent;0,02433;404
+Elmhurst/Corona;Walking;2018;Percent;0,06205;404
+Flatbush/Midwood;Work at Home;2018;Percent;0,04715;314
+Flatbush/Midwood;Walking;2018;Percent;0,07661;314
+Flatbush/Midwood;Public Transit;2018;Percent;0,62708;314
+Flatbush/Midwood;Driving Alone;2018;Percent;0,19609;314
+Flatbush/Midwood;Carpool, Taxi, Other;2018;Percent;0,0432;314
+Flatbush/Midwood;Bicycle;2018;Percent;0,00986;314
+Flushing;Walking;2018;Percent;0,09172;407
+Flushing;Work at Home;2018;Percent;0,0203;407
+Flushing;Public Transit;2018;Percent;0,40633;407
+Flushing;Driving Alone;2018;Percent;0,34245;407
+Flushing;Carpool, Taxi, Other;2018;Percent;0,13564;407
+Flushing;Bicycle;2018;Percent;0,00356;407
+Fort Greene/Brooklyn Hts;Work at Home;2018;Percent;0,06215;302
+Fort Greene/Brooklyn Hts;Walking;2018;Percent;0,11856;302
+Fort Greene/Brooklyn Hts;Public Transit;2018;Percent;0,67116;302
+Fort Greene/Brooklyn Hts;Driving Alone;2018;Percent;0,06692;302
+Fort Greene/Brooklyn Hts;Carpool, Taxi, Other;2018;Percent;0,03892;302
+Fort Greene/Brooklyn Hts;Bicycle;2018;Percent;0,0423;302
+Fresh Meadows/Briarwood;Bicycle;2018;Percent;0,00088;408
+Fresh Meadows/Briarwood;Carpool, Taxi, Other;2018;Percent;0,05828;408
+Fresh Meadows/Briarwood;Driving Alone;2018;Percent;0,35892;408
+Fresh Meadows/Briarwood;Public Transit;2018;Percent;0,48866;408
+Fresh Meadows/Briarwood;Work at Home;2018;Percent;0,04661;408
+Fresh Meadows/Briarwood;Walking;2018;Percent;0,04666;408
+Greenwich Village;Work at Home;2018;Percent;0,08507;102
+Greenwich Village;Walking;2018;Percent;0,25413;102
+Greenwich Village;Public Transit;2018;Percent;0,54597;102
+Greenwich Village;Driving Alone;2018;Percent;0,03762;102
+Greenwich Village;Carpool, Taxi, Other;2018;Percent;0,04604;102
+Greenwich Village;Bicycle;2018;Percent;0,03117;102
+Howard Beach;Bicycle;2018;Percent;0,00529;410
+Howard Beach;Carpool, Taxi, Other;2018;Percent;0,08079;410
+Howard Beach;Driving Alone;2018;Percent;0,46656;410
+Howard Beach;Public Transit;2018;Percent;0,40535;410
+Howard Beach;Work at Home;2018;Percent;0,02022;410
+Howard Beach;Walking;2018;Percent;0,02179;410
+Hunts Point;Bicycle;2018;Percent;0,00572;202
+Hunts Point;Carpool, Taxi, Other;2018;Percent;0,06843;202
+Hunts Point;Driving Alone;2018;Percent;0,15535;202
+Hunts Point;Public Transit;2018;Percent;0,65347;202
+Hunts Point;Work at Home;2018;Percent;0,01761;202
+Hunts Point;Walking;2018;Percent;0,09942;202
+Jackson Heights;Walking;2018;Percent;0,08192;403
+Jackson Heights;Work at Home;2018;Percent;0,02788;403
+Jackson Heights;Public Transit;2018;Percent;0,61565;403
+Jackson Heights;Driving Alone;2018;Percent;0,21165;403
+Jackson Heights;Carpool, Taxi, Other;2018;Percent;0,0462;403
+Jackson Heights;Bicycle;2018;Percent;0,0167;403
+Jamaica/St. Albans;Bicycle;2018;Percent;0,0018;412
+Jamaica/St. Albans;Carpool, Taxi, Other;2018;Percent;0,0672;412
+Jamaica/St. Albans;Driving Alone;2018;Percent;0,43165;412
+Jamaica/St. Albans;Public Transit;2018;Percent;0,449;412
+Jamaica/St. Albans;Work at Home;2018;Percent;0,01417;412
+Jamaica/St. Albans;Walking;2018;Percent;0,03618;412
+Lower East Side;Bicycle;2018;Percent;0,06907;103
+Lower East Side;Carpool, Taxi, Other;2018;Percent;0,07188;103
+Lower East Side;Driving Alone;2018;Percent;0,04659;103
+Lower East Side;Public Transit;2018;Percent;0,53088;103
+Lower East Side;Walking;2018;Percent;0,22509;103
+Lower East Side;Work at Home;2018;Percent;0,05649;103
+Manhattanville;Bicycle;2018;Percent;0,01065;109
+Manhattanville;Carpool, Taxi, Other;2018;Percent;0,01981;109
+Manhattanville;Driving Alone;2018;Percent;0,06545;109
+Manhattanville;Public Transit;2018;Percent;0,70281;109
+Manhattanville;Walking;2018;Percent;0,14784;109
+Manhattanville;Work at Home;2018;Percent;0,05343;109
+Midtown Business District;Bicycle;2018;Percent;0,02169;105
+Midtown Business District;Carpool, Taxi, Other;2018;Percent;0,04986;105
+Midtown Business District;Driving Alone;2018;Percent;0,04573;105
+Midtown Business District;Public Transit;2018;Percent;0,49882;105
+Midtown Business District;Walking;2018;Percent;0,30612;105
+Midtown Business District;Work at Home;2018;Percent;0,07777;105
+Morrisania;Walking;2018;Percent;0,10394;203
+Morrisania;Work at Home;2018;Percent;0,02929;203
+Morrisania;Public Transit;2018;Percent;0,62244;203
+Morrisania;Driving Alone;2018;Percent;0,16901;203
+Morrisania;Carpool, Taxi, Other;2018;Percent;0,07419;203
+Morrisania;Bicycle;2018;Percent;0,00113;203
+Mott Haven;Walking;2018;Percent;0,09942;201
+Mott Haven;Work at Home;2018;Percent;0,01761;201
+Mott Haven;Public Transit;2018;Percent;0,65347;201
+Mott Haven;Driving Alone;2018;Percent;0,15535;201
+Mott Haven;Carpool, Taxi, Other;2018;Percent;0,06843;201
+Mott Haven;Bicycle;2018;Percent;0,00572;201
+Murray Hill/Stuyvesant;Work at Home;2018;Percent;0,07043;106
+Murray Hill/Stuyvesant;Walking;2018;Percent;0,34019;106
+Murray Hill/Stuyvesant;Public Transit;2018;Percent;0,47092;106
+Murray Hill/Stuyvesant;Driving Alone;2018;Percent;0,04645;106
+Murray Hill/Stuyvesant;Carpool, Taxi, Other;2018;Percent;0,05471;106
+Murray Hill/Stuyvesant;Bicycle;2018;Percent;0,01731;106
+Park Slope;Work at Home;2018;Percent;0,08362;306
+Park Slope;Walking;2018;Percent;0,10301;306
+Park Slope;Public Transit;2018;Percent;0,64562;306
+Park Slope;Driving Alone;2018;Percent;0,09325;306
+Park Slope;Carpool, Taxi, Other;2018;Percent;0,03175;306
+Park Slope;Bicycle;2018;Percent;0,04275;306
+Pelham Parkway;Walking;2018;Percent;0,05629;211
+Pelham Parkway;Work at Home;2018;Percent;0,00807;211
+Pelham Parkway;Public Transit;2018;Percent;0,51968;211
+Pelham Parkway;Driving Alone;2018;Percent;0,32622;211
+Pelham Parkway;Carpool, Taxi, Other;2018;Percent;0,08974;211
+Pelham Parkway;Bicycle;2018;Percent;0;211
+Queens Village;Walking;2018;Percent;0,0286;413
+Queens Village;Work at Home;2018;Percent;0,01917;413
+Queens Village;Public Transit;2018;Percent;0,35597;413
+Queens Village;Driving Alone;2018;Percent;0,51416;413
+Queens Village;Carpool, Taxi, Other;2018;Percent;0,07976;413
+Queens Village;Bicycle;2018;Percent;0,00233;413
+Rego Park/Forest Hills;Bicycle;2018;Percent;0,00148;406
+Rego Park/Forest Hills;Carpool, Taxi, Other;2018;Percent;0,0586;406
+Rego Park/Forest Hills;Driving Alone;2018;Percent;0,21165;406
+Rego Park/Forest Hills;Public Transit;2018;Percent;0,60391;406
+Rego Park/Forest Hills;Work at Home;2018;Percent;0,07459;406
+Rego Park/Forest Hills;Walking;2018;Percent;0,04978;406
+Ridgewood/Glendale;Walking;2018;Percent;0,05978;405
+Ridgewood/Glendale;Work at Home;2018;Percent;0,02246;405
+Ridgewood/Glendale;Public Transit;2018;Percent;0,54297;405
+Ridgewood/Glendale;Driving Alone;2018;Percent;0,31292;405
+Ridgewood/Glendale;Carpool, Taxi, Other;2018;Percent;0,05255;405
+Ridgewood/Glendale;Bicycle;2018;Percent;0,00932;405
+Riverdale;Bicycle;2018;Percent;0;208
+Riverdale;Carpool, Taxi, Other;2018;Percent;0,05769;208
+Riverdale;Driving Alone;2018;Percent;0,28998;208
+Riverdale;Public Transit;2018;Percent;0,52269;208
+Riverdale;Work at Home;2018;Percent;0,04049;208
+Riverdale;Walking;2018;Percent;0,08915;208
+Sheepshead Bay;Bicycle;2018;Percent;0,00344;315
+Sheepshead Bay;Carpool, Taxi, Other;2018;Percent;0,07941;315
+Sheepshead Bay;Driving Alone;2018;Percent;0,32248;315
+Sheepshead Bay;Public Transit;2018;Percent;0,50074;315
+Sheepshead Bay;Walking;2018;Percent;0,05286;315
+Sheepshead Bay;Work at Home;2018;Percent;0,04107;315
+South Beach;Work at Home;2018;Percent;0,02083;502
+South Beach;Walking;2018;Percent;0,02584;502
+South Beach;Public Transit;2018;Percent;0,28934;502
+South Beach;Driving Alone;2018;Percent;0,56249;502
+South Beach;Carpool, Taxi, Other;2018;Percent;0,09703;502
+South Beach;Bicycle;2018;Percent;0,00447;502
+St. George;Bicycle;2018;Percent;0,00877;501
+St. George;Carpool, Taxi, Other;2018;Percent;0,06136;501
+St. George;Driving Alone;2018;Percent;0,49532;501
+St. George;Public Transit;2018;Percent;0,36574;501
+St. George;Walking;2018;Percent;0,03778;501
+St. George;Work at Home;2018;Percent;0,03102;501
+Sunnyside/Woodside;Bicycle;2018;Percent;0,01065;402
+Sunnyside/Woodside;Carpool, Taxi, Other;2018;Percent;0,04806;402
+Sunnyside/Woodside;Driving Alone;2018;Percent;0,17182;402
+Sunnyside/Woodside;Public Transit;2018;Percent;0,69914;402
+Sunnyside/Woodside;Work at Home;2018;Percent;0,02342;402
+Sunnyside/Woodside;Walking;2018;Percent;0,04692;402
+Sunset Park;Bicycle;2018;Percent;0,02826;307
+Sunset Park;Carpool, Taxi, Other;2018;Percent;0,0767;307
+Sunset Park;Driving Alone;2018;Percent;0,11163;307
+Sunset Park;Public Transit;2018;Percent;0,59994;307
+Sunset Park;Walking;2018;Percent;0,14635;307
+Sunset Park;Work at Home;2018;Percent;0,03712;307
+The Rockaways;Bicycle;2018;Percent;0,01248;414
+The Rockaways;Carpool, Taxi, Other;2018;Percent;0,08338;414
+The Rockaways;Driving Alone;2018;Percent;0,47047;414
+The Rockaways;Public Transit;2018;Percent;0,3573;414
+The Rockaways;Work at Home;2018;Percent;0,0265;414
+The Rockaways;Walking;2018;Percent;0,04987;414
+Throgs Neck;Bicycle;2018;Percent;0;210
+Throgs Neck;Carpool, Taxi, Other;2018;Percent;0,0798;210
+Throgs Neck;Driving Alone;2018;Percent;0,40406;210
+Throgs Neck;Public Transit;2018;Percent;0,40218;210
+Throgs Neck;Work at Home;2018;Percent;0,0286;210
+Throgs Neck;Walking;2018;Percent;0,08536;210
+Tottenville;Bicycle;2018;Percent;0,00126;503
+Tottenville;Carpool, Taxi, Other;2018;Percent;0,08465;503
+Tottenville;Driving Alone;2018;Percent;0,63908;503
+Tottenville;Public Transit;2018;Percent;0,23094;503
+Tottenville;Walking;2018;Percent;0,00972;503
+Tottenville;Work at Home;2018;Percent;0,03435;503
+Unionport/Soundview;Walking;2018;Percent;0,0555;209
+Unionport/Soundview;Work at Home;2018;Percent;0,0339;209
+Unionport/Soundview;Public Transit;2018;Percent;0,59781;209
+Unionport/Soundview;Driving Alone;2018;Percent;0,24989;209
+Unionport/Soundview;Carpool, Taxi, Other;2018;Percent;0,06227;209
+Unionport/Soundview;Bicycle;2018;Percent;0,00063;209
+University Heights;Walking;2018;Percent;0,05013;205
+University Heights;Work at Home;2018;Percent;0,08076;205
+University Heights;Public Transit;2018;Percent;0,63128;205
+University Heights;Driving Alone;2018;Percent;0,17681;205
+University Heights;Carpool, Taxi, Other;2018;Percent;0,05609;205
+University Heights;Bicycle;2018;Percent;0,00493;205
+Upper East Side;Work at Home;2018;Percent;0,06859;108
+Upper East Side;Walking;2018;Percent;0,17727;108
+Upper East Side;Public Transit;2018;Percent;0,59716;108
+Upper East Side;Driving Alone;2018;Percent;0,06574;108
+Upper East Side;Carpool, Taxi, Other;2018;Percent;0,07564;108
+Upper East Side;Bicycle;2018;Percent;0,0156;108
+Upper West Side;Bicycle;2018;Percent;0,03051;107
+Upper West Side;Carpool, Taxi, Other;2018;Percent;0,06579;107
+Upper West Side;Driving Alone;2018;Percent;0,048;107
+Upper West Side;Public Transit;2018;Percent;0,60389;107
+Upper West Side;Walking;2018;Percent;0,14391;107
+Upper West Side;Work at Home;2018;Percent;0,1079;107
+Washington Heights;Work at Home;2018;Percent;0,0774;112
+Washington Heights;Walking;2018;Percent;0,08367;112
+Washington Heights;Public Transit;2018;Percent;0,69669;112
+Washington Heights;Driving Alone;2018;Percent;0,08659;112
+Washington Heights;Carpool, Taxi, Other;2018;Percent;0,05175;112
+Washington Heights;Bicycle;2018;Percent;0,00391;112
+Williamsbridge;Bicycle;2018;Percent;0,00189;212
+Williamsbridge;Carpool, Taxi, Other;2018;Percent;0,1003;212
+Williamsbridge;Driving Alone;2018;Percent;0,31609;212
+Williamsbridge;Public Transit;2018;Percent;0,49839;212
+Williamsbridge;Work at Home;2018;Percent;0,0273;212
+Williamsbridge;Walking;2018;Percent;0,05602;212
+Williamsburg/Greenpoint;Bicycle;2018;Percent;0,03328;301
+Williamsburg/Greenpoint;Carpool, Taxi, Other;2018;Percent;0,03278;301
+Williamsburg/Greenpoint;Driving Alone;2018;Percent;0,1068;301
+Williamsburg/Greenpoint;Public Transit;2018;Percent;0,61975;301
+Williamsburg/Greenpoint;Walking;2018;Percent;0,14021;301
+Williamsburg/Greenpoint;Work at Home;2018;Percent;0,06718;301
+Woodhaven;Walking;2018;Percent;0,04241;409
+Woodhaven;Work at Home;2018;Percent;0,04247;409
+Woodhaven;Public Transit;2018;Percent;0,50461;409
+Woodhaven;Driving Alone;2018;Percent;0,31581;409
+Woodhaven;Carpool, Taxi, Other;2018;Percent;0,09106;409
+Woodhaven;Bicycle;2018;Percent;0,00362;409
+Astoria;Work at Home;2019;Percent;0,04521;401
+Astoria;Walking;2019;Percent;0,05586;401
+Astoria;Public Transit;2019;Percent;0,67895;401
+Astoria;Driving Alone;2019;Percent;0,15734;401
+Astoria;Carpool, Taxi, Other;2019;Percent;0,04424;401
+Astoria;Bicycle;2019;Percent;0,0184;401
+Battery Park/Tribeca;Work at Home;2019;Percent;0,08555;101
+Battery Park/Tribeca;Walking;2019;Percent;0,25293;101
+Battery Park/Tribeca;Public Transit;2019;Percent;0,53048;101
+Battery Park/Tribeca;Driving Alone;2019;Percent;0,052;101
+Battery Park/Tribeca;Carpool, Taxi, Other;2019;Percent;0,05346;101
+Battery Park/Tribeca;Bicycle;2019;Percent;0,02558;101
+Bay Ridge;Bicycle;2019;Percent;0,01351;310
+Bay Ridge;Carpool, Taxi, Other;2019;Percent;0,06451;310
+Bay Ridge;Driving Alone;2019;Percent;0,25009;310
+Bay Ridge;Public Transit;2019;Percent;0,52959;310
+Bay Ridge;Walking;2019;Percent;0,09811;310
+Bay Ridge;Work at Home;2019;Percent;0,04419;310
+Bayside;Work at Home;2019;Percent;0,03628;411
+Bayside;Walking;2019;Percent;0,03401;411
+Bayside;Public Transit;2019;Percent;0,2958;411
+Bayside;Driving Alone;2019;Percent;0,51388;411
+Bayside;Carpool, Taxi, Other;2019;Percent;0,11749;411
+Bayside;Bicycle;2019;Percent;0,00254;411
+Bedford Park;Work at Home;2019;Percent;0,04159;207
+Bedford Park;Walking;2019;Percent;0,07842;207
+Bedford Park;Public Transit;2019;Percent;0,70119;207
+Bedford Park;Driving Alone;2019;Percent;0,13586;207
+Bedford Park;Carpool, Taxi, Other;2019;Percent;0,03295;207
+Bedford Park;Bicycle;2019;Percent;0,00998;207
+Bedford Stuyvesant;Work at Home;2019;Percent;0,05992;303
+Bedford Stuyvesant;Walking;2019;Percent;0,08257;303
+Bedford Stuyvesant;Public Transit;2019;Percent;0,66572;303
+Bedford Stuyvesant;Driving Alone;2019;Percent;0,12934;303
+Bedford Stuyvesant;Carpool, Taxi, Other;2019;Percent;0,03051;303
+Bedford Stuyvesant;Bicycle;2019;Percent;0,03194;303
+Bensonhurst;Work at Home;2019;Percent;0,04557;311
+Bensonhurst;Walking;2019;Percent;0,06803;311
+Bensonhurst;Public Transit;2019;Percent;0,56965;311
+Bensonhurst;Driving Alone;2019;Percent;0,25437;311
+Bensonhurst;Carpool, Taxi, Other;2019;Percent;0,05264;311
+Bensonhurst;Bicycle;2019;Percent;0,00973;311
+Borough Park;Bicycle;2019;Percent;0,01043;312
+Borough Park;Carpool, Taxi, Other;2019;Percent;0,08841;312
+Borough Park;Driving Alone;2019;Percent;0,21846;312
+Borough Park;Public Transit;2019;Percent;0,39065;312
+Borough Park;Walking;2019;Percent;0,23152;312
+Borough Park;Work at Home;2019;Percent;0,06053;312
+Brownsville;Bicycle;2019;Percent;0,01198;316
+Brownsville;Carpool, Taxi, Other;2019;Percent;0,04467;316
+Brownsville;Driving Alone;2019;Percent;0,163;316
+Brownsville;Public Transit;2019;Percent;0,70873;316
+Brownsville;Walking;2019;Percent;0,04631;316
+Brownsville;Work at Home;2019;Percent;0,02532;316
+Bushwick;Bicycle;2019;Percent;0,02457;304
+Bushwick;Carpool, Taxi, Other;2019;Percent;0,02626;304
+Bushwick;Driving Alone;2019;Percent;0,13164;304
+Bushwick;Public Transit;2019;Percent;0,69702;304
+Bushwick;Walking;2019;Percent;0,07894;304
+Bushwick;Work at Home;2019;Percent;0,04159;304
+Canarsie;Bicycle;2019;Percent;0,00074;318
+Canarsie;Carpool, Taxi, Other;2019;Percent;0,09278;318
+Canarsie;Driving Alone;2019;Percent;0,36797;318
+Canarsie;Public Transit;2019;Percent;0,47459;318
+Canarsie;Walking;2019;Percent;0,02652;318
+Canarsie;Work at Home;2019;Percent;0,0374;318
+Central Harlem;Carpool, Taxi, Other;2019;Percent;0,03812;110
+Central Harlem;Bicycle;2019;Percent;0,00962;110
+Central Harlem;Work at Home;2019;Percent;0,06835;110
+Central Harlem;Walking;2019;Percent;0,10947;110
+Central Harlem;Public Transit;2019;Percent;0,7011;110
+Central Harlem;Driving Alone;2019;Percent;0,07334;110
+Chelsea/Clinton;Bicycle;2019;Percent;0,02359;104
+Chelsea/Clinton;Carpool, Taxi, Other;2019;Percent;0,06858;104
+Chelsea/Clinton;Driving Alone;2019;Percent;0,0313;104
+Chelsea/Clinton;Public Transit;2019;Percent;0,49792;104
+Chelsea/Clinton;Walking;2019;Percent;0,3102;104
+Chelsea/Clinton;Work at Home;2019;Percent;0,06841;104
+Concourse/Highbridge;Bicycle;2019;Percent;0;204
+Concourse/Highbridge;Carpool, Taxi, Other;2019;Percent;0,03758;204
+Concourse/Highbridge;Driving Alone;2019;Percent;0,12455;204
+Concourse/Highbridge;Public Transit;2019;Percent;0,72065;204
+Concourse/Highbridge;Walking;2019;Percent;0,09806;204
+Concourse/Highbridge;Work at Home;2019;Percent;0,01916;204
+Coney Island;Work at Home;2019;Percent;0,04342;313
+Coney Island;Walking;2019;Percent;0,1358;313
+Coney Island;Public Transit;2019;Percent;0,52303;313
+Coney Island;Driving Alone;2019;Percent;0,23153;313
+Coney Island;Carpool, Taxi, Other;2019;Percent;0,0484;313
+Coney Island;Bicycle;2019;Percent;0,01783;313
+Crown Heights North;Bicycle;2019;Percent;0,03136;308
+Crown Heights North;Carpool, Taxi, Other;2019;Percent;0,03252;308
+Crown Heights North;Driving Alone;2019;Percent;0,10586;308
+Crown Heights North;Public Transit;2019;Percent;0,726;308
+Crown Heights North;Walking;2019;Percent;0,04915;308
+Crown Heights North;Work at Home;2019;Percent;0,05512;308
+Crown Heights South;Work at Home;2019;Percent;0,05252;309
+Crown Heights South;Walking;2019;Percent;0,05808;309
+Crown Heights South;Public Transit;2019;Percent;0,75069;309
+Crown Heights South;Driving Alone;2019;Percent;0,10013;309
+Crown Heights South;Carpool, Taxi, Other;2019;Percent;0,0289;309
+Crown Heights South;Bicycle;2019;Percent;0,00968;309
+East Flatbush;Work at Home;2019;Percent;0,02509;317
+East Flatbush;Walking;2019;Percent;0,03935;317
+East Flatbush;Public Transit;2019;Percent;0,66622;317
+East Flatbush;Driving Alone;2019;Percent;0,19937;317
+East Flatbush;Carpool, Taxi, Other;2019;Percent;0,06727;317
+East Flatbush;Bicycle;2019;Percent;0,00271;317
+East New York;Work at Home;2019;Percent;0,02898;305
+East New York;Walking;2019;Percent;0,05539;305
+East New York;Public Transit;2019;Percent;0,61335;305
+East New York;Driving Alone;2019;Percent;0,24365;305
+East New York;Carpool, Taxi, Other;2019;Percent;0,05828;305
+East New York;Bicycle;2019;Percent;0,00036;305
+East Tremont;Bicycle;2019;Percent;0,00345;206
+East Tremont;Carpool, Taxi, Other;2019;Percent;0,06142;206
+East Tremont;Driving Alone;2019;Percent;0,16388;206
+East Tremont;Public Transit;2019;Percent;0,63982;206
+East Tremont;Walking;2019;Percent;0,11378;206
+East Tremont;Work at Home;2019;Percent;0,01765;206
+Elmhurst/Corona;Bicycle;2019;Percent;0,00888;404
+Elmhurst/Corona;Carpool, Taxi, Other;2019;Percent;0,05359;404
+Elmhurst/Corona;Driving Alone;2019;Percent;0,14377;404
+Elmhurst/Corona;Public Transit;2019;Percent;0,71151;404
+Elmhurst/Corona;Walking;2019;Percent;0,06398;404
+Elmhurst/Corona;Work at Home;2019;Percent;0,01827;404
+Flatbush/Midwood;Bicycle;2019;Percent;0,01082;314
+Flatbush/Midwood;Carpool, Taxi, Other;2019;Percent;0,05905;314
+Flatbush/Midwood;Driving Alone;2019;Percent;0,19453;314
+Flatbush/Midwood;Public Transit;2019;Percent;0,61096;314
+Flatbush/Midwood;Walking;2019;Percent;0,08244;314
+Flatbush/Midwood;Work at Home;2019;Percent;0,04221;314
+Flushing;Work at Home;2019;Percent;0,02487;407
+Flushing;Walking;2019;Percent;0,11308;407
+Flushing;Public Transit;2019;Percent;0,36814;407
+Flushing;Driving Alone;2019;Percent;0,37855;407
+Flushing;Carpool, Taxi, Other;2019;Percent;0,11478;407
+Flushing;Bicycle;2019;Percent;0,00059;407
+Fort Greene/Brooklyn Hts;Bicycle;2019;Percent;0,02633;302
+Fort Greene/Brooklyn Hts;Carpool, Taxi, Other;2019;Percent;0,02949;302
+Fort Greene/Brooklyn Hts;Driving Alone;2019;Percent;0,08291;302
+Fort Greene/Brooklyn Hts;Public Transit;2019;Percent;0,7093;302
+Fort Greene/Brooklyn Hts;Walking;2019;Percent;0,09935;302
+Fort Greene/Brooklyn Hts;Work at Home;2019;Percent;0,05263;302
+Fresh Meadows/Briarwood;Bicycle;2019;Percent;0;408
+Fresh Meadows/Briarwood;Carpool, Taxi, Other;2019;Percent;0,08073;408
+Fresh Meadows/Briarwood;Driving Alone;2019;Percent;0,38358;408
+Fresh Meadows/Briarwood;Public Transit;2019;Percent;0,39051;408
+Fresh Meadows/Briarwood;Walking;2019;Percent;0,09022;408
+Fresh Meadows/Briarwood;Work at Home;2019;Percent;0,05497;408
+Greenwich Village;Bicycle;2019;Percent;0,02558;102
+Greenwich Village;Carpool, Taxi, Other;2019;Percent;0,05346;102
+Greenwich Village;Driving Alone;2019;Percent;0,052;102
+Greenwich Village;Public Transit;2019;Percent;0,53048;102
+Greenwich Village;Walking;2019;Percent;0,25293;102
+Greenwich Village;Work at Home;2019;Percent;0,08555;102
+Howard Beach;Bicycle;2019;Percent;0,00299;410
+Howard Beach;Carpool, Taxi, Other;2019;Percent;0,07964;410
+Howard Beach;Driving Alone;2019;Percent;0,43362;410
+Howard Beach;Public Transit;2019;Percent;0,43509;410
+Howard Beach;Walking;2019;Percent;0,0293;410
+Howard Beach;Work at Home;2019;Percent;0,01936;410
+Hunts Point;Bicycle;2019;Percent;0,00332;202
+Hunts Point;Carpool, Taxi, Other;2019;Percent;0,03929;202
+Hunts Point;Driving Alone;2019;Percent;0,09825;202
+Hunts Point;Public Transit;2019;Percent;0,72155;202
+Hunts Point;Walking;2019;Percent;0,11646;202
+Hunts Point;Work at Home;2019;Percent;0,02114;202
+Jackson Heights;Work at Home;2019;Percent;0,03455;403
+Jackson Heights;Walking;2019;Percent;0,10646;403
+Jackson Heights;Public Transit;2019;Percent;0,6624;403
+Jackson Heights;Driving Alone;2019;Percent;0,13255;403
+Jackson Heights;Carpool, Taxi, Other;2019;Percent;0,05013;403
+Jackson Heights;Bicycle;2019;Percent;0,0139;403
+Jamaica/St. Albans;Bicycle;2019;Percent;0,00084;412
+Jamaica/St. Albans;Carpool, Taxi, Other;2019;Percent;0,06327;412
+Jamaica/St. Albans;Driving Alone;2019;Percent;0,39316;412
+Jamaica/St. Albans;Public Transit;2019;Percent;0,47895;412
+Jamaica/St. Albans;Walking;2019;Percent;0,03991;412
+Jamaica/St. Albans;Work at Home;2019;Percent;0,02386;412
+Lower East Side;Work at Home;2019;Percent;0,07255;103
+Lower East Side;Walking;2019;Percent;0,28454;103
+Lower East Side;Public Transit;2019;Percent;0,52771;103
+Lower East Side;Driving Alone;2019;Percent;0,02914;103
+Lower East Side;Carpool, Taxi, Other;2019;Percent;0,03768;103
+Lower East Side;Bicycle;2019;Percent;0,04837;103
+Midtown Business District;Work at Home;2019;Percent;0,06841;105
+Midtown Business District;Walking;2019;Percent;0,3102;105
+Midtown Business District;Public Transit;2019;Percent;0,49792;105
+Midtown Business District;Driving Alone;2019;Percent;0,0313;105
+Midtown Business District;Carpool, Taxi, Other;2019;Percent;0,06858;105
+Midtown Business District;Bicycle;2019;Percent;0,02359;105
+Morrisania;Work at Home;2019;Percent;0,01765;203
+Morrisania;Walking;2019;Percent;0,11378;203
+Morrisania;Public Transit;2019;Percent;0,63982;203
+Morrisania;Driving Alone;2019;Percent;0,16388;203
+Morrisania;Carpool, Taxi, Other;2019;Percent;0,06142;203
+Morrisania;Bicycle;2019;Percent;0,00345;203
+Mott Haven;Work at Home;2019;Percent;0,02114;201
+Mott Haven;Walking;2019;Percent;0,11646;201
+Mott Haven;Public Transit;2019;Percent;0,72155;201
+Mott Haven;Driving Alone;2019;Percent;0,09825;201
+Mott Haven;Carpool, Taxi, Other;2019;Percent;0,03929;201
+Mott Haven;Bicycle;2019;Percent;0,00332;201
+Murray Hill/Stuyvesant;Bicycle;2019;Percent;0,03514;106
+Murray Hill/Stuyvesant;Carpool, Taxi, Other;2019;Percent;0,07794;106
+Murray Hill/Stuyvesant;Driving Alone;2019;Percent;0,0586;106
+Murray Hill/Stuyvesant;Public Transit;2019;Percent;0,37745;106
+Murray Hill/Stuyvesant;Walking;2019;Percent;0,3783;106
+Murray Hill/Stuyvesant;Work at Home;2019;Percent;0,07257;106
+Park Slope;Bicycle;2019;Percent;0,04342;306
+Park Slope;Carpool, Taxi, Other;2019;Percent;0,0244;306
+Park Slope;Driving Alone;2019;Percent;0,09056;306
+Park Slope;Public Transit;2019;Percent;0,66202;306
+Park Slope;Walking;2019;Percent;0,0897;306
+Park Slope;Work at Home;2019;Percent;0,08991;306
+Pelham Parkway;Work at Home;2019;Percent;0,0343;211
+Pelham Parkway;Walking;2019;Percent;0,05995;211
+Pelham Parkway;Public Transit;2019;Percent;0,54414;211
+Pelham Parkway;Driving Alone;2019;Percent;0,32002;211
+Pelham Parkway;Carpool, Taxi, Other;2019;Percent;0,03592;211
+Pelham Parkway;Bicycle;2019;Percent;0,00567;211
+Queens Village;Work at Home;2019;Percent;0,02798;413
+Queens Village;Walking;2019;Percent;0,01189;413
+Queens Village;Public Transit;2019;Percent;0,33455;413
+Queens Village;Driving Alone;2019;Percent;0,55101;413
+Queens Village;Carpool, Taxi, Other;2019;Percent;0,07254;413
+Queens Village;Bicycle;2019;Percent;0,00202;413
+Rego Park/Forest Hills;Bicycle;2019;Percent;0,0017;406
+Rego Park/Forest Hills;Carpool, Taxi, Other;2019;Percent;0,06587;406
+Rego Park/Forest Hills;Driving Alone;2019;Percent;0,24732;406
+Rego Park/Forest Hills;Public Transit;2019;Percent;0,59898;406
+Rego Park/Forest Hills;Walking;2019;Percent;0,05658;406
+Rego Park/Forest Hills;Work at Home;2019;Percent;0,02956;406
+Ridgewood/Glendale;Work at Home;2019;Percent;0,03364;405
+Ridgewood/Glendale;Walking;2019;Percent;0,05571;405
+Ridgewood/Glendale;Public Transit;2019;Percent;0,49464;405
+Ridgewood/Glendale;Driving Alone;2019;Percent;0,34667;405
+Ridgewood/Glendale;Carpool, Taxi, Other;2019;Percent;0,05763;405
+Ridgewood/Glendale;Bicycle;2019;Percent;0,0117;405
+Riverdale;Bicycle;2019;Percent;0,00241;208
+Riverdale;Carpool, Taxi, Other;2019;Percent;0,06376;208
+Riverdale;Driving Alone;2019;Percent;0,2414;208
+Riverdale;Public Transit;2019;Percent;0,56403;208
+Riverdale;Walking;2019;Percent;0,09458;208
+Riverdale;Work at Home;2019;Percent;0,03382;208
+Sheepshead Bay;Work at Home;2019;Percent;0,05247;315
+Sheepshead Bay;Walking;2019;Percent;0,0744;315
+Sheepshead Bay;Public Transit;2019;Percent;0,46745;315
+Sheepshead Bay;Driving Alone;2019;Percent;0,32189;315
+Sheepshead Bay;Carpool, Taxi, Other;2019;Percent;0,07164;315
+Sheepshead Bay;Bicycle;2019;Percent;0,01215;315
+South Beach;Bicycle;2019;Percent;0;502
+South Beach;Carpool, Taxi, Other;2019;Percent;0,11642;502
+South Beach;Driving Alone;2019;Percent;0,51232;502
+South Beach;Public Transit;2019;Percent;0,27925;502
+South Beach;Walking;2019;Percent;0,02329;502
+South Beach;Work at Home;2019;Percent;0,06872;502
+St. George;Work at Home;2019;Percent;0,01914;501
+St. George;Walking;2019;Percent;0,03921;501
+St. George;Public Transit;2019;Percent;0,36212;501
+St. George;Driving Alone;2019;Percent;0,48578;501
+St. George;Carpool, Taxi, Other;2019;Percent;0,09375;501
+St. George;Bicycle;2019;Percent;0;501
+Sunnyside/Woodside;Bicycle;2019;Percent;0,02328;402
+Sunnyside/Woodside;Carpool, Taxi, Other;2019;Percent;0,06845;402
+Sunnyside/Woodside;Driving Alone;2019;Percent;0,13166;402
+Sunnyside/Woodside;Public Transit;2019;Percent;0,66117;402
+Sunnyside/Woodside;Walking;2019;Percent;0,06391;402
+Sunnyside/Woodside;Work at Home;2019;Percent;0,05152;402
+Sunset Park;Work at Home;2019;Percent;0,04808;307
+Sunset Park;Walking;2019;Percent;0,12515;307
+Sunset Park;Public Transit;2019;Percent;0,58402;307
+Sunset Park;Driving Alone;2019;Percent;0,12177;307
+Sunset Park;Carpool, Taxi, Other;2019;Percent;0,09843;307
+Sunset Park;Bicycle;2019;Percent;0,02255;307
+The Rockaways;Bicycle;2019;Percent;0,01158;414
+The Rockaways;Carpool, Taxi, Other;2019;Percent;0,09011;414
+The Rockaways;Driving Alone;2019;Percent;0,49719;414
+The Rockaways;Public Transit;2019;Percent;0,34799;414
+The Rockaways;Walking;2019;Percent;0,03917;414
+The Rockaways;Work at Home;2019;Percent;0,01396;414
+Throgs Neck;Bicycle;2019;Percent;0,01043;210
+Throgs Neck;Carpool, Taxi, Other;2019;Percent;0,06117;210
+Throgs Neck;Driving Alone;2019;Percent;0,44474;210
+Throgs Neck;Public Transit;2019;Percent;0,40639;210
+Throgs Neck;Walking;2019;Percent;0,05903;210
+Throgs Neck;Work at Home;2019;Percent;0,01825;210
+Tottenville;Work at Home;2019;Percent;0,02286;503
+Tottenville;Walking;2019;Percent;0,01218;503
+Tottenville;Public Transit;2019;Percent;0,26185;503
+Tottenville;Driving Alone;2019;Percent;0,62521;503
+Tottenville;Carpool, Taxi, Other;2019;Percent;0,07664;503
+Tottenville;Bicycle;2019;Percent;0,00126;503
+Unionport/Soundview;Work at Home;2019;Percent;0,02672;209
+Unionport/Soundview;Walking;2019;Percent;0,056;209
+Unionport/Soundview;Public Transit;2019;Percent;0,60357;209
+Unionport/Soundview;Driving Alone;2019;Percent;0,25301;209
+Unionport/Soundview;Carpool, Taxi, Other;2019;Percent;0,05726;209
+Unionport/Soundview;Bicycle;2019;Percent;0,00344;209
+University Heights;Work at Home;2019;Percent;0,03376;205
+University Heights;Walking;2019;Percent;0,06971;205
+University Heights;Public Transit;2019;Percent;0,73283;205
+University Heights;Driving Alone;2019;Percent;0,11277;205
+University Heights;Carpool, Taxi, Other;2019;Percent;0,05092;205
+University Heights;Bicycle;2019;Percent;0;205
+Upper East Side;Bicycle;2019;Percent;0,01279;108
+Upper East Side;Carpool, Taxi, Other;2019;Percent;0,0741;108
+Upper East Side;Driving Alone;2019;Percent;0,06544;108
+Upper East Side;Public Transit;2019;Percent;0,56624;108
+Upper East Side;Walking;2019;Percent;0,21233;108
+Upper East Side;Work at Home;2019;Percent;0,0691;108
+Upper West Side;Work at Home;2019;Percent;0,10193;107
+Upper West Side;Walking;2019;Percent;0,13166;107
+Upper West Side;Public Transit;2019;Percent;0,61106;107
+Upper West Side;Driving Alone;2019;Percent;0,0696;107
+Upper West Side;Carpool, Taxi, Other;2019;Percent;0,06097;107
+Upper West Side;Bicycle;2019;Percent;0,02477;107
+Washington Heights;Bicycle;2019;Percent;0,00327;112
+Washington Heights;Carpool, Taxi, Other;2019;Percent;0,02928;112
+Washington Heights;Driving Alone;2019;Percent;0,08834;112
+Washington Heights;Public Transit;2019;Percent;0,70533;112
+Washington Heights;Walking;2019;Percent;0,12159;112
+Washington Heights;Work at Home;2019;Percent;0,05219;112
+Williamsbridge;Bicycle;2019;Percent;0,00319;212
+Williamsbridge;Carpool, Taxi, Other;2019;Percent;0,10747;212
+Williamsbridge;Driving Alone;2019;Percent;0,37161;212
+Williamsbridge;Public Transit;2019;Percent;0,47261;212
+Williamsbridge;Walking;2019;Percent;0,02474;212
+Williamsbridge;Work at Home;2019;Percent;0,02037;212
+Williamsburg/Greenpoint;Work at Home;2019;Percent;0,06263;301
+Williamsburg/Greenpoint;Walking;2019;Percent;0,11956;301
+Williamsburg/Greenpoint;Public Transit;2019;Percent;0,63979;301
+Williamsburg/Greenpoint;Driving Alone;2019;Percent;0,09423;301
+Williamsburg/Greenpoint;Carpool, Taxi, Other;2019;Percent;0,03855;301
+Williamsburg/Greenpoint;Bicycle;2019;Percent;0,04524;301
+Woodhaven;Work at Home;2019;Percent;0,03263;409
+Woodhaven;Walking;2019;Percent;0,05139;409
+Woodhaven;Public Transit;2019;Percent;0,52137;409
+Woodhaven;Driving Alone;2019;Percent;0,31937;409
+Woodhaven;Carpool, Taxi, Other;2019;Percent;0,07136;409
+Woodhaven;Bicycle;2019;Percent;0,00388;409
+Astoria;Work at Home;2021;Percent;0,31688;401
+Astoria;Bicycle;2021;Percent;0,01874;401
+Astoria;Carpool, Taxi, Other;2021;Percent;0,04974;401
+Astoria;Walking;2021;Percent;0,08328;401
+Astoria;Public Transit;2021;Percent;0,38328;401
+Astoria;Driving Alone;2021;Percent;0,14809;401
+Battery Park/Tribeca;Public Transit;2021;Percent;0,27298;101
+Battery Park/Tribeca;Driving Alone;2021;Percent;0,03517;101
+Battery Park/Tribeca;Walking;2021;Percent;0,20327;101
+Battery Park/Tribeca;Carpool, Taxi, Other;2021;Percent;0,02933;101
+Battery Park/Tribeca;Work at Home;2021;Percent;0,43402;101
+Battery Park/Tribeca;Bicycle;2021;Percent;0,02523;101
+Bay Ridge;Work at Home;2021;Percent;0,2969;310
+Bay Ridge;Bicycle;2021;Percent;0,01828;310
+Bay Ridge;Carpool, Taxi, Other;2021;Percent;0,0755;310
+Bay Ridge;Walking;2021;Percent;0,06412;310
+Bay Ridge;Public Transit;2021;Percent;0,35394;310
+Bay Ridge;Driving Alone;2021;Percent;0,19127;310
+Bayside;Work at Home;2021;Percent;0,22552;411
+Bayside;Bicycle;2021;Percent;0,00087;411
+Bayside;Carpool, Taxi, Other;2021;Percent;0,13068;411
+Bayside;Walking;2021;Percent;0,03973;411
+Bayside;Public Transit;2021;Percent;0,15869;411
+Bayside;Driving Alone;2021;Percent;0,44452;411
+Bedford Park;Public Transit;2021;Percent;0,54399;207
+Bedford Park;Driving Alone;2021;Percent;0,17389;207
+Bedford Park;Walking;2021;Percent;0,07618;207
+Bedford Park;Work at Home;2021;Percent;0,12306;207
+Bedford Park;Carpool, Taxi, Other;2021;Percent;0,07407;207
+Bedford Park;Bicycle;2021;Percent;0,0088;207
+Bedford Stuyvesant;Public Transit;2021;Percent;0,32867;303
+Bedford Stuyvesant;Walking;2021;Percent;0,08716;303
+Bedford Stuyvesant;Driving Alone;2021;Percent;0,13012;303
+Bedford Stuyvesant;Carpool, Taxi, Other;2021;Percent;0,04255;303
+Bedford Stuyvesant;Bicycle;2021;Percent;0,05146;303
+Bedford Stuyvesant;Work at Home;2021;Percent;0,36004;303
+Bensonhurst;Driving Alone;2021;Percent;0,22409;311
+Bensonhurst;Public Transit;2021;Percent;0,40859;311
+Bensonhurst;Walking;2021;Percent;0,11813;311
+Bensonhurst;Carpool, Taxi, Other;2021;Percent;0,07059;311
+Bensonhurst;Bicycle;2021;Percent;0,01244;311
+Bensonhurst;Work at Home;2021;Percent;0,16617;311
+Borough Park;Work at Home;2021;Percent;0,20404;312
+Borough Park;Bicycle;2021;Percent;0,03153;312
+Borough Park;Carpool, Taxi, Other;2021;Percent;0,1053;312
+Borough Park;Walking;2021;Percent;0,1763;312
+Borough Park;Public Transit;2021;Percent;0,24967;312
+Borough Park;Driving Alone;2021;Percent;0,23317;312
+Brownsville;Work at Home;2021;Percent;0,14597;316
+Brownsville;Bicycle;2021;Percent;0,00284;316
+Brownsville;Carpool, Taxi, Other;2021;Percent;0,06185;316
+Brownsville;Walking;2021;Percent;0,04764;316
+Brownsville;Driving Alone;2021;Percent;0,15551;316
+Brownsville;Public Transit;2021;Percent;0,5862;316
+Bushwick;Work at Home;2021;Percent;0,27076;304
+Bushwick;Bicycle;2021;Percent;0,02689;304
+Bushwick;Carpool, Taxi, Other;2021;Percent;0,05714;304
+Bushwick;Walking;2021;Percent;0,07016;304
+Bushwick;Driving Alone;2021;Percent;0,11024;304
+Bushwick;Public Transit;2021;Percent;0,46481;304
+Canarsie;Work at Home;2021;Percent;0,13762;318
+Canarsie;Bicycle;2021;Percent;0,00599;318
+Canarsie;Carpool, Taxi, Other;2021;Percent;0,07575;318
+Canarsie;Walking;2021;Percent;0,04179;318
+Canarsie;Public Transit;2021;Percent;0,35991;318
+Canarsie;Driving Alone;2021;Percent;0,37894;318
+Central Harlem;Bicycle;2021;Percent;0,01774;110
+Central Harlem;Work at Home;2021;Percent;0,31152;110
+Central Harlem;Carpool, Taxi, Other;2021;Percent;0,05023;110
+Central Harlem;Walking;2021;Percent;0,0764;110
+Central Harlem;Driving Alone;2021;Percent;0,04789;110
+Central Harlem;Public Transit;2021;Percent;0,49622;110
+Chelsea/Clinton;Bicycle;2021;Percent;0,04186;104
+Chelsea/Clinton;Work at Home;2021;Percent;0,35695;104
+Chelsea/Clinton;Carpool, Taxi, Other;2021;Percent;0,0458;104
+Chelsea/Clinton;Walking;2021;Percent;0,20373;104
+Chelsea/Clinton;Driving Alone;2021;Percent;0,05455;104
+Chelsea/Clinton;Public Transit;2021;Percent;0,29711;104
+Concourse/Highbridge;Public Transit;2021;Percent;0,59381;204
+Concourse/Highbridge;Driving Alone;2021;Percent;0,13804;204
+Concourse/Highbridge;Walking;2021;Percent;0,06892;204
+Concourse/Highbridge;Work at Home;2021;Percent;0,09249;204
+Concourse/Highbridge;Carpool, Taxi, Other;2021;Percent;0,10322;204
+Concourse/Highbridge;Bicycle;2021;Percent;0,00352;204
+Coney Island;Driving Alone;2021;Percent;0,21373;313
+Coney Island;Public Transit;2021;Percent;0,36508;313
+Coney Island;Walking;2021;Percent;0,13866;313
+Coney Island;Carpool, Taxi, Other;2021;Percent;0,07354;313
+Coney Island;Bicycle;2021;Percent;0,00824;313
+Coney Island;Work at Home;2021;Percent;0,20075;313
+Crown Heights North;Work at Home;2021;Percent;0,40839;308
+Crown Heights North;Bicycle;2021;Percent;0,02793;308
+Crown Heights North;Carpool, Taxi, Other;2021;Percent;0,02141;308
+Crown Heights North;Walking;2021;Percent;0,04995;308
+Crown Heights North;Driving Alone;2021;Percent;0,12195;308
+Crown Heights North;Public Transit;2021;Percent;0,37037;308
+Crown Heights South;Public Transit;2021;Percent;0,40793;309
+Crown Heights South;Walking;2021;Percent;0,08389;309
+Crown Heights South;Driving Alone;2021;Percent;0,13883;309
+Crown Heights South;Carpool, Taxi, Other;2021;Percent;0,07126;309
+Crown Heights South;Bicycle;2021;Percent;0,03007;309
+Crown Heights South;Work at Home;2021;Percent;0,26803;309
+East Flatbush;Public Transit;2021;Percent;0,52594;317
+East Flatbush;Walking;2021;Percent;0,04249;317
+East Flatbush;Driving Alone;2021;Percent;0,22069;317
+East Flatbush;Carpool, Taxi, Other;2021;Percent;0,08896;317
+East Flatbush;Bicycle;2021;Percent;0,00705;317
+East Flatbush;Work at Home;2021;Percent;0,11487;317
+East Harlem;Public Transit;2021;Percent;0,48439;111
+East Harlem;Driving Alone;2021;Percent;0,08943;111
+East Harlem;Walking;2021;Percent;0,11871;111
+East Harlem;Carpool, Taxi, Other;2021;Percent;0,05493;111
+East Harlem;Work at Home;2021;Percent;0,2368;111
+East Harlem;Bicycle;2021;Percent;0,01574;111
+East New York;Driving Alone;2021;Percent;0,25293;305
+East New York;Public Transit;2021;Percent;0,4842;305
+East New York;Walking;2021;Percent;0,03249;305
+East New York;Carpool, Taxi, Other;2021;Percent;0,06854;305
+East New York;Bicycle;2021;Percent;0,00352;305
+East New York;Work at Home;2021;Percent;0,15831;305
+East Tremont;Bicycle;2021;Percent;0,01134;206
+East Tremont;Carpool, Taxi, Other;2021;Percent;0,07291;206
+East Tremont;Work at Home;2021;Percent;0,08087;206
+East Tremont;Walking;2021;Percent;0,08565;206
+East Tremont;Driving Alone;2021;Percent;0,23209;206
+East Tremont;Public Transit;2021;Percent;0,51714;206
+Elmhurst/Corona;Public Transit;2021;Percent;0,62833;404
+Elmhurst/Corona;Walking;2021;Percent;0,09843;404
+Elmhurst/Corona;Driving Alone;2021;Percent;0,13201;404
+Elmhurst/Corona;Carpool, Taxi, Other;2021;Percent;0,06664;404
+Elmhurst/Corona;Bicycle;2021;Percent;0,00555;404
+Elmhurst/Corona;Work at Home;2021;Percent;0,06903;404
+Flatbush/Midwood;Work at Home;2021;Percent;0,24172;314
+Flatbush/Midwood;Bicycle;2021;Percent;0,01231;314
+Flatbush/Midwood;Carpool, Taxi, Other;2021;Percent;0,09106;314
+Flatbush/Midwood;Walking;2021;Percent;0,07211;314
+Flatbush/Midwood;Public Transit;2021;Percent;0,38896;314
+Flatbush/Midwood;Driving Alone;2021;Percent;0,19384;314
+Flushing;Work at Home;2021;Percent;0,17421;407
+Flushing;Bicycle;2021;Percent;0,01498;407
+Flushing;Carpool, Taxi, Other;2021;Percent;0,11865;407
+Flushing;Walking;2021;Percent;0,08914;407
+Flushing;Public Transit;2021;Percent;0,23917;407
+Flushing;Driving Alone;2021;Percent;0,36385;407
+Fort Greene/Brooklyn Hts;Work at Home;2021;Percent;0,46324;302
+Fort Greene/Brooklyn Hts;Bicycle;2021;Percent;0,03607;302
+Fort Greene/Brooklyn Hts;Carpool, Taxi, Other;2021;Percent;0,03209;302
+Fort Greene/Brooklyn Hts;Walking;2021;Percent;0,10457;302
+Fort Greene/Brooklyn Hts;Driving Alone;2021;Percent;0,08806;302
+Fort Greene/Brooklyn Hts;Public Transit;2021;Percent;0,27596;302
+Fresh Meadows/Briarwood;Public Transit;2021;Percent;0,24683;408
+Fresh Meadows/Briarwood;Driving Alone;2021;Percent;0,39327;408
+Fresh Meadows/Briarwood;Carpool, Taxi, Other;2021;Percent;0,0984;408
+Fresh Meadows/Briarwood;Walking;2021;Percent;0,0792;408
+Fresh Meadows/Briarwood;Bicycle;2021;Percent;0;408
+Fresh Meadows/Briarwood;Work at Home;2021;Percent;0,1823;408
+Greenwich Village;Bicycle;2021;Percent;0,02523;102
+Greenwich Village;Work at Home;2021;Percent;0,43402;102
+Greenwich Village;Carpool, Taxi, Other;2021;Percent;0,02933;102
+Greenwich Village;Walking;2021;Percent;0,20327;102
+Greenwich Village;Driving Alone;2021;Percent;0,03517;102
+Greenwich Village;Public Transit;2021;Percent;0,27298;102
+Howard Beach;Public Transit;2021;Percent;0,26912;410
+Howard Beach;Walking;2021;Percent;0,05216;410
+Howard Beach;Driving Alone;2021;Percent;0,46247;410
+Howard Beach;Carpool, Taxi, Other;2021;Percent;0,09287;410
+Howard Beach;Bicycle;2021;Percent;0;410
+Howard Beach;Work at Home;2021;Percent;0,12337;410
+Hunts Point;Public Transit;2021;Percent;0,57903;202
+Hunts Point;Driving Alone;2021;Percent;0,12358;202
+Hunts Point;Walking;2021;Percent;0,10841;202
+Hunts Point;Carpool, Taxi, Other;2021;Percent;0,08104;202
+Hunts Point;Work at Home;2021;Percent;0,10297;202
+Hunts Point;Bicycle;2021;Percent;0,00498;202
+Jackson Heights;Work at Home;2021;Percent;0,1392;403
+Jackson Heights;Bicycle;2021;Percent;0,02311;403
+Jackson Heights;Carpool, Taxi, Other;2021;Percent;0,07056;403
+Jackson Heights;Walking;2021;Percent;0,07371;403
+Jackson Heights;Public Transit;2021;Percent;0,47647;403
+Jackson Heights;Driving Alone;2021;Percent;0,21696;403
+Jamaica/St. Albans;Public Transit;2021;Percent;0,41028;412
+Jamaica/St. Albans;Walking;2021;Percent;0,03264;412
+Jamaica/St. Albans;Driving Alone;2021;Percent;0,40123;412
+Jamaica/St. Albans;Carpool, Taxi, Other;2021;Percent;0,06856;412
+Jamaica/St. Albans;Bicycle;2021;Percent;0,00051;412
+Jamaica/St. Albans;Work at Home;2021;Percent;0,08678;412
+Lower East Side;Public Transit;2021;Percent;0,36432;103
+Lower East Side;Driving Alone;2021;Percent;0,04915;103
+Lower East Side;Walking;2021;Percent;0,22021;103
+Lower East Side;Carpool, Taxi, Other;2021;Percent;0,03125;103
+Lower East Side;Work at Home;2021;Percent;0,29731;103
+Lower East Side;Bicycle;2021;Percent;0,03777;103
+Manhattanville;Public Transit;2021;Percent;0,43237;109
+Manhattanville;Driving Alone;2021;Percent;0,06118;109
+Manhattanville;Walking;2021;Percent;0,1525;109
+Manhattanville;Carpool, Taxi, Other;2021;Percent;0,01327;109
+Manhattanville;Work at Home;2021;Percent;0,32457;109
+Manhattanville;Bicycle;2021;Percent;0,01611;109
+Midtown Business District;Public Transit;2021;Percent;0,29711;105
+Midtown Business District;Driving Alone;2021;Percent;0,05455;105
+Midtown Business District;Walking;2021;Percent;0,20373;105
+Midtown Business District;Carpool, Taxi, Other;2021;Percent;0,0458;105
+Midtown Business District;Work at Home;2021;Percent;0,35695;105
+Midtown Business District;Bicycle;2021;Percent;0,04186;105
+Morrisania;Bicycle;2021;Percent;0,01134;203
+Morrisania;Carpool, Taxi, Other;2021;Percent;0,07291;203
+Morrisania;Work at Home;2021;Percent;0,08087;203
+Morrisania;Walking;2021;Percent;0,08565;203
+Morrisania;Driving Alone;2021;Percent;0,23209;203
+Morrisania;Public Transit;2021;Percent;0,51714;203
+Mott Haven;Bicycle;2021;Percent;0,00498;201
+Mott Haven;Work at Home;2021;Percent;0,10297;201
+Mott Haven;Carpool, Taxi, Other;2021;Percent;0,08104;201
+Mott Haven;Walking;2021;Percent;0,10841;201
+Mott Haven;Driving Alone;2021;Percent;0,12358;201
+Mott Haven;Public Transit;2021;Percent;0,57903;201
+Murray Hill/Stuyvesant;Bicycle;2021;Percent;0,01446;106
+Murray Hill/Stuyvesant;Work at Home;2021;Percent;0,48098;106
+Murray Hill/Stuyvesant;Carpool, Taxi, Other;2021;Percent;0,04191;106
+Murray Hill/Stuyvesant;Walking;2021;Percent;0,20477;106
+Murray Hill/Stuyvesant;Driving Alone;2021;Percent;0,04175;106
+Murray Hill/Stuyvesant;Public Transit;2021;Percent;0,21614;106
+Park Slope;Work at Home;2021;Percent;0,53269;306
+Park Slope;Bicycle;2021;Percent;0,02419;306
+Park Slope;Carpool, Taxi, Other;2021;Percent;0,02659;306
+Park Slope;Walking;2021;Percent;0,08659;306
+Park Slope;Driving Alone;2021;Percent;0,05938;306
+Park Slope;Public Transit;2021;Percent;0,27057;306
+Pelham Parkway;Bicycle;2021;Percent;0,00601;211
+Pelham Parkway;Work at Home;2021;Percent;0,12501;211
+Pelham Parkway;Carpool, Taxi, Other;2021;Percent;0,07416;211
+Pelham Parkway;Walking;2021;Percent;0,05791;211
+Pelham Parkway;Driving Alone;2021;Percent;0,32318;211
+Pelham Parkway;Public Transit;2021;Percent;0,41374;211
+Queens Village;Work at Home;2021;Percent;0,15381;413
+Queens Village;Bicycle;2021;Percent;0,00053;413
+Queens Village;Carpool, Taxi, Other;2021;Percent;0,09742;413
+Queens Village;Walking;2021;Percent;0,00929;413
+Queens Village;Public Transit;2021;Percent;0,25553;413
+Queens Village;Driving Alone;2021;Percent;0,48342;413
+Rego Park/Forest Hills;Public Transit;2021;Percent;0,35637;406
+Rego Park/Forest Hills;Walking;2021;Percent;0,04959;406
+Rego Park/Forest Hills;Driving Alone;2021;Percent;0,22627;406
+Rego Park/Forest Hills;Carpool, Taxi, Other;2021;Percent;0,06058;406
+Rego Park/Forest Hills;Bicycle;2021;Percent;0,00746;406
+Rego Park/Forest Hills;Work at Home;2021;Percent;0,29972;406
+Ridgewood/Glendale;Work at Home;2021;Percent;0,18066;405
+Ridgewood/Glendale;Bicycle;2021;Percent;0,01711;405
+Ridgewood/Glendale;Carpool, Taxi, Other;2021;Percent;0,09973;405
+Ridgewood/Glendale;Driving Alone;2021;Percent;0,29703;405
+Ridgewood/Glendale;Walking;2021;Percent;0,05072;405
+Ridgewood/Glendale;Public Transit;2021;Percent;0,35474;405
+Riverdale;Bicycle;2021;Percent;0,00327;208
+Riverdale;Carpool, Taxi, Other;2021;Percent;0,05823;208
+Riverdale;Work at Home;2021;Percent;0,20724;208
+Riverdale;Walking;2021;Percent;0,09066;208
+Riverdale;Driving Alone;2021;Percent;0,25668;208
+Riverdale;Public Transit;2021;Percent;0,38392;208
+Sheepshead Bay;Driving Alone;2021;Percent;0,27113;315
+Sheepshead Bay;Public Transit;2021;Percent;0,3132;315
+Sheepshead Bay;Walking;2021;Percent;0,10446;315
+Sheepshead Bay;Carpool, Taxi, Other;2021;Percent;0,08115;315
+Sheepshead Bay;Bicycle;2021;Percent;0,01323;315
+Sheepshead Bay;Work at Home;2021;Percent;0,21683;315
+South Beach;Work at Home;2021;Percent;0,19392;502
+South Beach;Bicycle;2021;Percent;0,00053;502
+South Beach;Carpool, Taxi, Other;2021;Percent;0,09957;502
+South Beach;Walking;2021;Percent;0,01366;502
+South Beach;Driving Alone;2021;Percent;0,50772;502
+South Beach;Public Transit;2021;Percent;0,1846;502
+St. George;Public Transit;2021;Percent;0,21359;501
+St. George;Driving Alone;2021;Percent;0,43618;501
+St. George;Walking;2021;Percent;0,04048;501
+St. George;Carpool, Taxi, Other;2021;Percent;0,14283;501
+St. George;Bicycle;2021;Percent;0,00151;501
+St. George;Work at Home;2021;Percent;0,16541;501
+Sunnyside/Woodside;Public Transit;2021;Percent;0,44714;402
+Sunnyside/Woodside;Walking;2021;Percent;0,06076;402
+Sunnyside/Woodside;Driving Alone;2021;Percent;0,15276;402
+Sunnyside/Woodside;Carpool, Taxi, Other;2021;Percent;0,05963;402
+Sunnyside/Woodside;Bicycle;2021;Percent;0,01071;402
+Sunnyside/Woodside;Work at Home;2021;Percent;0,269;402
+Sunset Park;Driving Alone;2021;Percent;0,14548;307
+Sunset Park;Public Transit;2021;Percent;0,39054;307
+Sunset Park;Walking;2021;Percent;0,13235;307
+Sunset Park;Carpool, Taxi, Other;2021;Percent;0,07211;307
+Sunset Park;Bicycle;2021;Percent;0,02231;307
+Sunset Park;Work at Home;2021;Percent;0,23722;307
+The Rockaways;Public Transit;2021;Percent;0,23412;414
+The Rockaways;Walking;2021;Percent;0,08942;414
+The Rockaways;Driving Alone;2021;Percent;0,42138;414
+The Rockaways;Carpool, Taxi, Other;2021;Percent;0,09675;414
+The Rockaways;Bicycle;2021;Percent;0,011;414
+The Rockaways;Work at Home;2021;Percent;0,14732;414
+Tottenville;Public Transit;2021;Percent;0,16591;503
+Tottenville;Driving Alone;2021;Percent;0,57777;503
+Tottenville;Walking;2021;Percent;0,01801;503
+Tottenville;Carpool, Taxi, Other;2021;Percent;0,0883;503
+Tottenville;Bicycle;2021;Percent;0;503
+Tottenville;Work at Home;2021;Percent;0,15;503
+Unionport/Soundview;Public Transit;2021;Percent;0,48449;209
+Unionport/Soundview;Driving Alone;2021;Percent;0,27154;209
+Unionport/Soundview;Walking;2021;Percent;0,0833;209
+Unionport/Soundview;Work at Home;2021;Percent;0,10154;209
+Unionport/Soundview;Carpool, Taxi, Other;2021;Percent;0,05298;209
+Unionport/Soundview;Bicycle;2021;Percent;0,00615;209
+Upper East Side;Bicycle;2021;Percent;0,00617;108
+Upper East Side;Work at Home;2021;Percent;0,38316;108
+Upper East Side;Carpool, Taxi, Other;2021;Percent;0,07;108
+Upper East Side;Walking;2021;Percent;0,20871;108
+Upper East Side;Driving Alone;2021;Percent;0,05515;108
+Upper East Side;Public Transit;2021;Percent;0,2768;108
+Upper West Side;Public Transit;2021;Percent;0,29809;107
+Upper West Side;Driving Alone;2021;Percent;0,04653;107
+Upper West Side;Walking;2021;Percent;0,10989;107
+Upper West Side;Carpool, Taxi, Other;2021;Percent;0,03188;107
+Upper West Side;Work at Home;2021;Percent;0,45648;107
+Upper West Side;Bicycle;2021;Percent;0,05714;107
+Washington Heights;Bicycle;2021;Percent;0,02197;112
+Washington Heights;Work at Home;2021;Percent;0,24004;112
+Washington Heights;Carpool, Taxi, Other;2021;Percent;0,05833;112
+Washington Heights;Walking;2021;Percent;0,09356;112
+Washington Heights;Driving Alone;2021;Percent;0,09356;112
+Washington Heights;Public Transit;2021;Percent;0,49254;112
+Williamsbridge;Public Transit;2021;Percent;0,37373;212
+Williamsbridge;Driving Alone;2021;Percent;0,37218;212
+Williamsbridge;Walking;2021;Percent;0,04019;212
+Williamsbridge;Carpool, Taxi, Other;2021;Percent;0,09496;212
+Williamsbridge;Work at Home;2021;Percent;0,11392;212
+Williamsbridge;Bicycle;2021;Percent;0,00502;212
+Williamsburg/Greenpoint;Public Transit;2021;Percent;0,2778;301
+Williamsburg/Greenpoint;Driving Alone;2021;Percent;0,0844;301
+Williamsburg/Greenpoint;Walking;2021;Percent;0,08783;301
+Williamsburg/Greenpoint;Carpool, Taxi, Other;2021;Percent;0,04699;301
+Williamsburg/Greenpoint;Bicycle;2021;Percent;0,02819;301
+Williamsburg/Greenpoint;Work at Home;2021;Percent;0,47479;301
+Woodhaven;Work at Home;2021;Percent;0,13121;409
+Woodhaven;Bicycle;2021;Percent;0,00598;409
+Woodhaven;Carpool, Taxi, Other;2021;Percent;0,0929;409
+Woodhaven;Driving Alone;2021;Percent;0,29852;409
+Woodhaven;Walking;2021;Percent;0,05773;409
+Woodhaven;Public Transit;2021;Percent;0,41365;409
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
