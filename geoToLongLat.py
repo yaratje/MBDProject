@@ -11,5 +11,5 @@ gdf["Longitude"] = gdf.geometry.centroid.x
 gdf["Latitude"] = gdf.geometry.centroid.y
 
 # Save as a CSV to use in Tableau
-output_path = "output_with_lat_lon.csv"
+output_path = "Link/output_with_lat_lon.csv"
 gdf[["LocationID", "Longitude", "Latitude"]].to_csv(output_path, index=False)
